@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: mistral-bench
+Version: 0.3.0
+Summary: Mistral (Ollama/CPU) evaluator with EM-LLM compatible outputs and Arrow support.
+Author: You
+Requires-Python: >=3.9
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: datasets
+Requires-Dist: pyarrow
