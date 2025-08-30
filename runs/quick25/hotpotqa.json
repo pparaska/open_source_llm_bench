@@ -1,0 +1,377 @@
+[
+  {
+    "id": "fc6267db9ba02bbb251960231bc87251c581110e4e2b5f3f",
+    "pred": "Gates v. Collier was brought to court first.",
+    "answers": [
+      "Miller v. California"
+    ],
+    "all_classes": null,
+    "length": 2909,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.608
+  },
+  {
+    "id": "d542fcd45bbf5112eee9127f04ae060a887c8ef2050aa160",
+    "pred": "The author of the novel that the 1939 film \"The Real Glory\" is based on, which stars Gary Cooper and David Niven, is Charles L. Clifford.",
+    "answers": [
+      "Charles L. Clifford"
+    ],
+    "all_classes": null,
+    "length": 4239,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.03
+  },
+  {
+    "id": "cb9214532284b8202912b1b75592832daef0b109593185a0",
+    "pred": "The context does not provide information about Keith Nichol's football career before Michigan State.",
+    "answers": [
+      "Norman"
+    ],
+    "all_classes": null,
+    "length": 2000,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.553
+  },
+  {
+    "id": "105e7f4d337799315ddf870acc4ff2a62a1e6cdf489086cd",
+    "pred": "Jupiter",
+    "answers": [
+      "Sun"
+    ],
+    "all_classes": null,
+    "length": 3683,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.508
+  },
+  {
+    "id": "5ff08452b84748458e71d82a6d387599969311fd61cd8fd1",
+    "pred": "The question does not provide any context related to Atom Egoyan, so it's impossible to determine if his biggest commercial success was on stage or on film based on the provided context.",
+    "answers": [
+      "erotic thriller film"
+    ],
+    "all_classes": null,
+    "length": 1932,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.906
+  },
+  {
+    "id": "97b31d6d7a9137c220726ad51a6dca3e957e2c94ce5e65b8",
+    "pred": "Parliament (specifically David Faber)",
+    "answers": [
+      "Parliament"
+    ],
+    "all_classes": null,
+    "length": 3481,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.59
+  },
+  {
+    "id": "11a7ad9d646184c16480376226d58f1b2754b095563c8344",
+    "pred": "Kumbakonam",
+    "answers": [
+      "Tharangambadi"
+    ],
+    "all_classes": null,
+    "length": 3000,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.515
+  },
+  {
+    "id": "3dd1ade26fd583844dd2af051d61eb20856ccc8e23abae59",
+    "pred": "Pueraria is a flowering plant. [Citation: Passage 1, first sentence]",
+    "answers": [
+      "Pleiospilos"
+    ],
+    "all_classes": null,
+    "length": 1650,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.646
+  },
+  {
+    "id": "f039fe9cc81a0a312f9899beca2fe26b710bf8c3aa23a4d9",
+    "pred": "Russell D. Moore served as the President of The Ethics & Religious Liberty Commission (ERLC) in 2013. [Passage 1]",
+    "answers": [
+      "2013"
+    ],
+    "all_classes": null,
+    "length": 3566,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.906
+  },
+  {
+    "id": "a30caa5dafcc37835bfe4093f129017adf4c814e9016e10d",
+    "pred": "Noelle Scaggs was the female member of Fitz and The Tantrums for ten years.",
+    "answers": [
+      "The Rebirth"
+    ],
+    "all_classes": null,
+    "length": 3161,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.786
+  },
+  {
+    "id": "72feb2a8e5b92548a357bfc11e94050464f93f1ce286418c",
+    "pred": "Madonna was born on August 16, 1958.",
+    "answers": [
+      "October 13, 1980"
+    ],
+    "all_classes": null,
+    "length": 6179,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.926
+  },
+  {
+    "id": "77439b0a62b6de3a022b1d7a5678c1c00fa8d9af42fea1bf",
+    "pred": "Han Peekel, as the channel that aired \"The Greatest Event in Television History\" (not mentioned in the context) is NPO 1 Extra, and it was founded by Han Peekel.",
+    "answers": [
+      "Betty Cohen"
+    ],
+    "all_classes": null,
+    "length": 1210,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.826
+  },
+  {
+    "id": "21bc398556b5612bf0437043cd2800e943bab5929c4bccc5",
+    "pred": "Hush...Hush, Sweet Charlotte stars Bette Davis.",
+    "answers": [
+      "Mary Astor"
+    ],
+    "all_classes": null,
+    "length": 4646,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.725
+  },
+  {
+    "id": "e0998dbc2db68c7b18adff7fcc67081acc865c974b721312",
+    "pred": "The song \"Finally\" peaked at number five on the US Hot 100.",
+    "answers": [
+      "number five"
+    ],
+    "all_classes": null,
+    "length": 2673,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.69
+  },
+  {
+    "id": "139d2fcf8763003414ebd0187eb30b94930de13c4ab754a0",
+    "pred": "The forests of Mara and Mondrem may share similarities with regions where roe deer, gazelles, or antelopes are found, as these areas also belong to the genus Dama. [Passage 1, lines 2-3]",
+    "answers": [
+      "New Zealand, Canada, the United States, the Falkland Islands, and Peru."
+    ],
+    "all_classes": null,
+    "length": 617,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.951
+  },
+  {
+    "id": "c261ca6aeaf366815232e91db1ef4dc8408cec3750c38ee9",
+    "pred": "Sara Symington did not compete in the Sydney Olympics as she is not mentioned in the provided context.",
+    "answers": [
+      "2000 Summer Olympic Games"
+    ],
+    "all_classes": null,
+    "length": 2370,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.65
+  },
+  {
+    "id": "ab016faac478c4acc6e9ed3ed87f9e29dbed47fd946be244",
+    "pred": "José Daniel Valencia himself did not play for Valencia CF.",
+    "answers": [
+      "Claudio Javier López"
+    ],
+    "all_classes": null,
+    "length": 2130,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.503
+  },
+  {
+    "id": "cae319fad2385d30d79efac0fb61e58518fbdc0703be3b0f",
+    "pred": "Bobbie Kilberg, not an actor, was the president that Richard Darman did not work with as they were in office, as there is no mention of Richard Darman working with any president in the provided context.",
+    "answers": [
+      "George H. W. Bush"
+    ],
+    "all_classes": null,
+    "length": 5430,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.152
+  },
+  {
+    "id": "e4df9576e5cd102024e81baf94a43325335d0ba2d8892041",
+    "pred": "\"Honey to the Bee\" was featured on Billie's debut studio album, Honey to the B (1998).",
+    "answers": [
+      "\"Talk That Talk\""
+    ],
+    "all_classes": null,
+    "length": 1057,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.691
+  },
+  {
+    "id": "5e3362de0244d2b96c83958c4d3229151999292c369b0197",
+    "pred": "The context does not provide information about a British-American supergroup recording \"Nobody's Children\" in 1990.",
+    "answers": [
+      "Bob Dylan"
+    ],
+    "all_classes": null,
+    "length": 2315,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.748
+  },
+  {
+    "id": "fda38e0c47dcd2b4f1de4adefeb00ab431221c0ef9adeb31",
+    "pred": "The context does not provide information about the Friday night programming block that includes \"Whatever Happened to... Robot Jones?\"",
+    "answers": [
+      "Cartoon Cartoon Fridays"
+    ],
+    "all_classes": null,
+    "length": 3535,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.799
+  },
+  {
+    "id": "ef245cc27251f559f3cd900c11c7bf9f303eec3c4b346802",
+    "pred": "The context does not provide information about Kellyville Ridge's location.",
+    "answers": [
+      "on the Cumberland Plain"
+    ],
+    "all_classes": null,
+    "length": 2085,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.576
+  },
+  {
+    "id": "3a75aba6bc2496016339474aef28ffdc9dbebdc00ccc166b",
+    "pred": "Jones Beach Island",
+    "answers": [
+      "Long Island"
+    ],
+    "all_classes": null,
+    "length": 1666,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.415
+  },
+  {
+    "id": "3dc3db870ea907282d3160c597c4d618ae6ba2a6bdd712bb",
+    "pred": "The context does not provide information about South Park's eighteenth season or its guests.",
+    "answers": [
+      "PewDiePie"
+    ],
+    "all_classes": null,
+    "length": 1954,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.587
+  },
+  {
+    "id": "26a5366c80c3a569c474a3990f3383beb125d34149e8ed3e",
+    "pred": "The context does not provide information about Robbie Tucker or any series he might be associated with.",
+    "answers": [
+      "It's Always Sunny in Philadelphia"
+    ],
+    "all_classes": null,
+    "length": 3843,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.821
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "fc6267db9ba02bbb251960231bc87251c581110e4e2b5f3f",
+    "pred": "Gates v. Collier was brought to court first.",
+    "answers": [
+      "Miller v. California"
+    ],
+    "all_classes": null,
+    "length": 913,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.411
+  },
+  {
+    "id": "d542fcd45bbf5112eee9127f04ae060a887c8ef2050aa160",
+    "pred": "The actor who played Phileas Fogg in \"Around the World in 80 Days\" (not mentioned",
+    "answers": [
+      "Charles L. Clifford"
+    ],
+    "all_classes": null,
+    "length": 759,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.598
+  },
+  {
+    "id": "cb9214532284b8202912b1b75592832daef0b109593185a0",
+    "pred": "The context does not provide information about where Keith Nichol played football before Michigan State.",
+    "answers": [
+      "Norman"
+    ],
+    "all_classes": null,
+    "length": 853,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.541
+  },
+  {
+    "id": "105e7f4d337799315ddf870acc4ff2a62a1e6cdf489086cd",
+    "pred": "Gary L. Bennett worked on the Voyager, Galileo, and Ulysses space missions, but",
+    "answers": [
+      "Sun"
+    ],
+    "all_classes": null,
+    "length": 512,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.513
+  },
+  {
+    "id": "5ff08452b84748458e71d82a6d387599969311fd61cd8fd1",
+    "pred": "The context does not provide information about Atom Egoyan's biggest commercial success, neither on stage nor on film",
+    "answers": [
+      "erotic thriller film"
+    ],
+    "all_classes": null,
+    "length": 36,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.483
+  },
+  {
+    "id": "97b31d6d7a9137c220726ad51a6dca3e957e2c94ce5e65b8",
+    "pred": "United Kingdom Parliament",
+    "answers": [
+      "Parliament"
+    ],
+    "all_classes": null,
+    "length": 417,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.297
+  },
+  {
+    "id": "11a7ad9d646184c16480376226d58f1b2754b095563c8344",
+    "pred": "Kumbakonam, as Thiruvaduthurai is 22 km from it (Span:",
+    "answers": [
+      "Tharangambadi"
+    ],
+    "all_classes": null,
+    "length": 1124,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.652
+  },
+  {
+    "id": "3dd1ade26fd583844dd2af051d61eb20856ccc8e23abae59",
+    "pred": "Pueraria is a flowering plant. (Span: \"Pueraria is a genus of 15–",
+    "answers": [
+      "Pleiospilos"
+    ],
+    "all_classes": null,
+    "length": 490,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.542
+  },
+  {
+    "id": "f039fe9cc81a0a312f9899beca2fe26b710bf8c3aa23a4d9",
+    "pred": "Russell D. Moore did not succeed Jerry A. Johnson as President of the National Religious Broadcasters, so we",
+    "answers": [
+      "2013"
+    ],
+    "all_classes": null,
+    "length": 858,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.607
+  },
+  {
+    "id": "a30caa5dafcc37835bfe4093f129017adf4c814e9016e10d",
+    "pred": "Noelle Scaggs was the female member of Fitz and The Tantrums who served as the front woman for ten",
+    "answers": [
+      "The Rebirth"
+    ],
+    "all_classes": null,
+    "length": 982,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.615
+  },
+  {
+    "id": "72feb2a8e5b92548a357bfc11e94050464f93f1ce286418c",
+    "pred": "Madonna was born on August 16, 1958. (Span: \"American singer, song",
+    "answers": [
+      "October 13, 1980"
+    ],
+    "all_classes": null,
+    "length": 3071,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.731
+  },
+  {
+    "id": "77439b0a62b6de3a022b1d7a5678c1c00fa8d9af42fea1bf",
+    "pred": "The Greatest Event in Television History aired on NPO 1 Extra, which was founded by Han Peekel",
+    "answers": [
+      "Betty Cohen"
+    ],
+    "all_classes": null,
+    "length": 331,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.57
+  },
+  {
+    "id": "21bc398556b5612bf0437043cd2800e943bab5929c4bccc5",
+    "pred": "Hush...Hudson, Sweet Charlotte stars Bette Davis in her final film role.",
+    "answers": [
+      "Mary Astor"
+    ],
+    "all_classes": null,
+    "length": 1332,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.527
+  },
+  {
+    "id": "e0998dbc2db68c7b18adff7fcc67081acc865c974b721312",
+    "pred": "\"Finally\" peaked at number five on the US Hot 100. (Citation: \"It",
+    "answers": [
+      "number five"
+    ],
+    "all_classes": null,
+    "length": 763,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.559
+  },
+  {
+    "id": "139d2fcf8763003414ebd0187eb30b94930de13c4ab754a0",
+    "pred": "The context does not provide information about other areas sharing a common deer species with the forests of Mara and Mondrem.",
+    "answers": [
+      "New Zealand, Canada, the United States, the Falkland Islands, and Peru."
+    ],
+    "all_classes": null,
+    "length": 110,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.48
+  },
+  {
+    "id": "c261ca6aeaf366815232e91db1ef4dc8408cec3750c38ee9",
+    "pred": "Sara Symington did not compete in the Sydney Olympics as per the provided context.",
+    "answers": [
+      "2000 Summer Olympic Games"
+    ],
+    "all_classes": null,
+    "length": 482,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.443
+  },
+  {
+    "id": "ab016faac478c4acc6e9ed3ed87f9e29dbed47fd946be244",
+    "pred": "Raúl González Blanco, not José Daniel Valencia. However, José Daniel Valencia did not play",
+    "answers": [
+      "Claudio Javier López"
+    ],
+    "all_classes": null,
+    "length": 244,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.465
+  },
+  {
+    "id": "cae319fad2385d30d79efac0fb61e58518fbdc0703be3b0f",
+    "pred": "Bobbie Kilberg, not Richard Darman. The context does not provide information about an actor who worked with Richard Dar",
+    "answers": [
+      "George H. W. Bush"
+    ],
+    "all_classes": null,
+    "length": 707,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.58
+  },
+  {
+    "id": "e4df9576e5cd102024e81baf94a43325335d0ba2d8892041",
+    "pred": "\"Honey to the Bee\" was featured on Billie's debut studio album, Honey to the B",
+    "answers": [
+      "\"Talk That Talk\""
+    ],
+    "all_classes": null,
+    "length": 773,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.598
+  },
+  {
+    "id": "5e3362de0244d2b96c83958c4d3229151999292c369b0197",
+    "pred": "The context does not provide information about a British-American supergroup recording \"Nobody's Child.\"",
+    "answers": [
+      "Bob Dylan"
+    ],
+    "all_classes": null,
+    "length": 703,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.591
+  },
+  {
+    "id": "fda38e0c47dcd2b4f1de4adefeb00ab431221c0ef9adeb31",
+    "pred": "The context does not provide information about the Friday night programming block that includes \"Whatever Happened to... Robot",
+    "answers": [
+      "Cartoon Cartoon Fridays"
+    ],
+    "all_classes": null,
+    "length": 703,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.601
+  },
+  {
+    "id": "ef245cc27251f559f3cd900c11c7bf9f303eec3c4b346802",
+    "pred": "The city where Kellyville Ridge is not mentioned in the provided context.",
+    "answers": [
+      "on the Cumberland Plain"
+    ],
+    "all_classes": null,
+    "length": 589,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.461
+  },
+  {
+    "id": "3a75aba6bc2496016339474aef28ffdc9dbebdc00ccc166b",
+    "pred": "Jones Beach Island",
+    "answers": [
+      "Long Island"
+    ],
+    "all_classes": null,
+    "length": 656,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.312
+  },
+  {
+    "id": "3dc3db870ea907282d3160c597c4d618ae6ba2a6bdd712bb",
+    "pred": "The context does not provide information about the final two episodes of season eighteen of South Park.",
+    "answers": [
+      "PewDiePie"
+    ],
+    "all_classes": null,
+    "length": 742,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.553
+  },
+  {
+    "id": "26a5366c80c3a569c474a3990f3383beb125d34149e8ed3e",
+    "pred": "The context does not provide information about Robbie Tucker or any series he might be associated with.",
+    "answers": [
+      "It's Always Sunny in Philadelphia"
+    ],
+    "all_classes": null,
+    "length": 1544,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.575
+  }
+]

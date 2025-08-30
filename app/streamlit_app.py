@@ -2,7 +2,8 @@
 import json, os, re, time, requests
 from typing import Any, Dict, List, Optional
 import pandas as pd, numpy as np, matplotlib.pyplot as plt, streamlit as st
-
+import string
+PUNCT_TABLE = str.maketrans({c: " " for c in string.punctuation})
 def ensure_datasets():
     try:
         import datasets  # noqa: F401
@@ -13,12 +14,17 @@ def ensure_datasets():
         return False
 
 ARTICLES = {"a","an","the"}
-PUNCT_RE = re.compile(r"[!\\\"#$%&'()*+,\\-./:;<=>?@\\[\\\\\\]^_`{|}~]")
+PUNCT_RE = re.compile(r"[!\"#$%&'()*+,\-./:;<=>?@\[\]\\^_`{|}~]")
+
 def normalize_answer(s: str) -> str:
-    s = s.lower(); s = PUNCT_RE.sub(" ", s)
+    s = s.lower()
+    s = PUNCT_RE.sub(" ", s)
+    ARTICLES = {"a","an","the"}
     return " ".join(w for w in s.split() if w not in ARTICLES).strip()
+
 def exact_match(pred: str, golds: List[str]) -> float:
     npred = normalize_answer(pred); return 1.0 if any(npred == normalize_answer(g) for g in golds) else 0.0
+
 def f1_score(pred: str, golds: List[str]) -> float:
     ptoks = normalize_answer(pred).split()
     if not ptoks: return 0.0

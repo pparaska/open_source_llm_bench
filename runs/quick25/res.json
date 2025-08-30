@@ -1,0 +1,10 @@
+{
+  "hotpotqa": {
+    "score": 7.13,
+    "len_predictions": 25,
+    "ppl_mean": null,
+    "ppl_std": null,
+    "block_sizes_mean": null,
+    "block_sizes_std": null
+  }
+}

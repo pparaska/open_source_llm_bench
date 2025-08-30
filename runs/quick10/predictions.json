@@ -1,0 +1,377 @@
+[
+  {
+    "id": "fc6267db9ba02bbb251960231bc87251c581110e4e2b5f3f",
+    "question": "Which case was brought to court first Miller v. California or Gates v. Collier ?",
+    "answers": [
+      "Miller v. California"
+    ],
+    "contexts": [
+      "Passage 1:\nTrusty system (prison)\nThe \"trusty system\" (sometimes incorrectly called \"trustee system\") was a penitentiary system of discipline and security enforced in parts of the United States until the 1980s, in which designated inmates were given various privileges, abilities, and responsibilities not available to all inmates.It was made compulsory under Mississippi state law but was used in other states as well, such as Arkansas, Alabama, Louisiana, New York and Texas. The method of controlling and working inmates at Mississippi State Penitentiary at Parchman was designed in 1901 to replace convict leasing. The case Gates v. Collier ended the flagrant abuse of inmates under the trusty system and other prison abuses that had continued essentially unchanged since the building of the Mississippi State Penitentiary. Other states using the trusty system were also forced to give it up under the ruling."
+    ],
+    "pred": "Gates v. Collier was brought to court first.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.411
+  },
+  {
+    "id": "d542fcd45bbf5112eee9127f04ae060a887c8ef2050aa160",
+    "question": "The actor that plays Phileas Fogg in \"Around the World in 80 Days\", co-starred with Gary Cooper in a 1939 Goldwyn Productions film based on a novel by what author?",
+    "answers": [
+      "Charles L. Clifford"
+    ],
+    "contexts": [
+      "Passage 1:\nThe Real Glory\nThe Real Glory is a 1939 Samuel Goldwyn Productions adventure film starring Gary Cooper, David Niven, Andrea Leeds and Broderick Crawford released by United Artists in the weeks immediately following Nazi Germany's invasion of Poland. Based on a 1937 novel of the same name by Charles L. Clifford and directed by Henry Hathaway, the film is set against the backdrop of the Moro Rebellion during the American occupation of the Philippines at the beginning of the 20th century. According to The World news broadcast on Aug 18, 2017, the US War Department withdrew the film in 1942. The Moros were US allies in World War II, and the film had inflammatory scenes including threatening a Muslim prisoner with burial wrapped in a pig skin."
+    ],
+    "pred": "The actor who played Phileas Fogg in \"Around the World in 80 Days\" (not mentioned",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.598
+  },
+  {
+    "id": "cb9214532284b8202912b1b75592832daef0b109593185a0",
+    "question": "Prior to playing for Michigan State, Keith Nichol played football for a school located in what city?",
+    "answers": [
+      "Norman"
+    ],
+    "contexts": [
+      "Passage 1:\nJohn Macklin\nJohn Farrell \"Big John\" Macklin (October 17, 1883 – October 10, 1949) was an American football player, coach of football, basketball, baseball and track and field, and a college athletics administrator. He served as the head football coach at Michigan Agricultural College, now Michigan State University from 1911 to 1915. With a five-year record of 29–5, he has the highest winning percentage of any football coach in Michigan State history. Macklin coached the Michigan State Spartans football team to its first ever victories over Ohio State, Michigan, Wisconsin, and Penn State. He was also the athletic director at Michigan Agricultural and coached the school's basketball, baseball, and track and field teams. Macklin tallied marks of 48–38 as head basketball coach (1910–1916) and 52–27 as head baseball coach (1911–1915)."
+    ],
+    "pred": "The context does not provide information about where Keith Nichol played football before Michigan State.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.541
+  },
+  {
+    "id": "105e7f4d337799315ddf870acc4ff2a62a1e6cdf489086cd",
+    "question": "Gary L. Bennett was a part of the space missions that have a primary destination of what celestial body?",
+    "answers": [
+      "Sun"
+    ],
+    "contexts": [
+      "Passage 1:\nGary L. Bennett\nGary L. Bennett (born January 17, 1940) is an American scientist and engineer, specializing in aerospace and energy.  He has worked for NASA and the US Department of Energy (DOE) on advanced space power systems and advanced space propulsion systems.  His professional career has included work on the Voyager, Galileo, and Ulysses space missions, and is currently working as a consultant in aerospace power and propulsion systems. He is also a science fiction author (The Star Sailors)."
+    ],
+    "pred": "Gary L. Bennett worked on the Voyager, Galileo, and Ulysses space missions, but",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.513
+  },
+  {
+    "id": "5ff08452b84748458e71d82a6d387599969311fd61cd8fd1",
+    "question": "Was Atom Egoyans biggest commercial success on stage or on film?",
+    "answers": [
+      "erotic thriller film"
+    ],
+    "contexts": [
+      "Passage 1:\nRasel\nRasel may refer to:"
+    ],
+    "pred": "The context does not provide information about Atom Egoyan's biggest commercial success, neither on stage nor on film",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.483
+  },
+  {
+    "id": "97b31d6d7a9137c220726ad51a6dca3e957e2c94ce5e65b8",
+    "question": "Celebrity Fifteen to One has had more than one appearance by an English writer and former Conservative Member of what?",
+    "answers": [
+      "Parliament"
+    ],
+    "contexts": [
+      "Passage 1:\nDavid Faber (politician)\nDavid James Christian Faber (born 7 July 1961) is a schoolmaster and former Conservative member of the Parliament of the United Kingdom. He did not seek re-election in 2001, after which he became an author, before in 2010 being appointed as head master of Summer Fields School, Oxford. He is the grandson of the late former Conservative Prime Minister Harold Macmillan (1894–1986)."
+    ],
+    "pred": "United Kingdom Parliament",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.297
+  },
+  {
+    "id": "11a7ad9d646184c16480376226d58f1b2754b095563c8344",
+    "question": "Thirukkalacherry is a village in which Indian town?",
+    "answers": [
+      "Tharangambadi"
+    ],
+    "contexts": [
+      "Passage 1:\nMasilamaniswara Temple, Thiruvaduthurai\nMasilamaniswara Temple is a Hindu temple dedicated to Hindu god Shiva, located in the village of Thiruvaduthurai, located 22 km from the South Indian town, Kumbakonam and 14 km from Mayiladuthurai, Tamil Nadu. It is one of the shrines of the 275 Paadal Petra Sthalams. The temple is referred to in the verses of Tevaram, the 7th century Tamil Saiva canon by Tirugnana Sambandar, Appar and Sundarar. The temple is associated with the legend of Saivite saint Tirumular (6th century CE).\nThe temple is believed to have been built by Cholas during 9th century A.D and with significant additions from later Chola kings and by the subsequent ruling empires. It houses five-tiered gateway towers known as gopurams. The temple has numerous shrines, with those of Masilamaniswarar and Oppilamulai Nayagi Amman being the most prominent. The temple has six daily rituals at various times from 6:30 a.m. to 8:30 p.m., and three yearly festivals on its calendar. The temple is maintained and administered by the Thiruvaduthurai Adheenam, whose headquarters is located inside the temple."
+    ],
+    "pred": "Kumbakonam, as Thiruvaduthurai is 22 km from it (Span:",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.652
+  },
+  {
+    "id": "3dd1ade26fd583844dd2af051d61eb20856ccc8e23abae59",
+    "question": "Which is a flowering plant, Pueraria or Pleiospilos?",
+    "answers": [
+      "Pleiospilos"
+    ],
+    "contexts": [
+      "Passage 1:\nPueraria\nPueraria is a genus of 15–20 species of legumes native to Asia. The best known member is kudzu, also called Japanese arrowroot. The genus is named after 19th century Swiss botanist Marc Nicolas Puerari.\nThe genus, as traditionally circumscribed, is polyphyletic, with different species being more related to other species in the tribe Phaseoleae. Current research, reproduced below, splits the genus into five clades, one of which defines the current monophyletic genus."
+    ],
+    "pred": "Pueraria is a flowering plant. (Span: \"Pueraria is a genus of 15–",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.542
+  },
+  {
+    "id": "f039fe9cc81a0a312f9899beca2fe26b710bf8c3aa23a4d9",
+    "question": "After Russell D. Moore served at the Southern Baptist Theological Seminary he became the President of The Ethics & Religious Liberty Commission (ERLC) in what year?",
+    "answers": [
+      "2013"
+    ],
+    "contexts": [
+      "Passage 1:\nJerry A. Johnson\nJerry A. Johnson is the former President of the National Religious Broadcasters. He became president of NRB on November 1, 2013, succeeding Frank Wright. Before accepting that post, he was President of Criswell College, and former dean of academics at Midwestern Baptist Theological Seminary.  He also held several positions during 14 years at Southern Baptist Theological Seminary. From 2013 to 2014 he served as Chairman of the Nominating Committee of the Southern Baptist Convention.\nPassage 2:\nMidwestern Baptist Theological Seminary\nMidwestern Baptist Theological Seminary (MBTS) is a Private Baptist seminary in Kansas City, Missouri. It is affiliated with the Southern Baptist Convention. Midwestern Baptist Theological Seminary also houses an undergraduate college, Spurgeon College (formerly known as Midwestern College)."
+    ],
+    "pred": "Russell D. Moore did not succeed Jerry A. Johnson as President of the National Religious Broadcasters, so we",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.607
+  },
+  {
+    "id": "a30caa5dafcc37835bfe4093f129017adf4c814e9016e10d",
+    "question": "For which band, was the female member of Fitz and The Tantrums, the front woman for ten years ?",
+    "answers": [
+      "The Rebirth"
+    ],
+    "contexts": [
+      "Passage 1:\nFitz and The Tantrums\nFitz and the Tantrums are an American indie pop and neo soul band from Los Angeles, California, that formed in 2008. The band consists of Michael Fitzpatrick (lead vocals), Noelle Scaggs (co-lead vocals and percussion), James King (saxophone, flute, keyboard, percussion and guitar), Joseph Karnes (bass guitar), Jeremy Ruzumna (keyboards) and John Wicks (drums and percussion) who left the band in 2022 to teach at University of Montana. Their debut studio album, Pickin' Up the Pieces, was released in August 2010 on indie label Dangerbird Records and received critical acclaim. It reached no. 1 on the Billboard Heatseekers chart. The band signed to their current label Elektra Records in early 2013 and went on to release their second LP, More Than Just a Dream, the same year. Their self-titled third album was released in 2016, which contains their most notable song, \"HandClap\". Their fourth studio album, All the Feels, was released in 2019."
+    ],
+    "pred": "Noelle Scaggs was the female member of Fitz and The Tantrums who served as the front woman for ten",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.615
+  },
+  {
+    "id": "72feb2a8e5b92548a357bfc11e94050464f93f1ce286418c",
+    "question": "When was the American singer, songwriter, record producer, dancer and actress born who's second studio album is Chapter II?",
+    "answers": [
+      "October 13, 1980"
+    ],
+    "contexts": [
+      "Passage 1:\nLike a Virgin (album)\nLike a Virgin is the second studio album by American singer and songwriter Madonna, released on November 12, 1984, by Sire Records. Following the success of her self-titled debut album, Madonna wanted to become the record producer of her next album. However, her label was not ready to give her the artistic freedom and she chose Nile Rodgers instead to produce the album due to his work with David Bowie. Madonna wrote six songs on the record, five of which feature Steve Bray as a co-writer. The album was recorded at Power Station Studio in New York at a quick pace. Rodgers enlisted the help of his former Chic bandmates Bernard Edwards, who was the bassist, and Tony Thompson, who played drums. Jason Corsaro, the record's audio engineer, persuaded Rodgers to use digital recording, a new technique introduced at that time.\nThe album's photographs were shot by Steven Meisel. Madonna wanted the album title and the cover image to make a provocative link between her own religious name Madonna, as the Catholic title for Jesus' mother Mary, and the Christian concept of the virgin birth. While not a substantial musical departure from Madonna's first album, she felt that the material from Like a Virgin was stronger. After its release, Like a Virgin received mixed reviews from music critics; however, retrospective reviews of the album have been much more positive. Like a Virgin was a commercial success and became Madonna's first number one album on the Billboard 200 and set the record as the first female album in history  to sell over five million copies in the United States. The Recording Industry Association of America (RIAA) later certified it diamond for shipment of ten million units. It also reached number one in Germany, the Netherlands, New Zealand, Spain, Italy and the United Kingdom, and remains one of the best-selling albums of all time with sales of over 21 million copies worldwide.Five singles were released from the album, including Madonna's first US number-one \"Like a Virgin\" and her first UK number-one \"Into the Groove\", the latter of which was introduced on the 1985 international reissue of the album. To promote the album, she embarked on The Virgin Tour, touring North America only. Like a Virgin has attained significance as a cultural artifact of the 1980s. Madonna proved that she was not a one-hit wonder and was able to provide herself with a permanent footing in the music world. Her songs became a lightning rod for both criticism by conservatives and imitation by the younger female population, especially \"Material Girl\" and \"Like a Virgin\". According to author J. Randy Taraborrelli, \"Every important artist has at least one album in his or her career whose critical and commercial success becomes the artist's magic moment; for Madonna, Like a Virgin was just such a defining moment.\" In 2023, the Library of Congress added the album to the National Recording Registry for preservation in the United States, for being a \"culturally, historically, or aesthetically significant\" recording."
+    ],
+    "pred": "Madonna was born on August 16, 1958. (Span: \"American singer, song",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.731
+  },
+  {
+    "id": "77439b0a62b6de3a022b1d7a5678c1c00fa8d9af42fea1bf",
+    "question": "The Greatest Event in Television History aired on the channel that was founded by whom?",
+    "answers": [
+      "Betty Cohen"
+    ],
+    "contexts": [
+      "Passage 1:\nNPO Best\nNPO 1 Extra is a television channel jointly operated by Dutch public broadcasters AVROTROS, BNNVARA, EO, KRO-NCRV and MAX. It was originally launched as HilversumBest on 1 December 2006. NPO 1 Extra presents highlights of more than sixty years of Dutch television history. The channel was founded by Han Peekel."
+    ],
+    "pred": "The Greatest Event in Television History aired on NPO 1 Extra, which was founded by Han Peekel",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.57
+  },
+  {
+    "id": "21bc398556b5612bf0437043cd2800e943bab5929c4bccc5",
+    "question": "Who starred in her final film role in the 1964 film directed by the man who also did Vera Cruz and Kiss Me Deadly?",
+    "answers": [
+      "Mary Astor"
+    ],
+    "contexts": [
+      "Passage 1:\nRobert Aldrich\nRobert Burgess Aldrich (August 9, 1918 – December 5, 1983) was an American film director, producer, and screenwriter. An iconoclastic and maverick auteur working in many genres during the Golden Age of Hollywood, he directed mainly films noir, war movies, westerns and dark melodramas with Gothic overtones. His most notable credits include Vera Cruz (1954), Kiss Me Deadly (1955), The Big Knife (1955), Autumn Leaves (1956), Attack (1956), What Ever Happened to Baby Jane? (1962), Hush...Hush, Sweet Charlotte (1964), The Flight of the Phoenix (1965), The Dirty Dozen (1967), and The Longest Yard (1974).\nAldrich's directorial style combined \"macho mise-en-scene and resonant reworkings of classic action genres,\" and were known for pushing the boundaries of violence in mainstream cinema, and for their psychologically-complex interpretations of genre film tropes. The British Film Institute wrote that Aldrich's films \"subversive sensibility in thrall to the complexities of human behaviour.\" Several of his films later proved influential to members of the French New Wave.Aside from his directorial work, Aldrich was also noted for his advocacy as a member of the Directors Guild of America, serving as its President for two terms, and becoming the namesake for its Robert B. Aldrich Achievement Award."
+    ],
+    "pred": "Hush...Hudson, Sweet Charlotte stars Bette Davis in her final film role.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.527
+  },
+  {
+    "id": "e0998dbc2db68c7b18adff7fcc67081acc865c974b721312",
+    "question": "Finally includes the song that peaked at what on the US Hot 100",
+    "answers": [
+      "number five"
+    ],
+    "contexts": [
+      "Passage 1:\nFinally (CeCe Peniston song)\n\"Finally\" is a song by American singer-songwriter CeCe Peniston, released in September 1991 as her debut single from her first album, Finally (1992). It received critical acclaim, becoming Peniston's first (and biggest) hit song, peaking at number five on the US Billboard Hot 100 in January 1992. It is also her only US top-ten hit to date. Prior to that, the track was a major success on the Billboard Hot Dance Club Play chart, where it spent two weeks at number one in late 1991. In addition, a dance remix of the song, the \"Choice Mix\", peaked at number two on the UK Singles Chart in March 1992. The remix appeared on many dance music compilations in the early '90s. Its music video was directed by Claude Borenzweig."
+    ],
+    "pred": "\"Finally\" peaked at number five on the US Hot 100. (Citation: \"It",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.559
+  },
+  {
+    "id": "139d2fcf8763003414ebd0187eb30b94930de13c4ab754a0",
+    "question": "What are some other areas that share a common deer species with the forests of Mara and Mondrem?",
+    "answers": [
+      "New Zealand, Canada, the United States, the Falkland Islands, and Peru."
+    ],
+    "contexts": [
+      "Passage 1:\nFallow deer\nDama is a genus of deer in the subfamily Cervinae, commonly referred to as fallow deer."
+    ],
+    "pred": "The context does not provide information about other areas sharing a common deer species with the forests of Mara and Mondrem.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.48
+  },
+  {
+    "id": "c261ca6aeaf366815232e91db1ef4dc8408cec3750c38ee9",
+    "question": "Professional cyclist Sara Symington competed in which Olympic Games held in Sydeney, Australia?",
+    "answers": [
+      "2000 Summer Olympic Games"
+    ],
+    "contexts": [
+      "Passage 1:\nSven Nys\nSven Nys (Dutch: [ˌsfɛˈnɛis]; born 17 June 1976) is a former professional cyclist competing in cyclo-cross and mountain bike. With two world championships, seven world cups, and over 140 competitive victories, he is considered one of the best cyclo-cross racers of his generation, and remains a prominent figure in cyclo-cross. Apart from cyclo-cross, Nys is also fivefold national mountainbike champion, and has competed in that discipline in two Olympic games."
+    ],
+    "pred": "Sara Symington did not compete in the Sydney Olympics as per the provided context.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.443
+  },
+  {
+    "id": "ab016faac478c4acc6e9ed3ed87f9e29dbed47fd946be244",
+    "question": "Which retired Argentine footballer who played as a forward was a main player for Valencia CF?",
+    "answers": [
+      "Claudio Javier López"
+    ],
+    "contexts": [
+      "Passage 1:\nJosé Daniel Valencia\nJosé Daniel Valencia (born 3 October 1955) is an Argentine former professional footballer who played as an attacking midfielder. He is perhaps most famous for having been part of the 1978 World Cup winning squad."
+    ],
+    "pred": "Raúl González Blanco, not José Daniel Valencia. However, José Daniel Valencia did not play",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.465
+  },
+  {
+    "id": "cae319fad2385d30d79efac0fb61e58518fbdc0703be3b0f",
+    "question": "What actor was also a president that Richard Darman worked with when they were in office?",
+    "answers": [
+      "George H. W. Bush"
+    ],
+    "contexts": [
+      "Passage 1:\nBobbie Kilberg\nBobbie Kilberg (born Barbara Greene; October 25, 1944) is an American political advisor who has worked for Presidents Richard Nixon, Gerald Ford, George H. W. Bush, and George W. Bush. Kilberg has served as the president and CEO of the Northern Virginia Technology Council since 1998. She was briefly an attorney with the Washington law firm of Arnold & Porter from 1971 to 1973. She served on the staff of President Richard Nixon's United States Domestic Policy Council, under President Gerald Ford as Associate Counsel, and for President George H.W. Bush as Deputy Assistant to the President for Public Liaison and director of the White House Office of Intergovernmental Affairs."
+    ],
+    "pred": "Bobbie Kilberg, not Richard Darman. The context does not provide information about an actor who worked with Richard Dar",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.58
+  },
+  {
+    "id": "e4df9576e5cd102024e81baf94a43325335d0ba2d8892041",
+    "question": "The song that came out ahead of The Wanted's \"Lightning\" on the UK Singles Chart was featured on which album?",
+    "answers": [
+      "\"Talk That Talk\""
+    ],
+    "contexts": [
+      "Passage 1:\nHoney to the Bee\n\"Honey to the Bee\" is a song by English singer turned actress Billie from her debut studio album, Honey to the B (1998). It was released on 22 March 1999 and debuted at number three on the UK Singles Chart, which became its peak position. It was not a hit in mainland Europe, but it became one of Billie's highest-charting songs in Australia and New Zealand, reaching number six in the former country and number five in the latter. In Australia, it was the 48th-best-selling song of 1999.\nIn January 2007, the song was championed by Radio 1 DJ Chris Moyles as part of an experiment to test out the new UK Singles Chart rules that came into effect that month, which prompted the song to reach number 17 on the UK Singles Chart on 21 January 2007."
+    ],
+    "pred": "\"Honey to the Bee\" was featured on Billie's debut studio album, Honey to the B",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.598
+  },
+  {
+    "id": "5e3362de0244d2b96c83958c4d3229151999292c369b0197",
+    "question": "Name a member of a British-American supergroup who recored a version of Nobody's child in 1990",
+    "answers": [
+      "Bob Dylan"
+    ],
+    "contexts": [
+      "Passage 1:\nNobody for Everybody\nNobody for Everybody is the Japanese debut EP by South Korean girl group Wonder Girls. Its title song is \"Nobody\" ～あなたしか見えない～ (ノーバディ, Nōbadi), first released on their third Korean mini-album, The Wonder Years: Trilogy in 2008. This is the fourth language that \"Nobody\" has been released in; the song was first released in Korean and was followed by English and Chinese versions.\nThe EP consists of the Japanese version of \"Nobody\" as well as 2012 re-recordings of \"Nobody\" (in both Korean and English), \"Saying I Love You\", and \"You're Out\". These 2012 recordings include vocals of member Hyerim who entered the group in 2010, replacing the group's original member Sunmi."
+    ],
+    "pred": "The context does not provide information about a British-American supergroup recording \"Nobody's Child.\"",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.591
+  },
+  {
+    "id": "fda38e0c47dcd2b4f1de4adefeb00ab431221c0ef9adeb31",
+    "question": "What Friday night programming block included what collective series that includes \"Whatever Happened to... Robot Jones?\"?",
+    "answers": [
+      "Cartoon Cartoon Fridays"
+    ],
+    "contexts": [
+      "Passage 1:\nWhatever Happened, Happened\n\"Whatever Happened, Happened\" is the 11th television episode of the fifth season of ABC's Lost. The 97th episode of the show overall, \"Whatever Happened, Happened\" aired April 1, 2009, on ABC in the United States. The episode was written by executive producers/show runners Damon Lindelof & Carlton Cuse and directed by \"The Man Behind the Curtain\" director Bobby Roth.In 1977, Kate Austen (Evangeline Lilly) goes to extreme measures to save young Benjamin Linus (Sterling Beaumon) when Jack Shephard (Matthew Fox) refuses to help. In flashbacks, Kate takes care of Sawyer's (Josh Holloway) favor and begins to tell the truth to protect Aaron (William Blanchette)."
+    ],
+    "pred": "The context does not provide information about the Friday night programming block that includes \"Whatever Happened to... Robot",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.601
+  },
+  {
+    "id": "ef245cc27251f559f3cd900c11c7bf9f303eec3c4b346802",
+    "question": "Where does the city situated where Kellyville Ridge is located?",
+    "answers": [
+      "on the Cumberland Plain"
+    ],
+    "contexts": [
+      "Passage 1:\nShreekhandpur\nShreekhandapur (Nepal Bhasa: खम्पू) is a city situated in the Dhulikhel municipality in Kavrepalanchowk district in Nepal.This historical town is about 28 km east from Kathmandu. The city is located roughly at 1400m above sea level. The main attraction of Shreekhandapur is the temple of Swet Bhairav, located approximately 1 km northeast of the town. The name Shreekhandapur was originally given due to the presence of the tree Shreekhand. Its name during the Licchavi period was खम्पू which is still used predominantly by the Newar community living in this town."
+    ],
+    "pred": "The city where Kellyville Ridge is not mentioned in the provided context.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.461
+  },
+  {
+    "id": "3a75aba6bc2496016339474aef28ffdc9dbebdc00ccc166b",
+    "question": "Oak Beach, New York and Great South Bay are both situated between what same island?",
+    "answers": [
+      "Long Island"
+    ],
+    "contexts": [
+      "Passage 1:\nLower South Bay, New York\nLower South Bay, commonly called South Bay, is a hamlet on the southwest corner of Oneida Lake, Oneida County, New York, United States. It is opposite North Bay, and is surrounded by many islands to the west, north and east, including Geersbeck Island, Hall Island, Glosky Island, Schroeppel Island, Denmans Island and Long Island (not to be confused with Long Island, New York City). Lower South Bay also lies near the town of Cicero, approximately two miles west.\nPassage 2:\nJones Beach Island\nJones Beach Island is one of the outer barrier islands off the southern coast of Long Island in the U.S. state of New York."
+    ],
+    "pred": "Jones Beach Island",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.312
+  },
+  {
+    "id": "3dc3db870ea907282d3160c597c4d618ae6ba2a6bdd712bb",
+    "question": "Who is a guest in the final two episodes of season eighteen of South Park?",
+    "answers": [
+      "PewDiePie"
+    ],
+    "contexts": [
+      "Passage 1:\nEgypt (TV series)\nEgypt is a BBC television docudrama serial portraying events in the history of Egyptology from the 18th through early 20th centuries. It originally aired on Sunday nights at 9 pm on BBC1 in 2005. The first two episodes explored the work of Howard Carter and his archaeological quest in Egypt in the early part of the twentieth century. The next two episodes focused on the eccentric explorer \"The Great Belzoni\" played here by Matthew Kelly. The final two episodes dramatise the discovery and deciphering of the Rosetta Stone by Jean-François Champollion (Elliot Cowan).\nThe music was recorded by the Warsaw Radio Orchestra and is featured on the CD Timeless Histories by Chappell music, produced by Clare Isaacs."
+    ],
+    "pred": "The context does not provide information about the final two episodes of season eighteen of South Park.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.553
+  },
+  {
+    "id": "26a5366c80c3a569c474a3990f3383beb125d34149e8ed3e",
+    "question": "Robbie Tucker plays in what series that follows a group of friends who run an Irish bar?",
+    "answers": [
+      "It's Always Sunny in Philadelphia"
+    ],
+    "contexts": [
+      "Passage 1:\nJohn Franks (judge)\nSir John Franks (1770–1852), was an Indian judge.\nFranks was the second son of Thomas Franks (1729–1787), of Ballymagooly, County Cork, by Catherine, daughter of Rev. John Day. He was born in 1770, and graduated at Trinity College, Dublin, B.A. 1788, LL.B. 1791. He was called to the Irish Bar 1792. He went on the Munster circuit, and had a good practice as chamber counsel. He became King's Counsel in 1823. In 1825 the Board of Control, on the recommendation of his friend William Plunket, then Attorney General for Ireland, appointed him a judge of the Supreme Court at Calcutta. He received, as was customary, the honour of knighthood before his departure for India. He held this office until the effect of the climate on his health brought about his resignation in 1834. On his return, he resided at Roebuck, near Dublin. He died on 11 January 1852. He married three times. By his first wife, Catherine, daughter of his cousin Thomas Franks of Carrig, Cork, he had two sons and three daughters. His second marriage was to Jane Marshall, and his third to Sarah O'Regan. His eldest son and heir was John Franks of Ballyscaddan, County Limerick; his younger son, Matthew, was an army officer, as were many of his later descendants.\nFranks was popular, both as advocate and judge. He was an intimate friend of John Philpot Curran, and one of his executors.  W. H. Curran, J.P. Curran's son, commemorates his ‘peculiar aboriginal wit, quiet, keen, and natural to the occasion, and, best of all, never malignant’."
+    ],
+    "pred": "The context does not provide information about Robbie Tucker or any series he might be associated with.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.575
+  }
+]
