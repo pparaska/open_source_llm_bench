@@ -3,6 +3,7 @@
 import json, re, argparse, os, itertools
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 
 ARTICLES = {"a","an","the"}
 PUNCT_RE = re.compile(r"[!\"#$%&'()*+,\-./:;<=>?@\[\]\\^_`{|}~]")
@@ -138,7 +139,6 @@ def main():
     plt.savefig(os.path.join(args.out,"delta_f1_hist.png")); plt.close()
 
     # simple bootstrap CI on ΔF1 mean
-    import numpy as np
     rng = np.random.default_rng(0)
     diffs = df["ΔF1"].to_numpy()
     boots = []
