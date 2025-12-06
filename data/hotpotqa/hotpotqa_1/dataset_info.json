@@ -1,0 +1,43 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "input": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "context": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answers": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "length": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "dataset": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "language": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "all_classes": {
+      "dtype": "null",
+      "_type": "Value"
+    },
+    "_id": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
