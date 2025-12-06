@@ -1,0 +1,10 @@
+{
+  "gov_report": {
+    "score": 11.39,
+    "len_predictions": 64,
+    "ppl_mean": null,
+    "ppl_std": null,
+    "block_sizes_mean": null,
+    "block_sizes_std": null
+  }
+}

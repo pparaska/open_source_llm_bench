@@ -1,0 +1,10 @@
+{
+  "samsum": {
+    "score": 41.0,
+    "len_predictions": 72,
+    "ppl_mean": null,
+    "ppl_std": null,
+    "block_sizes_mean": null,
+    "block_sizes_std": null
+  }
+}
