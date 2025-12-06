@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "fc6267db9ba02bbb251960231bc87251c581110e4e2b5f3f",
+    "pred": "Gates v. Collier was brought to court first.",
+    "answers": [
+      "Miller v. California"
+    ],
+    "all_classes": null,
+    "length": 2909,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 8.327
+  },
+  {
+    "id": "d542fcd45bbf5112eee9127f04ae060a887c8ef2050aa160",
+    "pred": "The author of the novel that the 1939 film \"The Real Glory\" is based on, which stars Gary Cooper and David Niven, is Charles L. Clifford.",
+    "answers": [
+      "Charles L. Clifford"
+    ],
+    "all_classes": null,
+    "length": 4239,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.9
+  },
+  {
+    "id": "cb9214532284b8202912b1b75592832daef0b109593185a0",
+    "pred": "The context does not provide information about Keith Nichol's football career before Michigan State.",
+    "answers": [
+      "Norman"
+    ],
+    "all_classes": null,
+    "length": 2000,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.457
+  },
+  {
+    "id": "105e7f4d337799315ddf870acc4ff2a62a1e6cdf489086cd",
+    "pred": "Jupiter",
+    "answers": [
+      "Sun"
+    ],
+    "all_classes": null,
+    "length": 3683,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.358
+  },
+  {
+    "id": "5ff08452b84748458e71d82a6d387599969311fd61cd8fd1",
+    "pred": "The question does not provide any context related to Atom Egoyan, so it's impossible to determine if his biggest commercial success was on stage or on film based on the provided context.",
+    "answers": [
+      "erotic thriller film"
+    ],
+    "all_classes": null,
+    "length": 1932,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.94
+  },
+  {
+    "id": "97b31d6d7a9137c220726ad51a6dca3e957e2c94ce5e65b8",
+    "pred": "Parliament (specifically David Faber)",
+    "answers": [
+      "Parliament"
+    ],
+    "all_classes": null,
+    "length": 3481,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.594
+  },
+  {
+    "id": "11a7ad9d646184c16480376226d58f1b2754b095563c8344",
+    "pred": "Kumbakonam",
+    "answers": [
+      "Tharangambadi"
+    ],
+    "all_classes": null,
+    "length": 3000,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.524
+  },
+  {
+    "id": "3dd1ade26fd583844dd2af051d61eb20856ccc8e23abae59",
+    "pred": "Pueraria is a flowering plant. [Citation: Passage 1]",
+    "answers": [
+      "Pleiospilos"
+    ],
+    "all_classes": null,
+    "length": 1650,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.621
+  },
+  {
+    "id": "f039fe9cc81a0a312f9899beca2fe26b710bf8c3aa23a4d9",
+    "pred": "Russell D. Moore served as the President of The Ethics & Religious Liberty Commission (ERLC) in 2013. (Context: Passage 1 mentions that Jerry A. Johnson became President of NRB on November 1, 2013, succeeding Frank Wright, and before accepting that post, he was President of Criswell College, where Russell D. Moore served.)",
+    "answers": [
+      "2013"
+    ],
+    "all_classes": null,
+    "length": 3566,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.479
+  },
+  {
+    "id": "a30caa5dafcc37835bfe4093f129017adf4c814e9016e10d",
+    "pred": "Noelle Scaggs was the female member of Fitz and The Tantrums for ten years.",
+    "answers": [
+      "The Rebirth"
+    ],
+    "all_classes": null,
+    "length": 3161,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.821
+  },
+  {
+    "id": "72feb2a8e5b92548a357bfc11e94050464f93f1ce286418c",
+    "pred": "Madonna was born on August 16, 1958.",
+    "answers": [
+      "October 13, 1980"
+    ],
+    "all_classes": null,
+    "length": 6179,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.93
+  },
+  {
+    "id": "77439b0a62b6de3a022b1d7a5678c1c00fa8d9af42fea1bf",
+    "pred": "Han Peekel, as the channel that aired \"The Greatest Event in Television History\" (not mentioned in the context) is NPO 1 Extra, and it was founded by Han Peekel.",
+    "answers": [
+      "Betty Cohen"
+    ],
+    "all_classes": null,
+    "length": 1210,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.851
+  },
+  {
+    "id": "21bc398556b5612bf0437043cd2800e943bab5929c4bccc5",
+    "pred": "Hush...Hush, Sweet Charlotte stars Bette Davis.",
+    "answers": [
+      "Mary Astor"
+    ],
+    "all_classes": null,
+    "length": 4646,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.717
+  },
+  {
+    "id": "e0998dbc2db68c7b18adff7fcc67081acc865c974b721312",
+    "pred": "The song \"Finally\" peaked at number five on the US Hot 100.",
+    "answers": [
+      "number five"
+    ],
+    "all_classes": null,
+    "length": 2673,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.718
+  },
+  {
+    "id": "139d2fcf8763003414ebd0187eb30b94930de13c4ab754a0",
+    "pred": "The forests of Mara and Mondrem may share similarities with regions where roe deer, gazelles, or antelopes are found, as these names also originate from the Latin word dāma or damma.",
+    "answers": [
+      "New Zealand, Canada, the United States, the Falkland Islands, and Peru."
+    ],
+    "all_classes": null,
+    "length": 617,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.855
+  },
+  {
+    "id": "c261ca6aeaf366815232e91db1ef4dc8408cec3750c38ee9",
+    "pred": "Sara Symington did not compete in the Sydney Olympics as she is not mentioned in the provided context.",
+    "answers": [
+      "2000 Summer Olympic Games"
+    ],
+    "all_classes": null,
+    "length": 2370,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.686
+  },
+  {
+    "id": "ab016faac478c4acc6e9ed3ed87f9e29dbed47fd946be244",
+    "pred": "José Daniel Valencia himself did not play for Valencia CF.",
+    "answers": [
+      "Claudio Javier López"
+    ],
+    "all_classes": null,
+    "length": 2130,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.538
+  },
+  {
+    "id": "cae319fad2385d30d79efac0fb61e58518fbdc0703be3b0f",
+    "pred": "Bobbie Kilberg, not an actor, was the president that Richard Darman did not work with as they were in office, as there is no mention of Richard Darman working with any president in the provided context.",
+    "answers": [
+      "George H. W. Bush"
+    ],
+    "all_classes": null,
+    "length": 5430,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.177
+  },
+  {
+    "id": "e4df9576e5cd102024e81baf94a43325335d0ba2d8892041",
+    "pred": "\"Honey to the Bee\" was featured on Billie's debut studio album, Honey to the B (1998).",
+    "answers": [
+      "\"Talk That Talk\""
+    ],
+    "all_classes": null,
+    "length": 1057,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.678
+  },
+  {
+    "id": "5e3362de0244d2b96c83958c4d3229151999292c369b0197",
+    "pred": "The context does not provide information about a British-American supergroup recording \"Nobody's Children\" in 1990.",
+    "answers": [
+      "Bob Dylan"
+    ],
+    "all_classes": null,
+    "length": 2315,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.732
+  },
+  {
+    "id": "fda38e0c47dcd2b4f1de4adefeb00ab431221c0ef9adeb31",
+    "pred": "The context does not provide information about the Friday night programming block that includes \"Whatever Happened to... Robot Jones?\"",
+    "answers": [
+      "Cartoon Cartoon Fridays"
+    ],
+    "all_classes": null,
+    "length": 3535,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.826
+  },
+  {
+    "id": "ef245cc27251f559f3cd900c11c7bf9f303eec3c4b346802",
+    "pred": "The context does not provide information about Kellyville Ridge's location.",
+    "answers": [
+      "on the Cumberland Plain"
+    ],
+    "all_classes": null,
+    "length": 2085,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.564
+  },
+  {
+    "id": "3a75aba6bc2496016339474aef28ffdc9dbebdc00ccc166b",
+    "pred": "Jones Beach Island",
+    "answers": [
+      "Long Island"
+    ],
+    "all_classes": null,
+    "length": 1666,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.38
+  },
+  {
+    "id": "3dc3db870ea907282d3160c597c4d618ae6ba2a6bdd712bb",
+    "pred": "The context provided does not mention any connection between Egypt (TV series) and South Park, so it's impossible to determine who might be a guest in the final two episodes of South Park from this information.",
+    "answers": [
+      "PewDiePie"
+    ],
+    "all_classes": null,
+    "length": 1954,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.895
+  },
+  {
+    "id": "26a5366c80c3a569c474a3990f3383beb125d34149e8ed3e",
+    "pred": "The context does not provide information about Robbie Tucker or any series involving an Irish bar.",
+    "answers": [
+      "It's Always Sunny in Philadelphia"
+    ],
+    "all_classes": null,
+    "length": 3843,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.751
+  },
+  {
+    "id": "6eafb48c7a974b5097cb4752eb3853dbac8f622173d24e44",
+    "pred": "Patrick Henry High School Confidential would have followed teenagers from a high school that ranked among the top 1,500 in the United States according to the 2009 Newsweek ranking. (Span: entire question)",
+    "answers": [
+      "#364"
+    ],
+    "all_classes": null,
+    "length": 2699,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.01
+  },
+  {
+    "id": "1ceb1c91662d241b3421853112a91b5868d1b81fe3b88ce4",
+    "pred": "The large subunit and small subunit that use two types of RNA are major components of a ribosome.",
+    "answers": [
+      "Ribosomes"
+    ],
+    "all_classes": null,
+    "length": 3822,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.804
+  },
+  {
+    "id": "7e525340152c2f4b26d7fba85c680dde7b75af77356a7c22",
+    "pred": "Pistacia has more species than Dracula, as it is a genus within the Anacardiaceae family, which includes about 860 known species. (Reference: Passage 1)",
+    "answers": [
+      "Dracula"
+    ],
+    "all_classes": null,
+    "length": 4741,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.123
+  },
+  {
+    "id": "b6352c61b4a748448ce38882861cd5ae5f7f2869a81e92a1",
+    "pred": "Band-e Amir National Park",
+    "answers": [
+      "Band-e Amir National Park"
+    ],
+    "all_classes": null,
+    "length": 2779,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.547
+  },
+  {
+    "id": "4b83e873a551cd83a2e409d2b4467f74dd332326fcbca843",
+    "pred": "The 1958 Pro Bowl was played at the Los Angeles Memorial Coliseum, which is the home of the University of Southern California (USC).",
+    "answers": [
+      "University of Southern California"
+    ],
+    "all_classes": null,
+    "length": 6631,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.079
+  },
+  {
+    "id": "cb677158d6f710ab0cb440b2024cc61c942a1ea4a963087d",
+    "pred": "The context does not provide information about the population of Yau Ma Tei North as a district.",
+    "answers": [
+      "7.2 million"
+    ],
+    "all_classes": null,
+    "length": 1527,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.606
+  },
+  {
+    "id": "4b1df711ec0557b9df23de534c1ce99b7f37528f643b8c29",
+    "pred": "Glynne Townsend (A123 Systems), which was a subsidiary of Wanxiang Group.",
+    "answers": [
+      "A123 Systems, LLC"
+    ],
+    "all_classes": null,
+    "length": 1677,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.651
+  },
+  {
+    "id": "02c6e6b95d2a200df20bea7495469c79b1d89ed560890ee3",
+    "pred": "The context does not provide information about the population of the city where WLLZ-LP's transmitter is located.",
+    "answers": [
+      "143,372"
+    ],
+    "all_classes": null,
+    "length": 4670,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.919
+  },
+  {
+    "id": "3056e292ff1583fe84207873be57c6ec28c28b425087ca84",
+    "pred": "Charles Haughey was Taoiseach (Prime Minister) when he dissolved the Dáil (lower house of the Oireachtas of Ireland) on 25 May 1989.",
+    "answers": [
+      "Taoiseach of Ireland"
+    ],
+    "all_classes": null,
+    "length": 6065,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.36
+  },
+  {
+    "id": "9729ff4cf6a13382c88896cf5a5b176d082cc1137c66b38b",
+    "pred": "Troy is the city where Vegepet (not mentioned in the context) is based, assuming that Vegepet is a hypothetical entity.",
+    "answers": [
+      "Troy, Montana"
+    ],
+    "all_classes": null,
+    "length": 5657,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.11
+  },
+  {
+    "id": "220230ff5154e6f0ccad63965d06ce69a9226bd72cc32fa4",
+    "pred": "Mika Häkkinen (Passage 1)",
+    "answers": [
+      "Mika Häkkinen"
+    ],
+    "all_classes": null,
+    "length": 8359,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.083
+  },
+  {
+    "id": "01aff89f9ce55470c12450b595c268a225a638582dac204f",
+    "pred": "Angels & Demons was directed by Francis Lawrence.",
+    "answers": [
+      "Constantine"
+    ],
+    "all_classes": null,
+    "length": 2245,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.599
+  },
+  {
+    "id": "b785963089bd7f81ee294751c688af85bfe2863dba623373",
+    "pred": "Willam Christensen choreographed The Nutcracker.",
+    "answers": [
+      "George Balanchine"
+    ],
+    "all_classes": null,
+    "length": 7670,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.222
+  },
+  {
+    "id": "72a769d6d0fd1c5c90974e60ab97e88e6853b9115a7fb85e",
+    "pred": "The context does not provide information about Alfred A. Marcus working for North American Light and Power Company or Southern Company.",
+    "answers": [
+      "Xcel Energy Inc."
+    ],
+    "all_classes": null,
+    "length": 2672,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.731
+  },
+  {
+    "id": "207efa55e96afdf705e48bc57b58fc8232bb972a47073d50",
+    "pred": "The release year of \"Around the World in 80 Days\" is given, which is 2004. No information about \"Summer Magic\" is provided in the context, so it cannot be determined when that film was released.",
+    "answers": [
+      "Summer Magic"
+    ],
+    "all_classes": null,
+    "length": 4921,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.173
+  },
+  {
+    "id": "ec3b5bcfa070b047c769413b99a2f32e4f5d2f803cf81a43",
+    "pred": "Isidor Isaac Rabi, named after him. (Context: Passage 1)",
+    "answers": [
+      "Nobel Prize"
+    ],
+    "all_classes": null,
+    "length": 2909,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.652
+  },
+  {
+    "id": "ed6c85899d2a29f6dc8e02ba62bc8f1b1043a8c135fdd132",
+    "pred": "Rankin/Bass Productions is best known for its seasonal television specials, particularly those done in stop motion animation.",
+    "answers": [
+      "seasonal television specials, particularly its work in stop motion animation"
+    ],
+    "all_classes": null,
+    "length": 5059,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.02
+  },
+  {
+    "id": "4c34b33d7a545c4eba3848d54fc4568fdf186e849897aa6e",
+    "pred": "The context does not provide information about an English actress who starred in the 1981 BBC television serial, Sons and Lovers, winning three Olivier Awards.",
+    "answers": [
+      "Dame Eileen June Atkins"
+    ],
+    "all_classes": null,
+    "length": 2912,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.996
+  },
+  {
+    "id": "74ae5bfc8bdac7b560ec92b71604e86654f87b8f7fcbb30a",
+    "pred": "The historical Nimavar school in the Nimavar Bazaar is not mentioned in the provided context.",
+    "answers": [
+      "Iran"
+    ],
+    "all_classes": null,
+    "length": 8228,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.289
+  },
+  {
+    "id": "75f3798af3596cffefe8b932a00b1976f3f25fa0f42089fc",
+    "pred": "Stokely Carmichael (Tommie Smith's name before joining the Olympic Project for Human Rights)",
+    "answers": [
+      "Hakim Abdullah Jamal"
+    ],
+    "all_classes": null,
+    "length": 3952,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.841
+  },
+  {
+    "id": "eac05e5d0936f802e28b0c5081a2c2a1a94fe4f2c20cb2df",
+    "pred": "Rome Ramirez",
+    "answers": [
+      "Keith Morris"
+    ],
+    "all_classes": null,
+    "length": 3799,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.567
+  },
+  {
+    "id": "1a71b5a73ffb21cb52d41e09b1f861748b60f1e59273a080",
+    "pred": "YIVO (Yiddish Scientific Institute)",
+    "answers": [
+      "YIVO"
+    ],
+    "all_classes": null,
+    "length": 5827,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.876
+  },
+  {
+    "id": "963e90eba94bba5bf5cf56755032d7bd4a3e4e225d3b8d14",
+    "pred": "The context does not provide information about the birth year of anyone involved in the 1892 Barbed Wire Patent Case.",
+    "answers": [
+      "January 18, 1813"
+    ],
+    "all_classes": null,
+    "length": 3424,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.863
+  },
+  {
+    "id": "99635fd2d7a227cb3360253cf0f5759ed87bbac33593d830",
+    "pred": "The context does not provide information about Tongshanjiabu, so it cannot be determined if it is higher than Himalchuli.",
+    "answers": [
+      "Himalchuli has three main peaks: East (7893 m), West (7540 m) and North (7371 m)"
+    ],
+    "all_classes": null,
+    "length": 2928,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.944
+  },
+  {
+    "id": "76096cce081ab5b9ef72be19076ee0a79d9e9239474e8b73",
+    "pred": "The context does not provide information about when the place where François Beaucourt was mainly active acquired its present name.",
+    "answers": [
+      "1763"
+    ],
+    "all_classes": null,
+    "length": 8094,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.134
+  },
+  {
+    "id": "670498f9d7fd2582c5791cad2fe212f580d316fa49a8a984",
+    "pred": "The context does not provide information on who gave the mother of Alberic II of Spoleto (Alberic II's mother is Alda of Vienne, daughter of Hugh, King of Italy) the title \"patricia\" of Rome.",
+    "answers": [
+      "Pope John X"
+    ],
+    "all_classes": null,
+    "length": 2152,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.052
+  },
+  {
+    "id": "2903a54db35e788f31a967bdfa021d64ac18ed7e1aed919a",
+    "pred": "Manchester United F.C. is located in the area between the old town gates (Gorse Hill Park) and Trafford Bar.",
+    "answers": [
+      "Manchester United"
+    ],
+    "all_classes": null,
+    "length": 1749,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.682
+  },
+  {
+    "id": "a7c311f9f6423063e02c8236bdd83cc8059fcb9fe78b4fff",
+    "pred": "Yes, both Stanley Elkin and Anne Tyler are from the United States.",
+    "answers": [
+      "yes"
+    ],
+    "all_classes": null,
+    "length": 2650,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.64
+  },
+  {
+    "id": "afa4eccc7b711ace3270c9cbcd784c971a4f0f8d22629ebf",
+    "pred": "The Sand Lake Baptist Church is located in a hamlet with a population of 854 at the 2010 census (Context: Demographics).",
+    "answers": [
+      "1,693"
+    ],
+    "all_classes": null,
+    "length": 4596,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.071
+  },
+  {
+    "id": "fddb2049ab13cf002eb07f658ae13d9f99d83538ed881e9b",
+    "pred": "The context does not provide information about a person who substituted for Simon Pagenaud in the 2016 Honda Indy Grand Prix of Alabama. Therefore, it is impossible to determine which championship they secured a contract to drive in for 2017.",
+    "answers": [
+      "Australian Supercars Championship"
+    ],
+    "all_classes": null,
+    "length": 2809,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.19
+  },
+  {
+    "id": "87fd3f0590498461d595ff1823632c79b66cf313cf55fbb3",
+    "pred": "No, neither Yoo-hoo nor Faygo are carbonated drinks according to the provided context.",
+    "answers": [
+      "no"
+    ],
+    "all_classes": null,
+    "length": 2100,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.633
+  },
+  {
+    "id": "47b3fb2eb0b90839a7887fa2138662a58c0170c96479190a",
+    "pred": "Mike Leach currently coaches at Mississippi State University.",
+    "answers": [
+      "Washington State"
+    ],
+    "all_classes": null,
+    "length": 1649,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.564
+  },
+  {
+    "id": "4b0f3138abafd9fe2f3a16c3b2ffd55199bc3771070b5cd9",
+    "pred": "Floyd Casey Stadium",
+    "answers": [
+      "Floyd Casey Stadium"
+    ],
+    "all_classes": null,
+    "length": 2571,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.593
+  },
+  {
+    "id": "ff048b34a9405c880ccf710acdf1a53244e6039cb76c793a",
+    "pred": "The given context does not provide information about \"Luther: The Calling\". Therefore, I cannot determine the year it was aired.",
+    "answers": [
+      "2010"
+    ],
+    "all_classes": null,
+    "length": 2702,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.874
+  },
+  {
+    "id": "d9f5437fa85841cb12798def39a30721d3d2d140b4982854",
+    "pred": "Gajabrishta is not directly mentioned in the provided context. However, it's a term from Indian mythology that refers to an event where Lord Indra created an elephant as a result of his penance. The connection between the term and elephants is through this mythological story.",
+    "answers": [
+      "Sanskrit"
+    ],
+    "all_classes": null,
+    "length": 4659,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.392
+  },
+  {
+    "id": "93d2774c99edbde88789a9f989642ff160871ca09e66e46a",
+    "pred": "The author of Fifty Shades Freed is British (Niall Leonard).",
+    "answers": [
+      "English"
+    ],
+    "all_classes": null,
+    "length": 7180,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.073
+  },
+  {
+    "id": "de85aaa5c535ba20bdcad5fbabfe13a03687374265a57b44",
+    "pred": "No, the context does not mention the Tundra Mine or Negus Mine at all.",
+    "answers": [
+      "yes"
+    ],
+    "all_classes": null,
+    "length": 2683,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.679
+  },
+  {
+    "id": "232c2ba7b8bb5f22b77e5c55961d0cd0fe673d26870e157b",
+    "pred": "The animated series Project G.e.e.K.e.R., not Kent Scott wrote, ended in 1997, not 2002.",
+    "answers": [
+      "November"
+    ],
+    "all_classes": null,
+    "length": 2128,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.896
+  },
+  {
+    "id": "780b1664552881f2c14a0d943e746855f83709a5399bb4aa",
+    "pred": "The context does not provide information about an actress named Pamela Adlon starring in a movie titled \"Tainted.\"",
+    "answers": [
+      "Shari Shattuck"
+    ],
+    "all_classes": null,
+    "length": 6870,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.16
+  },
+  {
+    "id": "0a44085d7963681015a69416470b86da02135ac722d6301b",
+    "pred": "The context does not provide information about Jolyon James or the composer of the musical he performed in.",
+    "answers": [
+      "British"
+    ],
+    "all_classes": null,
+    "length": 2573,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.767
+  },
+  {
+    "id": "f1c0b9a9ec47ccda8ba4b1be0ca7083b961ba0f06b2a4df7",
+    "pred": "François Englert teaches at Chapman University. [Citation: Passage 1]",
+    "answers": [
+      "Vernon Smith"
+    ],
+    "all_classes": null,
+    "length": 2463,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.732
+  },
+  {
+    "id": "75439ed8609c12817aaee0fa4f749aebb3e4a36dfa72390e",
+    "pred": "Deftones is the California band that has been referred to as \"the Radiohead of metal.\" [Citation: Passage 1]",
+    "answers": [
+      "Deftones"
+    ],
+    "all_classes": null,
+    "length": 1817,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.701
+  },
+  {
+    "id": "8a5d7c131d291d2c7cf2c20ea36a629f969402e0c50a8a8a",
+    "pred": "The population of the town where The Stelljes House is located is not provided in the context.",
+    "answers": [
+      "810"
+    ],
+    "all_classes": null,
+    "length": 3663,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.812
+  },
+  {
+    "id": "cf16ba255ad4b7b0fdae56093ac7d5fb58487dc24f2659e2",
+    "pred": "The context does not provide information about Alsa Mall or Spencer Plaza's location.",
+    "answers": [
+      "India"
+    ],
+    "all_classes": null,
+    "length": 4065,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.833
+  },
+  {
+    "id": "9a19f9594aa73716dd38bcbd5ff1c04e57a6649800570f80",
+    "pred": "Yes, both Mick Jagger and Brett Scallions are musicians.",
+    "answers": [
+      "yes"
+    ],
+    "all_classes": null,
+    "length": 1122,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.521
+  },
+  {
+    "id": "0879d3f078165bdc1aabca26c8526e66d3959e8ab2c6d903",
+    "pred": "The context does not provide information about Erik Watts or his father's birthdate.",
+    "answers": [
+      "May 5, 1939"
+    ],
+    "all_classes": null,
+    "length": 2384,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.726
+  },
+  {
+    "id": "98bf7e9946e86278d6d2b938d751861981c5fe14c356ea68",
+    "pred": "The novel by Achmed Abdullah. (Span: \"Achmed Abdullah\")",
+    "answers": [
+      "Philip K. Dick"
+    ],
+    "all_classes": null,
+    "length": 7970,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.066
+  },
+  {
+    "id": "6320310adc4a826b1bb240c63ac1735b7b29e93a59782364",
+    "pred": "The Roud Folk Song Index number for the nursery rhyme that inspired \"What Are Little Girls Made Of?\" is not provided in the context. However, it's important to note that \"A Wise Old Owl\" and \"What Are Little Girls Made Of?\" are different nursery rhymes.",
+    "answers": [
+      "821"
+    ],
+    "all_classes": null,
+    "length": 492,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.116
+  },
+  {
+    "id": "11b4c60bf00735e20ae817b940d86aa8922e2fcdaa3a0b47",
+    "pred": "Capital Cities is in the pop genre. (Span: Passage 1)",
+    "answers": [
+      "Capital Cities"
+    ],
+    "all_classes": null,
+    "length": 4814,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.833
+  },
+  {
+    "id": "c47c8d3b1917f017cafaecbb4cddd6b92171854247957c08",
+    "pred": "Robert Jordan was born first.",
+    "answers": [
+      "Morgan Llywelyn"
+    ],
+    "all_classes": null,
+    "length": 2315,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.481
+  },
+  {
+    "id": "f536646dd72a8a4f5ebddec61a67b8319dc9187d47bb7fc6",
+    "pred": "Jack Young scored 12 points in the 1952 Individual Speedway World Championship.",
+    "answers": [
+      "14"
+    ],
+    "all_classes": null,
+    "length": 5479,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.968
+  },
+  {
+    "id": "6e541b3b8fc7e59da0da6548a17932b403b2e865d4036982",
+    "pred": "The context does not provide information about a wide receiver for the Toronto Argonauts who played college football for the University of Oklahoma.",
+    "answers": [
+      "Big 12 Conference"
+    ],
+    "all_classes": null,
+    "length": 2508,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.834
+  },
+  {
+    "id": "6eca7d7affce3375ec084f6356c6fc8ddf75eda0f6a4382f",
+    "pred": "Ireland, United Kingdom (Scotland and Wales), Isle of Man, Cornwall (England), Brittany (France, specifically Breton region) and the Netherlands (due to the presence of Utrecht University's Chair of Celtic studies).",
+    "answers": [
+      "Brittany, Cornwall, Ireland, Isle of Man, Scotland and Wales."
+    ],
+    "all_classes": null,
+    "length": 7238,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.505
+  },
+  {
+    "id": "5e7675388334946fc508c4c8ac4ab0c491910fcc0e048bfd",
+    "pred": "SHV connector",
+    "answers": [
+      "coaxial"
+    ],
+    "all_classes": null,
+    "length": 3461,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.529
+  },
+  {
+    "id": "8bcda9c521bb7cb5dcd9a8d4987bd5bcf4ec455a84c62f81",
+    "pred": "Wicked Twister is farther north. (Citation: Passage 2 - no specific citation needed as the question refers to two distinct roller coasters)",
+    "answers": [
+      "Wicked Twister"
+    ],
+    "all_classes": null,
+    "length": 3776,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.942
+  },
+  {
+    "id": "1d81e1f410acc77f1d9a844f811045c2cecb0fdc9e717d41",
+    "pred": "Pamela B. Green is known for her work in feature films and motion graphics, not animation. (Span: Passage 1)",
+    "answers": [
+      "Levni Yilmaz"
+    ],
+    "all_classes": null,
+    "length": 3455,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.864
+  },
+  {
+    "id": "77a3188a3b97619e1661cc289bb1a951308223219592696b",
+    "pred": "Jorma Kalevi Takala",
+    "answers": [
+      "Man Haron"
+    ],
+    "all_classes": null,
+    "length": 2308,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.544
+  },
+  {
+    "id": "a16ac581bde4459861c8681858b07f82363f66142beed4c2",
+    "pred": "The context does not provide information about a specific \"Republican political strategy to reassert the authority of the white race\" in 1920.",
+    "answers": [
+      "Hawaii"
+    ],
+    "all_classes": null,
+    "length": 2123,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.822
+  },
+  {
+    "id": "81d43196cac0effe1645b207f826a30550efc3126c35371e",
+    "pred": "100 meters",
+    "answers": [
+      "100 metres"
+    ],
+    "all_classes": null,
+    "length": 8821,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.115
+  },
+  {
+    "id": "3e4cce5082e968aec7f0c008b1acbd111f505d0579d1c9ee",
+    "pred": "The context does not provide information about a CEO stepping down from a football team in Denver, Colorado in 2014.",
+    "answers": [
+      "due to the onset and progression of Alzheimer's disease"
+    ],
+    "all_classes": null,
+    "length": 5238,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.065
+  },
+  {
+    "id": "9dc6d234e2406aef691ea02ddc2064f343fc30cbc534c937",
+    "pred": "No, Pothos is not a flowering genus of plants. Tibouchina is a flowering genus of plants.",
+    "answers": [
+      "yes"
+    ],
+    "all_classes": null,
+    "length": 2671,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.789
+  },
+  {
+    "id": "7bb5645d62fc946b46910757e007f59e87f52bbf8535da58",
+    "pred": "The Sarvastivada and Sautrantika schools, which are part of the Buddhist Pluralist school. (Span: \"Sarvastivada and Sautrantika\")",
+    "answers": [
+      "Leucippus"
+    ],
+    "all_classes": null,
+    "length": 3553,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.003
+  },
+  {
+    "id": "21849142d27a4c8410bf8e8042f016054a0a0493e0e8b6e6",
+    "pred": "The context does not provide information about the location of the Primetime Race Group.",
+    "answers": [
+      "Hollywood, Florida"
+    ],
+    "all_classes": null,
+    "length": 3223,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.734
+  },
+  {
+    "id": "73d978e7e37a9c7475daa9151f9ead2bd3042e72988cafdd",
+    "pred": "Both structures share a history with the Squadron A Armory, as they are located on the same block (between Madison Avenue and Park Avenue) and were part of the same site.",
+    "answers": [
+      "building"
+    ],
+    "all_classes": null,
+    "length": 1446,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.722
+  },
+  {
+    "id": "f5ca9a0360773900f848072d3d7c63034922bdd0e6925e64",
+    "pred": "The context does not provide information about any \"Operation Lighthouse\" experiment involving Wernher von Braun.",
+    "answers": [
+      "1895"
+    ],
+    "all_classes": null,
+    "length": 3093,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.752
+  },
+  {
+    "id": "e7875d33cdf7138818681e7bb2a13310bba28ea94550d64f",
+    "pred": "Virginia Tech plays in the Atlantic Coast Conference (ACC), not Justin Harper, as stated in the context.",
+    "answers": [
+      "Pac-12 Conference"
+    ],
+    "all_classes": null,
+    "length": 2087,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.672
+  },
+  {
+    "id": "561c378ca284bab34f735f05e21dae8653ca251f6480d6e4",
+    "pred": "The context does not provide information about a show hosted by Gordon Burns.",
+    "answers": [
+      "7pm"
+    ],
+    "all_classes": null,
+    "length": 796,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.488
+  },
+  {
+    "id": "4aee23759e842807b156492356b920a11236c7ea3da20732",
+    "pred": "No, Werther and The Odyssey are not both operas. Werther is a historical drama film based on the novel by Johann Wolfgang von Goethe, while The Odyssey is an epic poem attributed to Homer.",
+    "answers": [
+      "no"
+    ],
+    "all_classes": null,
+    "length": 1394,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.999
+  },
+  {
+    "id": "3df75e9b85781f83af8d3011cedb0c5fc6725f3489e48e54",
+    "pred": "Both Marge Piercy and Richard Aldington are writers.",
+    "answers": [
+      "poet"
+    ],
+    "all_classes": null,
+    "length": 9522,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.126
+  },
+  {
+    "id": "6d8f9be94b67277442c42aa9b437edaf901efec0d0959bda",
+    "pred": "No, Duke Energy is not based in Massachusetts. (Span: Sabal Trail Transmission Pipeline)",
+    "answers": [
+      "no"
+    ],
+    "all_classes": null,
+    "length": 3093,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.683
+  },
+  {
+    "id": "b7af427ee230063a2aabb35691c7a81670c0b7e85ac3b7b2",
+    "pred": "The number of marchers in the protest that Pelham D. Glassford ended is approximately 43,000.",
+    "answers": [
+      "43,000 marchers"
+    ],
+    "all_classes": null,
+    "length": 8953,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.323
+  },
+  {
+    "id": "666b2401378aceb59c9a4d6cc75b006f7c6af8a00c7d6f19",
+    "pred": "SkyWest Airlines, headquartered in Utah, operated United Express Flight 3411 on April 9, 2017.",
+    "answers": [
+      "Indianapolis, Indiana"
+    ],
+    "all_classes": null,
+    "length": 6530,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.121
+  },
+  {
+    "id": "a2bb6c8de2a57c51b35e9d5c005cf46e1c0457f4086ef77d",
+    "pred": "The context does not provide information about any scientific journal being published by an organization located in the Bronx.",
+    "answers": [
+      "1909"
+    ],
+    "all_classes": null,
+    "length": 3220,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.765
+  },
+  {
+    "id": "9fe92e20febe504670266d638939a94fc57c3cf8fe9cf948",
+    "pred": "The context does not provide information about the ownership of radio station KWPW, so I cannot determine if its owner shares a name with an American character actor.",
+    "answers": [
+      "Bill McCutcheon"
+    ],
+    "all_classes": null,
+    "length": 2486,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.87
+  },
+  {
+    "id": "203709148e7052e14bf493f95037458b606b42f2fff54c79",
+    "pred": "Field Marshal Lord Gort, who was born on July 10, 1863 (not 1886 as stated in the question). However, Hill was attached to his command post during the Battle of France in May 1940.",
+    "answers": [
+      "Lord Gort"
+    ],
+    "all_classes": null,
+    "length": 7157,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.453
+  },
+  {
+    "id": "2bfda75e23447ca7e3213d01331c31816f30190a2ff6df71",
+    "pred": "Polk County (Des Moines is the county seat)",
+    "answers": [
+      "Polk County"
+    ],
+    "all_classes": null,
+    "length": 5075,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.769
+  },
+  {
+    "id": "f1ea70c4e2c13d2fda1feda75a72a345c0e91f083220e95a",
+    "pred": "James II, who was overthrown during the Glorious Revolution in 1688.",
+    "answers": [
+      "King James II of England"
+    ],
+    "all_classes": null,
+    "length": 1482,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.596
+  },
+  {
+    "id": "60ec93a22fbcb65eeadd9f1d2b3c8e4ed44d3a2c4285b168",
+    "pred": "\"Get Up (Rattle)\" (2012 remix)",
+    "answers": [
+      "Tommy"
+    ],
+    "all_classes": null,
+    "length": 6600,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.984
+  },
+  {
+    "id": "bcd98af30c2eb7ce1233459715d27f428b111d12fea529b4",
+    "pred": "2009",
+    "answers": [
+      "2006"
+    ],
+    "all_classes": null,
+    "length": 9685,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.155
+  },
+  {
+    "id": "4636487a1855382398fe1e54284cb7dd3d7b8d178ac4a476",
+    "pred": "The religion that developed among the Ovambo people. (Span: Passage 1, Line 2)",
+    "answers": [
+      "West African descendants"
+    ],
+    "all_classes": null,
+    "length": 4653,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.921
+  },
+  {
+    "id": "a93aa642fb8802a99b36cd62febe1c4e995096a9320b00c5",
+    "pred": "Both Henry Roth and Lewis Mumford were American. (Span: N/A)",
+    "answers": [
+      "American"
+    ],
+    "all_classes": null,
+    "length": 3537,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.631
+  },
+  {
+    "id": "9336554e511e88766228ffa1acd1c6f82c9a41046514c253",
+    "pred": "The context does not provide information about Fredric Rieders testifying against anyone related to the murder of 60 patients.",
+    "answers": [
+      "Michael Swango"
+    ],
+    "all_classes": null,
+    "length": 6667,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.007
+  },
+  {
+    "id": "fbd2e6218ec7c8fc1a90b05bf6858a15d376704a278fa79f",
+    "pred": "John le Carré was born first.",
+    "answers": [
+      "Juan Rulfo"
+    ],
+    "all_classes": null,
+    "length": 7961,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.991
+  },
+  {
+    "id": "0aaabfd136117761896b5931d7b468ff8c61909e00140470",
+    "pred": "Doravirine is not listed among the products developed by Merck & Co. in the provided context.",
+    "answers": [
+      "American"
+    ],
+    "all_classes": null,
+    "length": 6171,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.11
+  },
+  {
+    "id": "d18fde9d0b8da2a2febb67a679847ee4ee3259e85a9565f4",
+    "pred": "Kody Lostroh was born in 1985. (Span: Kody Lostroh (born September 18, 1985))",
+    "answers": [
+      "1961"
+    ],
+    "all_classes": null,
+    "length": 2080,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.797
+  },
+  {
+    "id": "5affd6b287c8ce97502760e33a71598e8eee24b78c3dd95c",
+    "pred": "San Diego mayor",
+    "answers": [
+      "United States Secretary of the Interior"
+    ],
+    "all_classes": null,
+    "length": 2459,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.472
+  },
+  {
+    "id": "56dbceaf2e826fbb177035f03d7a263d62365856f21f39da",
+    "pred": "Alice's Adventures in Wonderland",
+    "answers": [
+      "Alice's Adventures in Wonderland"
+    ],
+    "all_classes": null,
+    "length": 3810,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.699
+  },
+  {
+    "id": "ee07a420f322205e992788e25c0b256cadcd99abd359ff0f",
+    "pred": "The context does not provide information about the author of the novel you mentioned.",
+    "answers": [
+      "Vienna"
+    ],
+    "all_classes": null,
+    "length": 1818,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.597
+  },
+  {
+    "id": "795ed5382ff9378f90123aedc2b638c049411295c5678466",
+    "pred": "No, according to the provided context, Tantrix and Personal Preference are not mentioned as types of games.",
+    "answers": [
+      "yes"
+    ],
+    "all_classes": null,
+    "length": 1534,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.62
+  },
+  {
+    "id": "4d6aafffd109cb61fd543f44bda770fda0cf1e1c3798548b",
+    "pred": "The 1961 Night Series Cup games were played at Albert Park, which is an inner suburb of Melbourne. (Span: Passage 1)",
+    "answers": [
+      "Albert Park"
+    ],
+    "all_classes": null,
+    "length": 1586,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.753
+  },
+  {
+    "id": "7528b0be35e8e6007f07c98b9f2d45ee1c854298134aba5c",
+    "pred": "Both Sarah Price and Rob Schneider are actors. (Span: Passage 1 - \"Her parents are actor and comedian Rob Schneider\")",
+    "answers": [
+      "director"
+    ],
+    "all_classes": null,
+    "length": 4438,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.003
+  },
+  {
+    "id": "38bd41e515abf2a44d29c593748db043ba2276d93938fdad",
+    "pred": "The context does not provide information about a city containing the neighborhood Plainview.",
+    "answers": [
+      "Jeffersontown, Kentucky"
+    ],
+    "all_classes": null,
+    "length": 1725,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.623
+  },
+  {
+    "id": "e54d1e07a1fc2ce2afdf7e75f79561d8fe0abd22f4d8bd53",
+    "pred": "The context provided does not mention Susanne Pollatschek or her voice roles. Therefore, it cannot be determined who directed the film where she voiced Olivia Flaversham based on the given context.",
+    "answers": [
+      "Burny Mattinson, David Michener, and the team of John Musker and Ron Clements"
+    ],
+    "all_classes": null,
+    "length": 2139,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.929
+  },
+  {
+    "id": "034b6ac41cd902b7fbde6b304eb2930d8eea616924ba461f",
+    "pred": "WAMC, an NPR affiliate in Albany, New York, has allowed Eric Plakun to discuss his psychiatric work. (Reference: Passage 2)",
+    "answers": [
+      "WAMC"
+    ],
+    "all_classes": null,
+    "length": 3131,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.971
+  },
+  {
+    "id": "b4dfcf1c4f152ba5684531d0eaa43f33ec5b185b92a36884",
+    "pred": "West Australians, based in Perth's eastern suburb. (Span: Passage 1)",
+    "answers": [
+      "Bassendean"
+    ],
+    "all_classes": null,
+    "length": 4990,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.938
+  },
+  {
+    "id": "1fd7df3ba224e985f87e976c7a4a67ddc1012a249a542bea",
+    "pred": "The context does not provide information about Hardley Flood or any animals related to it.",
+    "answers": [
+      "duck"
+    ],
+    "all_classes": null,
+    "length": 1521,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.554
+  },
+  {
+    "id": "3faa54c1f192293c709684aa60c6e2e8cfe34ff55c8b6248",
+    "pred": "Mimosa is a shrub. (Span: \"a genus of about 590 species of herbs and shrubs\")",
+    "answers": [
+      "Mimosa"
+    ],
+    "all_classes": null,
+    "length": 2185,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.753
+  },
+  {
+    "id": "9303f959145f198df63d2d7ec604a9d6efcb3e8daca89e91",
+    "pred": "Both the Bennington and Bridgewater Triangles are associated with hiking and hunting activities, as evidenced by the disappearances of Middie Rivers (1945) and Paula Welden (1946) in the Bennington Triangle.",
+    "answers": [
+      "alleged paranormal phenomena"
+    ],
+    "all_classes": null,
+    "length": 3193,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.189
+  },
+  {
+    "id": "a18c0ece7c2ae88d2f9f3ffc5eaa13297a1b5d0125a172ad",
+    "pred": "Carlos Salazar Lomelín is the CEO of Coca-Cola FEMSA. (Span: Passage 1, Line 2)",
+    "answers": [
+      "Fomento Económico Mexicano"
+    ],
+    "all_classes": null,
+    "length": 4644,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.091
+  },
+  {
+    "id": "22a4122731366b93dd7495f9cb64b9312537fbe85797efbc",
+    "pred": "Ellie Kemper",
+    "answers": [
+      "Ellie Kemper"
+    ],
+    "all_classes": null,
+    "length": 2308,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.492
+  },
+  {
+    "id": "c16a3dd0b5b97180359715cab5c41d528cf2a99e2744f037",
+    "pred": "Yes, both Yut and Tsuro are board games. [Passage 1]",
+    "answers": [
+      "yes"
+    ],
+    "all_classes": null,
+    "length": 501,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.517
+  },
+  {
+    "id": "d7d92c85b8becc33e60fc03507933f8eaf53b5e1067286de",
+    "pred": "Avoca Beach is the suburb where Tessa, of Microwave Jenny, grew up. [Citation: Passage 1]",
+    "answers": [
+      "Umina Beach, New South Wales"
+    ],
+    "all_classes": null,
+    "length": 1880,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.724
+  },
+  {
+    "id": "480b33cc38878ea4fe81b796d09ba2d10cca554611e323ec",
+    "pred": "The city in the Philippines that is home to Robinsons Galleria is Quezon City, but it's important to note that the 4th largest shopping mall in the world is not specified in the provided context.",
+    "answers": [
+      "Metro Manila"
+    ],
+    "all_classes": null,
+    "length": 3269,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.099
+  },
+  {
+    "id": "ad26b1fdaa97e8ef1c290a41a9151cc6b453756cb2715176",
+    "pred": "Neither Sandra Pizzarello nor the doctorate is associated with each other in the provided context.",
+    "answers": [
+      "University"
+    ],
+    "all_classes": null,
+    "length": 7044,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.022
+  },
+  {
+    "id": "78e73e15102e688a5b5f43155b11658907db8caa30fdb16e",
+    "pred": "No, Qionghai did not have a population of 658,798 in 2002.",
+    "answers": [
+      "In 2002, Suining had a population of 658,798."
+    ],
+    "all_classes": null,
+    "length": 1702,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.764
+  },
+  {
+    "id": "e5e18488f0e900206332a857f70da66dc59829937c913ff0",
+    "pred": "They both have a connection to music, as Yameen is an American hip hop producer (Span: Passage 1) and Eckō Unltd., which collaborated with SupremeEx (an alias of Yameen), is a clothing brand that has worked with Electronic Arts / EA Sports (Span: Passage 1). However, there's no direct evidence in the provided context to suggest a collaboration between Yameen and Activision.",
+    "answers": [
+      "video game"
+    ],
+    "all_classes": null,
+    "length": 2587,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.516
+  },
+  {
+    "id": "887be3f3f2080532b3c0f1dc4d26be4f8a06030bf2e68a1a",
+    "pred": "No, only Frank Lloyd is an American film director. Olivier Assayas is French.",
+    "answers": [
+      "no"
+    ],
+    "all_classes": null,
+    "length": 2645,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.718
+  },
+  {
+    "id": "2bf8384417cec2f1a2d43a2602326d90a97622d87898b1cc",
+    "pred": "The context does not provide information about the person responsible for the concept of a dimensionless number.",
+    "answers": [
+      "French mathematician and physicist"
+    ],
+    "all_classes": null,
+    "length": 2360,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.695
+  },
+  {
+    "id": "826474c90684b1813df9324f779959a5e060d1cfc893a85f",
+    "pred": "Santa Bring My Baby Back was released on Elvis' Christmas Album (1957).",
+    "answers": [
+      "Elvis' Christmas Album"
+    ],
+    "all_classes": null,
+    "length": 5676,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.91
+  },
+  {
+    "id": "54d1487358089d52613d8e6970c3efdd5c56d112159d2810",
+    "pred": "The Camp Casey was named after Major Hugh Boyd Casey, not Camp Courtney. There is no information about a battle codenamed for Major Hugh Boyd Casey in the provided context.",
+    "answers": [
+      "Operation Iceberg"
+    ],
+    "all_classes": null,
+    "length": 3817,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.14
+  },
+  {
+    "id": "5748ce1eca37fc55596e58fcff71e45363396002d28e0af9",
+    "pred": "Logar Province",
+    "answers": [
+      "Puli Alam"
+    ],
+    "all_classes": null,
+    "length": 5468,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.69
+  },
+  {
+    "id": "302ee593ca790dfb2dcbfd4341817fc64f8d106f65f61867",
+    "pred": "The context does not provide information about the 2013 6 Hours of Silverstone winners or their current roles as co-commentators.",
+    "answers": [
+      "BBC Formula One"
+    ],
+    "all_classes": null,
+    "length": 1372,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.782
+  },
+  {
+    "id": "efc793ac73a0341a7cc35ea6872a89be3d4fed5f64c1e043",
+    "pred": "The \"50th Law\" does not relate to the context provided. The book \"Stones into Schools\" is about Greg Mortenson, not a classical Greek philosopher.",
+    "answers": [
+      "Plato"
+    ],
+    "all_classes": null,
+    "length": 2051,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.891
+  },
+  {
+    "id": "b3647c02310a89ccb2822c163da3bead1ad3cd21948d4769",
+    "pred": "The context does not provide information about the host of The Island.",
+    "answers": [
+      "Northern Ireland"
+    ],
+    "all_classes": null,
+    "length": 3577,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.659
+  },
+  {
+    "id": "dc14a859291c1d678432626f6f7974f8ecca536f4b7bdd6c",
+    "pred": "Jerry Garcia was born earlier than Joe Gooch. (The context does not provide information about Joe Gooch's birth date.)",
+    "answers": [
+      "Joe Gooch"
+    ],
+    "all_classes": null,
+    "length": 1498,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.685
+  },
+  {
+    "id": "75d66ce7bb5fbcea2d942895c0b10144ba9a94282e2e9f15",
+    "pred": "Both Lavinia Greenlaw and Nâzım Hikmet are poets, as they were translated by Mirtemir Tursunov. (Reference(s): Passage 1)",
+    "answers": [
+      "poet and novelist"
+    ],
+    "all_classes": null,
+    "length": 3120,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.101
+  },
+  {
+    "id": "ea58013717bdbe9f0bad1991ed03d1afe3208bf514d9a2cd",
+    "pred": "The director of Le Rêve was Dominic Champagne, who also created Zumanity. (Reference: Passage 3)",
+    "answers": [
+      "O"
+    ],
+    "all_classes": null,
+    "length": 7489,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.167
+  },
+  {
+    "id": "228572a285ddcbb4947f362c07531238d1eec58e0fe0cfc6",
+    "pred": "Ohio University (Passage 1)",
+    "answers": [
+      "West Lafayette, Indiana"
+    ],
+    "all_classes": null,
+    "length": 1683,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.516
+  },
+  {
+    "id": "1650b91e6fb722111b6461fc9524295246c3bd3b1a342267",
+    "pred": "The context does not provide information about Roger Stuart Woolhouse being a biographer of a philosopher.",
+    "answers": [
+      "Father of Liberalism"
+    ],
+    "all_classes": null,
+    "length": 2361,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.726
+  },
+  {
+    "id": "e9b828ee7169d1978f3bcb6de5bbb0f54f9ee3bfc0ffdb8b",
+    "pred": "The Port Arthur massacre resulted in 35 deaths.",
+    "answers": [
+      "35 people"
+    ],
+    "all_classes": null,
+    "length": 3767,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.632
+  },
+  {
+    "id": "88b095fb93df1d962625daa1796a46ce4721c316b0ab819b",
+    "pred": "Charlotte Brontë",
+    "answers": [
+      "\"Currer Bell\""
+    ],
+    "all_classes": null,
+    "length": 1097,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.466
+  },
+  {
+    "id": "690c31a6d6263dacd649fefc5b5cfa94210205fdcdb43905",
+    "pred": "No, only the Picardy Spaniel is universally recognized by several Kennel Clubs and associations mentioned in the context. The French Spaniel is not explicitly mentioned as being universally recognized.",
+    "answers": [
+      "no"
+    ],
+    "all_classes": null,
+    "length": 2814,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.948
+  },
+  {
+    "id": "e9348ea3d217789522ba17d5dd2c69c01bacc9d677c614a4",
+    "pred": "The Toronto International Film Festival did not premiere a movie produced by BBC Films in the provided context.",
+    "answers": [
+      "2011"
+    ],
+    "all_classes": null,
+    "length": 3057,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.767
+  },
+  {
+    "id": "781060824875cb0343a110f5e6f83d46e638cbb89e2ad7c6",
+    "pred": "Cortina d'Ampezzo, which is located in Italy. (Citation: Passage 1)",
+    "answers": [
+      "the Veneto region of Northern Italy"
+    ],
+    "all_classes": null,
+    "length": 787,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.54
+  },
+  {
+    "id": "8e9e0bac1908657b2f48452fe70dd4f7ab765b9633b75627",
+    "pred": "The club was formed in 1970, not related to Adam Johnson.",
+    "answers": [
+      "1919"
+    ],
+    "all_classes": null,
+    "length": 1880,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.61
+  },
+  {
+    "id": "e8ba4badc3c5d30cc0942ede8df86a72257c492c07025dab",
+    "pred": "This kingdom surrendered to French forces.",
+    "answers": [
+      "French"
+    ],
+    "all_classes": null,
+    "length": 4073,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.638
+  },
+  {
+    "id": "3f17f12cfde4c677f3af81362ce1df42f949bee1ceae40f4",
+    "pred": "Vincent Kling taught at the University of Vienna. [Passage 1, line 6]",
+    "answers": [
+      "University of Vienna"
+    ],
+    "all_classes": null,
+    "length": 3556,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.755
+  },
+  {
+    "id": "83df22880fee9f761464404ca2ff6ab21954e6b0827b4142",
+    "pred": "Brian Stokes Mitchell, a past honoree from the New Dramatists Organization, is the powerful baritone who won the Tony Award for Best Actor in 2000. (Span: Passage 1)",
+    "answers": [
+      "Brian Stokes Mitchell"
+    ],
+    "all_classes": null,
+    "length": 3519,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.102
+  },
+  {
+    "id": "3518c800877d0b8cc48ca575de745502b472a139564ffa46",
+    "pred": "3 Arts Entertainment had a coalition with Netflix for the 13-episode, 2015 season of \"Unbreakable Kimmy Schmidt,\" a Tina Fey created sitcom. (Span: not provided)",
+    "answers": [
+      "Netflix"
+    ],
+    "all_classes": null,
+    "length": 1260,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.01
+  },
+  {
+    "id": "3acb0cc0a04a3f71078ee120e1b7ca4f089548b7cc8a8056",
+    "pred": "Yes, according to the context, both Clans and Drunter und Drüber were created by Leo Colovini. (Span: \"See Category:Board games for a list of board game articles.\")",
+    "answers": [
+      "Drunter und Drüber is a multiplayer board game invented by Klaus Teuber"
+    ],
+    "all_classes": null,
+    "length": 501,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.786
+  },
+  {
+    "id": "90caafc7fe51eee4143874971f67bb3e0107d26179c437f7",
+    "pred": "Louisville, Kentucky (implied from the context that the Louisville Thunder played their home games at the Broadbent Arena)",
+    "answers": [
+      "Louisville"
+    ],
+    "all_classes": null,
+    "length": 1177,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.692
+  },
+  {
+    "id": "8fddd32ef1d88a5f8fde49152fc015eb80b3d60d1108d073",
+    "pred": "Pop'n TwinBee: Rainbow Bell Adventures, not mentioned in the context, but it is one of the games developed by Konami that was localized for the European market after Pop'n TwinBee. However, Christian Whitehead is known for his work on Sonic Mania and Sonic Mania Plus, not on any TwinBee game.",
+    "answers": [
+      "Sonic Mania"
+    ],
+    "all_classes": null,
+    "length": 3392,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.4
+  },
+  {
+    "id": "bb5fb55b76b2e47a59f48907aca9db96fafabd5b874e83cf",
+    "pred": "Richie Ginther, who competed in the 1971 Canadian Grand Prix, was not born in 1937. He was born in 1930.",
+    "answers": [
+      "Mark Neary Donohue Jr."
+    ],
+    "all_classes": null,
+    "length": 6438,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.255
+  },
+  {
+    "id": "e0a5da9581af9a4a573423cbdcf207c5436dc35ff8a9d380",
+    "pred": "The context does not provide information about Brandon James Routh or Brian Ralston's cities, so it cannot be determined from the provided information.",
+    "answers": [
+      "an acting career"
+    ],
+    "all_classes": null,
+    "length": 2634,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.789
+  },
+  {
+    "id": "d136a5063f8e7f5594182b51b05d626ca0671aea2ba22226",
+    "pred": "The first film scored by the composer of Udhayam NH4's soundtrack was The Godfather Part II. (Reference: Passage 2)",
+    "answers": [
+      "Veyyil"
+    ],
+    "all_classes": null,
+    "length": 1752,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.892
+  },
+  {
+    "id": "07f505d321fd7a7c04e158059cb69ac3ac7ecdebfb03037d",
+    "pred": "The Kentucky Derby day",
+    "answers": [
+      "Saturday"
+    ],
+    "all_classes": null,
+    "length": 2624,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.535
+  },
+  {
+    "id": "019dbd177ddcff6752aaabc8c0e459f3ae4003f718bd672b",
+    "pred": "Days of Our Lives",
+    "answers": [
+      "Neighbours"
+    ],
+    "all_classes": null,
+    "length": 4693,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.75
+  },
+  {
+    "id": "a1cce86489841f2514678029dbe95b7289b9d47f52f44939",
+    "pred": "The context does not provide information about Frederick John Fulton, as it only discusses John Fulton (1803–1853), an instrument maker, not a stagecoach robber.",
+    "answers": [
+      "Bill Miner"
+    ],
+    "all_classes": null,
+    "length": 2095,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.905
+  },
+  {
+    "id": "4b753aee2d76b79f12f1b8708dd61bde51405af6fe602520",
+    "pred": "Chippewa County",
+    "answers": [
+      "Chippewa County"
+    ],
+    "all_classes": null,
+    "length": 8333,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.044
+  },
+  {
+    "id": "0118217cf85bd94f6a5f65952212eb05e7176fd3b18c694a",
+    "pred": "The context does not provide information on the seating capacity of the Androscoggin Bank Colisée.",
+    "answers": [
+      "3,677 seated"
+    ],
+    "all_classes": null,
+    "length": 1727,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.665
+  },
+  {
+    "id": "c9f8b2166f7c44bf2e0843b2c77fb9fa5738af275555ca73",
+    "pred": "The context does not provide information about the origin of the ingredients for She-crab soup.",
+    "answers": [
+      "Atlantic Ocean"
+    ],
+    "all_classes": null,
+    "length": 2793,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.777
+  },
+  {
+    "id": "a3859ad1c8ffbce9bb2952f83cb463cc7051072c38eb8d70",
+    "pred": "Raj Kapoor and Mike Cahill do not share the same profession in the provided context. Raj Kapoor is a film director, while there is no information about Mike Cahill's profession in the given context.",
+    "answers": [
+      "director"
+    ],
+    "all_classes": null,
+    "length": 3473,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.068
+  },
+  {
+    "id": "4567b6935bf5c64a1974b1089d67d176d9acac6b29836cb7",
+    "pred": "Viking, who were promoted from Adeccoligaen in 2012, beat Start, a Norwegian football club from the town of Kristiansand currently playing in Tippeligaen. (Start was the team that Viking defeated in the La Manga Cup in 2011.)",
+    "answers": [
+      "IK Start"
+    ],
+    "all_classes": null,
+    "length": 3191,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.33
+  },
+  {
+    "id": "f327fe18cfe320df9685d7195f33d41745a432e769476dd0",
+    "pred": "The context does not provide information about the colors worn by the Oregon Duck, mascot of the University of Oregon athletic teams.",
+    "answers": [
+      "green and yellow"
+    ],
+    "all_classes": null,
+    "length": 1852,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.676
+  },
+  {
+    "id": "4cdf613f05eaa834f5867ee486ec94d47587f09b5a7bb6db",
+    "pred": "Claire Fraser is a character in the British-American television drama series Outlander, developed by Ronald D. Moore.",
+    "answers": [
+      "Claire is a married World War II nurse"
+    ],
+    "all_classes": null,
+    "length": 2068,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.778
+  },
+  {
+    "id": "1df269c3eca341348a837f39c628f59aa40d663c07875d24",
+    "pred": "Douglas Murray serves as associate director for the Henry Jackson Society.",
+    "answers": [
+      "Henry Jackson Society"
+    ],
+    "all_classes": null,
+    "length": 7312,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.012
+  },
+  {
+    "id": "d6fe5bc54941b566b3c88598bbc459ee4d7098d6c6f22c4d",
+    "pred": "Baghdad was also known as the Abbasid realm during the Abbasid Caliphate. (Span: Passage 1 - The Sinbad tales are set in the reign of the Abbasid Caliph Harun al-Rashid)",
+    "answers": [
+      "the City of Peace"
+    ],
+    "all_classes": null,
+    "length": 3125,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.158
+  },
+  {
+    "id": "d3249d0550c7105bdd4ed60c9ca9d955db08d362574c2086",
+    "pred": "The biographical film where Leonard Logsdail had a cameo role was not mentioned in the provided context.",
+    "answers": [
+      "Martin Scorsese"
+    ],
+    "all_classes": null,
+    "length": 2275,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.663
+  },
+  {
+    "id": "7d3bc2e36b406094cb586b4eeb07f13a7f1ac9dfbdce7d1f",
+    "pred": "Luigi Cherubini wrote his music most recently.",
+    "answers": [
+      "Michael Kemp Tippett"
+    ],
+    "all_classes": null,
+    "length": 5351,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.94
+  },
+  {
+    "id": "bf8ee342564ae21a17b169023f83a20220a63198827a0232",
+    "pred": "Beijing (Zhengyangmen)",
+    "answers": [
+      "Babylon"
+    ],
+    "all_classes": null,
+    "length": 11597,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.425
+  },
+  {
+    "id": "c274ce731f680eb107c70386e2e341615378165ecc22799e",
+    "pred": "The context does not provide information about a Lithuanian producer associated with a song that was one of the most popular songs in Ibiza in 2014.",
+    "answers": [
+      "Ten Walls"
+    ],
+    "all_classes": null,
+    "length": 1237,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.813
+  },
+  {
+    "id": "861e7d3ba836f6a816d0265dc1c9f5566ef4d22b8de223ca",
+    "pred": "John Paesano did not write any film for DreamWorks Dragons in the provided context.",
+    "answers": [
+      "Dragons: Riders of Berk"
+    ],
+    "all_classes": null,
+    "length": 5960,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.979
+  },
+  {
+    "id": "6c64a81fa526cb96d0a191d9cbd85a7e917b5d4f03b316d7",
+    "pred": "Steve Moore, who was involved in the Todd Bertuzzi-Steve Moore incident, was born in 1976 (Passage 3).",
+    "answers": [
+      "1978"
+    ],
+    "all_classes": null,
+    "length": 3379,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.934
+  },
+  {
+    "id": "b84411acb9b2e39a68f92ed9e164eb053d3dd9ba4160f0af",
+    "pred": "The context does not provide information about Cosmos or its characters' vocal ranges.",
+    "answers": [
+      "Jānis Strazdiņš"
+    ],
+    "all_classes": null,
+    "length": 2719,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.608
+  },
+  {
+    "id": "de202b6e76dc82831c7f14a6d4346d84b0c0e5e3783356cf",
+    "pred": "English authors",
+    "answers": [
+      "writer"
+    ],
+    "all_classes": null,
+    "length": 5748,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.716
+  },
+  {
+    "id": "e0873e8c51c3e473d614f6ff9705557ec2f37972ec4be718",
+    "pred": "The Qin dynasty, which collapsed in 210 BC.",
+    "answers": [
+      "the Qin dynasty"
+    ],
+    "all_classes": null,
+    "length": 6666,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.025
+  },
+  {
+    "id": "c1cfe7334235bf4a9ef11293d8be2d4055a70ac89334be2c",
+    "pred": "The primus motor held the title of the author for Det norske Theater's first production, as mentioned in Passage 2.",
+    "answers": [
+      "Baron of Holberg"
+    ],
+    "all_classes": null,
+    "length": 2868,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.83
+  },
+  {
+    "id": "de89026c970fbb6dff04176107b9cf20407d155bc1ae2eec",
+    "pred": "The punter for the Dallas Cowboys in the 1980s played college football at the University of Mississippi.",
+    "answers": [
+      "Arizona State University"
+    ],
+    "all_classes": null,
+    "length": 1572,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.671
+  },
+  {
+    "id": "c6c1401ec6e635eac28b985621cf59bde9e416cac2b30080",
+    "pred": "Yes, both Toy Trawler Spaniel (from Passage 1) and Sussex Spaniel (from Passage 2) are dog breeds.",
+    "answers": [
+      "yes"
+    ],
+    "all_classes": null,
+    "length": 3263,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.962
+  },
+  {
+    "id": "3ece2c87c1ddea4a504fd1c67fe75d34ca8f818bd9ea15d0",
+    "pred": "The Matthew Good Band is not mentioned as being still together in the provided context.",
+    "answers": [
+      "Switchfoot"
+    ],
+    "all_classes": null,
+    "length": 3563,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.732
+  },
+  {
+    "id": "ce14f5dd15a5819d08a11f04e015e35a6f3640119973f806",
+    "pred": "No, Portland International Airport is not located in Oregon; it's in Portland, Oregon, United States. Gerald R. Ford International Airport is located in Grand Rapids, Michigan, United States.",
+    "answers": [
+      "no"
+    ],
+    "all_classes": null,
+    "length": 5190,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.105
+  },
+  {
+    "id": "d3b2acfdec13f925424cd7d96b689557edfd08e6dd6177b7",
+    "pred": "Jake Kasdan won more awards, as he is the director of Bad Teacher, which grossed $216.2 million, but there is no information provided about awards won by him or his work in the context.",
+    "answers": [
+      "Brothers Quay"
+    ],
+    "all_classes": null,
+    "length": 4825,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.197
+  },
+  {
+    "id": "c5d6aa8cb0ad17a88eb66d578e86f783e3ac1f3684df9425",
+    "pred": "The context does not provide information about the length of the river that The Atherton Bridge spans.",
+    "answers": [
+      "37.5"
+    ],
+    "all_classes": null,
+    "length": 2739,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.776
+  },
+  {
+    "id": "31386c51d334a83befff8c1264657e197fad8b2885906939",
+    "pred": "The Bangor Daily News is talking about Sawin Millett because in December 2011, they ranked him as the ninth most influential person in Maine politics. (Reference: Passage 2, last sentence)",
+    "answers": [
+      "Commissioner by the Maine Senate"
+    ],
+    "all_classes": null,
+    "length": 3637,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.023
+  },
+  {
+    "id": "27190bb50ab7e97f74e2feec7dc3ef037f1a1c74d335ecb1",
+    "pred": "The context does not provide information about an actor named Sean Tully or any dancing contest he participated in.",
+    "answers": [
+      "Jodie Prenger"
+    ],
+    "all_classes": null,
+    "length": 861,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.629
+  },
+  {
+    "id": "b524574cca42824f963480aae00867719108113389d087d3",
+    "pred": "The Waterloo Bridge and London Eye are both on the River Thames. (Span: Context Passage 1)",
+    "answers": [
+      "Thames"
+    ],
+    "all_classes": null,
+    "length": 1177,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.687
+  },
+  {
+    "id": "d3b197d5b4da1198fc9c232524faced0f528b89f919b8061",
+    "pred": "Allure is a beauty magazine. (From Passage 1 and 2)",
+    "answers": [
+      "Allure"
+    ],
+    "all_classes": null,
+    "length": 1488,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.622
+  },
+  {
+    "id": "0d6a7aae6f7e00180107c47a73dedda18caf3949666c4d55",
+    "pred": "Jaleel White",
+    "answers": [
+      "Jaleel Ahmad White"
+    ],
+    "all_classes": null,
+    "length": 3296,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.662
+  },
+  {
+    "id": "c5f1f53de09eb82eae93ae68a9581141a8cc8f3df6851926",
+    "pred": "There is no information in the provided context suggesting that a lake in Australia is named after a Scottish knight.",
+    "answers": [
+      "Lake Wallace"
+    ],
+    "all_classes": null,
+    "length": 5536,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.99
+  },
+  {
+    "id": "5fc84dadeb648a27c3aaa64698a5bec5d2ef23eb32e22e44",
+    "pred": "The context does not provide information on how many records were sold for the song \"Four Seasons of Love.\" However, it mentions that \"You're the Apple of My Eye,\" a song by The Four Lovers (precursor to The Four Seasons), reached the #62 position on the Billboard Hot 100.",
+    "answers": [
+      "140 million"
+    ],
+    "all_classes": null,
+    "length": 1855,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.138
+  },
+  {
+    "id": "40b5d54934bcf22bb9267e605c49d46509f3bd41b1a34c31",
+    "pred": "Diane Morgan and Joe Wilkinson are part of the comedy duo Two Episodes of Mash, as mentioned in Passage 1.",
+    "answers": [
+      "the deadpan sketch group"
+    ],
+    "all_classes": null,
+    "length": 4148,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.919
+  },
+  {
+    "id": "c9ee71b5dc7f5a4538d7727c95f80c174d3c9819dfbeac5a",
+    "pred": "The 53rd National Hockey League All-Star Game did not take place yet as of the given context, which is from the 6th All-Star game in 1952.",
+    "answers": [
+      "1998"
+    ],
+    "all_classes": null,
+    "length": 591,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.799
+  },
+  {
+    "id": "4670f2a542ac06d27e47a74a042cf57f743fba34722a7dc5",
+    "pred": "The author's first name is not provided in the context.",
+    "answers": [
+      "William"
+    ],
+    "all_classes": null,
+    "length": 3181,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.771
+  },
+  {
+    "id": "f2da37b927d3f8ce752b69d7149a6eb31aa738d123f8fdb6",
+    "pred": "John Byrne is known for his work on Marvel Team-Up.",
+    "answers": [
+      "Gerald \"Jerry\" Joseph Bingham, Jr."
+    ],
+    "all_classes": null,
+    "length": 4307,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.815
+  },
+  {
+    "id": "5da42038bb9d29bb30e4094504ad06dc2d43afa373568686",
+    "pred": "No, neither Kaiping nor Pingxiang, Guangxi are located in Guangdong Province.",
+    "answers": [
+      "no"
+    ],
+    "all_classes": null,
+    "length": 563,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.612
+  }
+]
