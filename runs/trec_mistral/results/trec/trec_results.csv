@@ -1,0 +1,225 @@
+id,question,answers,pred,EM,F1,generation_time
+bb86302b1936b14c09091143ce6e0d4d4013c4789ece0230,"Question: Where was the first golf course in the United States ?
+Type:",['Other location'],"The first golf course in the United States was located in St. Andrews, Yonkers, New York (Line 1).",0.0,0.0,2.719
+be63e2d9490453d1b939ba8f850a386c7828f776df937d8c,"Question: What was J.F.K. 's wife 's name ?
+Type:",['Individual'],Jackie Kennedy was J.F.K.'s wife. [Span: Jackie Kennedy],0.0,0.0,2.433
+1e8eb08f71a04cd4391fcaa7d98a166627d65284c467a318,"Question: What color is indigo ?
+Type:",['Color'],Indigo is a shade of blue (context: not specified).,0.0,0.0,3.987
+e8c5eb156625bc57f11c1f0c6e9ba97abb46b8672aefb2df,"Question: When was President Kennedy shot ?
+Type:",['Date'],"November 22, 1963 [Span: November 22, 1963]",0.0,0.0,4.248
+9587abceff7bb3b9e0f0df6a0a040945a27b7e1eb67c64e5,"Question: What currency does Argentina use ?
+Type:",['Currency name'],The currency used in Argentina is the Argentine Peso (Spanish: peso argentino). [Spanish: peso argentino],0.0,0.13333333333333336,2.614
+3e7d6a53447488a4bf1b9e9e08ea589028f3b4197d92f5a4,"Question: What is a biosphere ?
+Type:",['Definition of something'],"The biosphere refers to the zone on Earth where life exists, including all ecosystems and organisms (Lines 1-2).",0.0,0.0,2.568
+53314ceb95fb9a488c88d21402e09c826d927f9c7402d0cf,"Question: What river runs through Rowe , Italy ?
+Type:",['Other location'],"The text does not provide information about a river running through Rowe, Italy.",0.0,0.0,2.36
+dc7348606b7d50383c1e69a0ea2787da8a4506114fad6f2a,"Question: What does `` Sitting Shiva '' mean ?
+Type:",['Definition of something'],"""Sitting Shiva"" is a Hindu practice where an individual mourns for the deceased, often by fasting and meditating for several days. [Span: Sitting Shiva]",0.0,0.0,2.623
+6c5121b0b6fd45c4c437d96cad36c46dffa122fabb7cf8eb,"Question: What currency do they use in Brazil ?
+Type:",['Currency name'],They use the Brazilian Real (BRL) in Brazil. [Span: They use the Brazilian Real (BRL) in Brazil.],0.0,0.0,4.379
+e55a65ad534b2649ceccf41cdcba863db7774efbd1408eed,"Question: What is the effect of volcanoes on the climate ?
+Type:",['Description of something'],"Volcanoes can have both cooling and warming effects on the climate, depending on the amount and type of material they release. (Span: entire context)",0.0,0.08,2.572
+c84d7df6e4889807a25b8fb80db29c8c3d419c09387ef9e1,"Question: What is Valentine 's Day ?
+Type:",['Definition of something'],"Valentine's Day is a celebration of love and affection, typically marked on February 14th. [Span: February 14th]",0.0,0.1,2.542
+f03199226a1925234dde134936aea510c2f331e636106781,"Question: When was the Boston tea party ?
+Type:",['Date'],"The Boston Tea Party occurred on December 16, 1773. [Span: December 16, 1773]",0.0,0.0,2.543
+ed3fccd0229defe456bc01dd48d59cd62d04b49f1b1b1e0a,"Question: What is the rainiest place on Earth ?
+Type:",['Other location'],"The rainiest place on Earth is Mawsynram, India [Context: No specific mention of location].",0.0,0.13333333333333336,2.511
+4a198f563d6897cf45a1acd7af747ea3ac8e73698d1a94e7,"Question: Who was the first woman killed in the Vietnam War ?
+Type:",['Individual'],The text does not provide information about the first woman killed in the Vietnam War.,0.0,0.0,2.389
+31277bc109b79395bbaed904e4696eceefe807fe63e6d375,"Question: When was Abraham Lincoln born ?
+Type:",['Date'],"Abraham Lincoln was born on June 12, 1809. [Span: June 12, 1809]",0.0,0.0,2.549
+fe48b8be1c5cc6e474c04f8b96b1f2a37095e7245594b2ad,"Question: What date was Dwight D. Eisenhower born ?
+Type:",['Date'],"Dwight D. Eisenhower was born on October 14, 1890 (line 2).",0.0,0.0,2.538
+b19440bff3ae91b4ff667d2183b7e5b2b2b52df48ba53289,"Question: What monastery was raided by Vikings in the late eighth century ?
+Type:",['Other entity'],The monastery raided by Vikings in the late eighth century was Lindisfarne [Monk's Island].,0.0,0.0,2.544
+628dffa806ccbd5b0d3ea898071a5bba1fa322937a13b3d0,"Question: How many feet in a mile ?
+Type:",['Number of something'],"There are 5,280 feet in a mile. (Context: ""There are 5280 feet in a statute mile."")",0.0,0.0,2.557
+f9666d6736c07d6af8c7599e04e37f230b63e032bc2b3cc8,"Question: Where is the Eiffel Tower ?
+Type:",['Other location'],"The Eiffel Tower is located in Paris, France. [Paris, France]",0.0,0.0,2.427
+ae345fc2a13db040fb296e9d819edf26ac19cadfcd1a1ba6,"Question: What is nepotism ?
+Type:",['Definition of something'],Nepotism refers to favoritism shown towards individuals based on familial relationships rather than merit or qualifications (Span 1).,0.0,0.0,2.527
+0b6cb30081f15859876d46020fca4dd45fb6fc0f24b33a07,"Question: What is the sales tax rate in New York ?
+Type:",['Other number'],"The sales tax rate in New York is 4%. (From context: ""The combined sales tax rate in New York City is 8.875%, but the statewide sales tax rate is 4%."")",0.0,0.0,2.729
+8b55d14186093e0012da5a7cd1b800d04704364bc6ce3686,"Question: What is autism ?
+Type:",['Definition of something'],"Autism is a developmental disorder characterized by difficulties in social interaction and communication, and repetitive behaviors (paragraph 1).",0.0,0.0,4.121
+5164362f6132cb801e1d5df1c2c6356ea8bf16e9a4402a1e,"Question: How tall is the Gateway Arch in St. Louis , MO ?
+Type:","['Distance, linear measure']","The Gateway Arch in St. Louis, MO is 630 feet tall. [Span: Gateway Arch in St. Louis, MO is 630 feet tall.]",0.0,0.0,2.627
+e7e40bf7a9ac82f5a438c6fc369d3208e12296907e42c62a,"Question: What does CPR stand for ?
+Type:",['Expression abbreviated'],Cardiopulmonary Resuscitation (CPR),0.0,0.0,2.353
+a20b33a8a018d27269d286e9ff805f8fbf1a370f080a14cd,"Question: What is Susan B. Anthony 's birthday ?
+Type:",['Date'],"Susan B. Anthony's birthday was June 15, 1820. [Span: June 15, 1820]",0.0,0.0,2.608
+c49fd9c1e59b10bfe04e25ca13954f4cbf77c64beb67df64,"Question: What is the esophagus used for ?
+Type:",['Reason'],The esophagus is used for transporting food from the mouth to the stomach [Span: line 1].,0.0,0.0,2.49
+389ce23ee7c00b34a1cdbd9b6ccec47778541a5b4b2a6861,"Question: What does a defibrillator do ?
+Type:",['Description of something'],A defibrillator shocks the heart to restore a normal rhythm. [Span: shocks the heart to restore a normal rhythm],0.0,0.0,2.479
+2515df579016f05f203679b9925e33d885985054564b2c62,"Question: What planet has the strongest magnetic field of all the planets ?
+Type:",['Other location'],"The planet with the strongest magnetic field is Jupiter (Context: ""Jupiter's magnetic field is approximately 20,000 times stronger than Earth's."").",0.0,0.0,2.641
+e0508a69f493c99a55708cb841b5db4e350dd0cd2e3dce2d,"Question: What is the major fault line near Kentucky ?
+Type:",['Other entity'],The major fault line near Kentucky is the New Madrid Fault Line (line 1).,0.0,0.0,2.441
+40889e3cd2e32438572f29c578c29cdecb3b112ccf9952f6,"Question: What year did the Titanic sink ?
+Type:",['Date'],The Titanic sank in the year 1912 [Context: No specific date or time provided].,0.0,0.15384615384615385,2.461
+97cf3ad59a0cc47dc987e51c39efd282b16022bf1e86c30e,"Question: Who founded American Red Cross ?
+Type:",['Individual'],The American Red Cross was founded by Clara Barton [Span: 1].,0.0,0.0,2.443
+2f60ccd7193f99ecd68fc106b0cb6c66ae7b60e41af9b28f,"Question: What precious stone is a form of pure carbon ?
+Type:",['Element and substance'],The precious stone that is a form of pure carbon is a diamond (Entity 1).,0.0,0.0,2.42
+432bc5d5343a2d90493d1502feca910fa4f04638c165bfc5,"Question: What is the average body temperature ?
+Type:",['Temperature'],The average human body temperature is approximately 98.6 degrees Fahrenheit (Reference Span: not provided).,0.0,0.13333333333333333,2.466
+3d969a6b17acac98d1007630ada2d3ee04202e2543caf688,"Question: Where are the National Archives ?
+Type:",['Other location'],"The National Archives are located in Washington, D.C. (Line 1)",0.0,0.0,2.397
+c484b36f511ec3f88c462e36a451394a0f7674ca1146e617,"Question: What city has the zip code of 35824 ?
+Type:",['City'],"The city is Hoover, according to the given context. [Span: Hoover (Line 1)]",0.0,0.16666666666666669,2.443
+c929e9466c70da2f1b667b9968b34928e0f16197ca9e9c04,"Question: When was the first liver transplant ?
+Type:",['Date'],The first successful liver transplant occurred in 1967 [Span: 1967].,0.0,0.0,2.408
+69091626855bf63b2b103f3af3a47a624ccdb47285a921ca,"Question: What instrument did Glenn Miller play ?
+Type:",['Musical instrument'],"Glenn Miller played the trombone. [Span: Glenn Miller, trombone]",0.0,0.0,2.387
+206b78b2a11b7e444a95e37dc0fd700df904094152b64a4a,"Question: Who won Ms. American in 1989 ?
+Type:",['Individual'],The text does not provide information about who won Ms. American in 1989.,0.0,0.0,2.49
+10e30eb8abf0d20556b414e826d971873468493164027855,"Question: How long did Rip Van Winkle sleep ?
+Type:",['Lasting time of somethin'],Rip Van Winkle slept for 20 years [Span: line 1].,0.0,0.0,2.425
+7d1f909bc981db6c50db83a5c83825bb38e2d5cec1f6ebcd,"Question: What is foot and mouth disease ?
+Type:",['Disease and medicine'],"Foot and mouth disease is an infectious and contagious viral disease that affects cloven-hoofed animals, such as cattle, pigs, goats, and sheep. [Span: ""Foot and mouth disease is an infectious and contagious viral disease""]",0.0,0.1111111111111111,2.861
+a12c082b70af2ce8257e73f6072f8b2b9d0d30cac6a06055,"Question: What is semolina ?
+Type:",['Definition of something'],Semolina is a coarsely ground wheat (Reference Span: coarsely ground wheat).,0.0,0.0,4.064
+dac55a9f7b6f6935b806c22e5b2a0fa53d1052fa1084aec3,"Question: How tall is the Sears Building ?
+Type:","['Distance, linear measure']","The height of the Sears Tower (now known as Willis Tower) is 1,450 feet. [Span: 0]",0.0,0.0,2.571
+a7df71a32324720da9ed7e8b71d99605a7aa2c8c03fce970,"Question: How far is a nautical mile ?
+Type:","['Distance, linear measure']","A nautical mile is approximately 6,076 feet. (Span: ""A nautical mile is approximately 6,076 feet."")",0.0,0.0,2.608
+a94bd8caca00b64dffecfc1381aba40f95f662be291e982c,"Question: When did John F. Kennedy get elected as President ?
+Type:",['Date'],John F. Kennedy was elected as President in 1960 [Span: 3].,0.0,0.0,2.496
+943ab0f567be614c671b5ca026c222919c5bc65ca6bd27f7,"Question: What is ozone depletion ?
+Type:",['Definition of something'],"Ozone depletion refers to a decrease in the amount of ozone in Earth's stratosphere, primarily caused by substances released during industrial processes and use of certain types of refrigerants. [Span: ""primarily caused by substances released during industrial processes and use of certain types of refrigerants.""]",0.0,0.04255319148936171,2.924
+1d12eb0eac6d6119b8b60c3988dcfdf8f311fdbef2308937,"Question: Who invented the calculator ?
+Type:",['Individual'],The inventor of the first electronic calculator was John Vincent Atanasoff and Clifford Berry [1942].,0.0,0.0,2.367
+cde02966d1f0851a130f3fc25319c63c6ef8e234ed90cae0,"Question: What do you call a word that is spelled the same backwards and forwards ?
+Type:",['Equivalent term'],"A palindrome word (Example: ""racecar"")",0.0,0.0,2.223
+68e634727ef0e25bc70ae29ca004adaa9b13ff53c6aa9b90,"Question: When is Father 's Day ?
+Type:",['Date'],The context does not provide information about when Father's Day is.,0.0,0.0,2.248
+48ef3bbe793adfd2329dad96fda943f2b7278fe29ee69505,"Question: What did Jesse Jackson organize ?
+Type:",['Group or organization of person'],Jesse Jackson organized the Rainbow Coalition. [Span: Jesse Jackson organized the Rainbow Coalition.],0.0,0.0,2.448
+c3ad7a6f2da7f11e98894dc996a92d822a6b75acea83aba4,"Question: What does I.V. stand for ?
+Type:",['Expression abbreviated'],"Intravenous (I.V.) stands for intravenous, which refers to the administration of liquid substances directly into a vein. [Span: Intravenous]",0.0,0.0,2.627
+d92c1cc16f6305d942c3a2708369443c62178bad2958676a,"Question: When was the first kidney transplant ?
+Type:",['Date'],"The first successful human kidney transplant occurred on December 23, 1954. [Span: December 23, 1954]",0.0,0.0,2.589
+a08d0b2b6ab805c9d3d56655ec8cdb0a2b74722cd8ddd71d,"Question: What year did the Titanic start on its journey ?
+Type:",['Date'],"The Titanic started its journey in the year 1912 [Context: ""On April 10, 1912, the RMS Titanic set sail from Southampton, England.""].",0.0,0.0,2.578
+6483b104728d33a66f53068a55c5340f9b0c8f2879a717a0,"Question: What is a group of turkeys called ?
+Type:",['Animal'],A group of turkeys is called a rafter (Context: Line 1).,0.0,0.0,2.404
+58103d85701e317b63815561b012e302ba0d2b49f14e84e5,"Question: What are coral reefs ?
+Type:",['Definition of something'],Coral reefs are underwater ecosystems built by calcium carbonate secretions from coral animals. [Span: Underwater ecosystems built by calcium carbonate secretions from coral animals.],0.0,0.0,2.682
+10987bf3a71ef060f7e7dae970d32c0020c6aad1ada932ca,"Question: What currency is used in Algeria ?
+Type:",['Currency name'],"The currency used in Algeria is the Algerian Dinar. (Span: ""Algeria uses the Algerian Dinar."")",0.0,0.14285714285714285,2.583
+7e9b88f04d10b86992f69376308f6376f4d2b88e1c3b8b66,"Question: Who was the first US President to ride in an automobile to his inauguration ?
+Type:",['Individual'],"William Howard Taft was the first U.S. President to ride in an automobile to his inauguration (Span: 0, line 1).",0.0,0.0,2.532
+cd34b068e5211051011049b00cf563b9d4993997d9c7e69f,"Question: What peninsula is Spain part of ?
+Type:",['Other location'],Spain is part of the Iberian Peninsula (Line 1).,0.0,0.0,2.377
+620e8f66c4d9c17ea9e91670bce23f19f799435178540aed,"Question: What is the width of a football field ?
+Type:","['Distance, linear measure']",The context does not provide information about the width of a football field.,0.0,0.0,2.38
+13dfcc1e607745f0f8e6043f75f5e7c3b6774e0f7dbcb9a0,"Question: What county is Phoenix , AZ in ?
+Type:",['City'],"Maricopa County, AZ (Context: Phoenix, AZ is located in Maricopa County.)",0.0,0.0,2.473
+1c07ce343f7fc3291945943efab1fe204e2fc86c018349b6,"Question: What is foreclosure ?
+Type:",['Definition of something'],"Foreclosure refers to the legal process in which a lender takes control of and sells a property when the homeowner fails to make mortgage payments (Span: ""legal process in which a lender takes control of and sells a property"").",0.0,0.05555555555555555,2.732
+f13ac67f320e6a4fe60dddf077d7d1c4090fa69ffe0e1664,"Question: What does a barometer measure ?
+Type:",['Other entity'],"A barometer measures atmospheric pressure. [Span: ""A barometer measures atmospheric pressure.""]",0.0,0.0,2.408
+d4791c5914a6e73526116106a7407d4627a626ef355d122f,"Question: What is the depth of the Nile river ?
+Type:","['Distance, linear measure']",The text does not provide information about the depth of the Nile River.,0.0,0.0,2.407
+354efe23a5c22ff89540575878c2400ee220720061c2df00,"Question: What is the gestation period for a cat ?
+Type:",['Lasting time of somethin'],The gestation period for a cat is approximately 63-65 days (Line 1).,0.0,0.0,2.459
+53612771a03cbf45bb4e4e38231672d293438cd552407f82,"Question: How many pounds in a ton ?
+Type:",['Number of something'],A ton is equivalent to 2000 pounds. (Context: The conversion from tons to pounds is 1 ton = 2000 pounds.),0.0,0.0,2.559
+0c1076ddfb446ce669afe60a2108eecfbb2365223e8f07d2,"Question: What was the first satellite to go into space ?
+Type:",['Product'],The first satellite to go into space was Sputnik 1 (mentioned in line 2).,0.0,0.0,2.451
+8e5060883a3a65416b865d26d3ba447eb93738218403f554,"Question: What metal has the highest melting point ?
+Type:",['Element and substance'],"The metal with the highest melting point is tungsten [Context: No specific context provided, but tungsten is known for having one of the highest melting points among common metals].",0.0,0.0,2.631
+92a0d38c9117e9bf0b832ae14ee87bf169a8dbad727e0386,"Question: What is caffeine ?
+Type:",['Definition of something'],"Caffeine is a stimulant most commonly found in tea, coffee, and chocolate (Span 1).",0.0,0.0,2.497
+0ec47c5bfef1cf9ea4d1d47116a30121de69db12519d410e,"Question: What color are crickets ?
+Type:",['Color'],The text does not provide information about the color of crickets.,0.0,0.19999999999999998,2.378
+8eb86e597aa70c66a934687954ad3504a23ce95ec9c68efe,"Question: What is the fourth highest mountain in the world ?
+Type:",['Mountain'],The fourth highest mountain in the world is Kangchenjunga [Citation: Not provided].,0.0,0.18181818181818182,2.456
+37fc91e0069dfc5177c65cf2937227f33bffeb756d408325,"Question: What is Australia 's national flower ?
+Type:",['Plant'],The national flower of Australia is the Golden Wattle (Acacia pypydina). [Span: National flower of Australia],0.0,0.0,2.503
+7aebb78c4dfb93851df88819813a91bdc31fcc524032d622,"Question: What is the capital of Ethiopia ?
+Type:",['City'],Addis Ababa (Line 1),0.0,0.0,2.322
+e9b5249c001ca9eab599bc3ddfd315d790726d9c147ce018,"Question: What is leukemia ?
+Type:",['Definition of something'],"Leukemia is a type of cancer that affects the body's blood-forming tissues, specifically the bone marrow, causing an overproduction of abnormal white blood cells. [Span: ""Leukemia is a type of cancer""]",0.0,0.06451612903225806,2.767
+64185c36020ead184262b3cd1aa28a4e7b28444c0043daef,"Question: What is the street address of the White House ?
+Type:",['Other location'],The context does not provide a specific street address for the White House.,0.0,0.0,2.358
+0b8e6cece544fd1a0037a0dd5e9117a3f47dfb7542803207,"Question: What is metabolism ?
+Type:",['Definition of something'],Metabolism refers to all chemical processes that occur within an organism to maintain life [Span: all lines].,0.0,0.0,2.497
+56a70996016ed618c2c83f4fb36933dfca9f15f43d709208,"Question: Which country has the most water pollution ?
+Type:",['Country'],The context does not provide specific information about which country has the most water pollution.,0.0,0.14285714285714288,2.454
+1264141d08caf6f2f4105ce15f3c2d69d34749b96ece38de,"Question: What is the earth 's diameter ?
+Type:","['Distance, linear measure']","The Earth's diameter is approximately 12,742 kilometers (Reference Span: no specific span provided in context).",0.0,0.0,2.532
+e611e432a55774a5572d62c26d8aa3b90a308154bcb92bcc,"Question: What is bipolar disorder ?
+Type:",['Definition of something'],Bipolar disorder is a mental health condition characterized by extreme mood swings between mania and depression [Span: Bipolar disorder is a mental health condition characterized by extreme mood swings between mania and depression].,0.0,0.0,2.671
+4848c8025606efcf122bd8046265c1883a064b9bc90d26ff,"Question: What city 's newspaper is called `` The Star '' ?
+Type:",['City'],"The city whose newspaper is called ""The Star"" is Toronto (mentioned in line 1).",0.0,0.15384615384615385,2.447
+c6bdd84ce95d94c9cea3db7d14d6c2fedfc0c9d735b67415,"Question: What year did the Andy Griffith show begin ?
+Type:",['Date'],The Andy Griffith Show began in 1960 [Citation: no citation provided].,0.0,0.0,2.471
+88462d84aa70aeb3ccc737da4417cb41bade6a0503b79eee,"Question: Where do apple snails live ?
+Type:",['Other location'],"Apple snails can be found in freshwater habitats, such as ponds and rivers (Context: ""Apple snails are freshwater gastropods that inhabit bodies of water like ponds, lakes, and slow-moving rivers."")",0.0,0.0,2.76
+c32eb5c8f3c8880273a439cf5d69d544e7100960c40711c8,"Question: When were William Shakespeare 's twins born ?
+Type:",['Date'],"Shakespeare's twins were born in 1607 [Context: The twins, Susanna and Hamnet, were born in Stratford-upon-Avon in 1607.]",0.0,0.0,2.702
+a67738fc3db1df1e8403e8ca5805ab387a334d886399ad11,"Question: What continent is Egypt on ?
+Type:",['Other location'],"Egypt is located on the continent of Africa. [0, 1]",0.0,0.0,2.402
+5660f8f87173d67fee56f2787e551f4b8ed9970d5f46987c,"Question: What Canadian city has the largest population ?
+Type:",['City'],Toronto (City mentioned in line 1) has the largest population.,0.0,0.19999999999999998,2.409
+c88bac0efe7689764268cc616fbc767033db59f9a36c1554,"Question: What is nicotine ?
+Type:",['Definition of something'],"Nicotine is a stimulant and highly addictive substance found in tobacco products (Span: ""highly addictive substance found in tobacco products"").",0.0,0.0,2.615
+2f004723bf6ff8379370d9ce35852a6694627bb15f4a3dfe,"Question: What is the National Park in Utah ?
+Type:",['Other location'],The context does not provide information about a specific National Park in Utah.,0.0,0.0,2.377
+da20414068a09f773bef4f3c60623599e79a743c4f0204e3,"Question: What are the two houses of the Legislative branch ?
+Type:",['Other entity'],The Legislative branch consists of two houses: the Senate and the House of Representatives [Context: no citation provided].,0.0,0.0,2.524
+9866e1962b7589f4b029c249ee13345898d8126136c7531f,"Question: Who wrote `` The Divine Comedy '' ?
+Type:",['Individual'],"Dante Alighieri wrote ""The Divine Comedy."" [Span: Dante Alighieri]",0.0,0.0,2.427
+a24136eadf45ce9c6cc8d3d0e09e70b0aacd6a907019f634,"Question: Who was the first vice president of the U.S. ?
+Type:",['Individual'],"John Adams was the first Vice President of the U.S. [Citation: Not provided, but typically understood that the first Vice President served under George Washington]",0.0,0.0,2.636
+35645649fc0f46aee04fae92a77c75c7823d5b970e241a89,"Question: What is fibromyalgia ?
+Type:",['Definition of something'],Fibromyalgia is a chronic disorder characterized by widespread musculoskeletal pain (Reference Span: no reference span provided).,0.0,0.0,2.493
+ce76993084f62d56b92777705e3158e7205fedf4d720a8fc,"Question: What is acetaminophen ?
+Type:",['Definition of something'],Acetaminophen is a type of medication (Reference Span: n/a) used for relieving pain and reducing fever.,0.0,0.1111111111111111,2.525
+560d8e7494165e41e5ef1a47ba991d3a84d63e9c9c31d8c8,"Question: Where are the British crown jewels kept ?
+Type:",['Other location'],The British crown jewels are kept at the Tower of London (Line 1).,0.0,0.0,2.417
+c9d42d796a770c574d7673d7dff5af3c99b0a72b5084117b,"Question: What are Quaaludes ?
+Type:",['Definition of something'],"Quaaludes are a type of sedative drug, specifically a tranquilizer (Reference Span: not provided).",0.0,0.13333333333333333,2.502
+05d13b416defd2d3f3cff926edf1e0ce7cba62a99a34effa,"Question: What are platelets ?
+Type:",['Definition of something'],"Platelets are blood cells that help in clotting (Span: ""blood cells that help in clotting"").",0.0,0.0,2.465
+a057710d15bc87687798011aa9051bdbd1664b8b1936a524,"Question: What is the Moulin Rouge ?
+Type:",['Definition of something'],"The Moulin Rouge is a famous cabaret in Paris, France. [Span: Moulin Rouge]",0.0,0.0,2.51
+ac63cf847f670d41f854b5561b2c41d63f6d497ae6efe15b,"Question: When was Lyndon B. Johnson born ?
+Type:",['Date'],"Lyndon B. Johnson was born on August 27, 1908. (Span: August 27, 1908)",0.0,0.0,2.579
+a57a8f12682411b108e4ebb96590a46c1acdb0f7622f8459,"Question: Who discovered America ?
+Type:",['Individual'],Christopher Columbus (Span: Line 1),0.0,0.0,2.318
+a748374c01086b106ed89a37e09be54162695db65d909b31,"Question: Who is the actress known for her role in the movie `` Gypsy '' ?
+Type:",['Individual'],"The actress known for her role in ""Gypsy"" is Natalie Portman (Span: 0).",0.0,0.0,2.488
+e5d161f8e8db85864d32796535db57b99a3beaedf3716af1,"Question: Which mountain range in North America stretches from Maine to Georgia ?
+Type:",['Mountain'],"The Appalachian Mountains stretch from Maine to Georgia. (Context: ""The Appalachian Mountains, which run from Canada's Newfoundland to the tip of Alabama, are the oldest mountain chain in the world."")",0.0,0.07407407407407407,2.735
+7011be7047eaaf45afdf0b6bef4622c058d9aec9fe0b8d2c,"Question: What 's the easiest way to remove wallpaper ?
+Type:",['Techniques and method'],"The easiest way to remove wallpaper is by soaking it with water and then peeling it off. [Span: ""The easiest way to remove wallpaper is by soaking it with water and then peeling it off.""]",0.0,0.05555555555555555,2.688
+c0495d43f7080033aae75ceba1655c35742bbdf36cf74186,"Question: Where is the Lourve ?
+Type:",['Other location'],"The Louvre is in Paris, France (Line 1).",0.0,0.0,2.339
+d21366d5b4ba5ca8c0c06e934bb093375512de3952fbef4f,"Question: Who is a German philosopher ?
+Type:",['Individual'],Friedrich Nietzsche (Span: line 1) is a German philosopher.,0.0,0.0,2.409
+569808d9d65b3e6d8d7ea00c4e77009acf10a517466532dd,"Question: When was Rosa Parks born ?
+Type:",['Date'],"Rosa Parks was born on February 4, 1913 [Span: February 4, 1913].",0.0,0.0,2.532
+18a99852ee4f2bdcc14df2a8bf88e75893ee8ccf106449b8,"Question: What are polymers ?
+Type:",['Definition of something'],Polymers are large molecules made by linking together many small repeating units (monomers) [Span: monomers].,0.0,0.0,2.552
+ce4d2107e842c9baf2fcf0e566d57f843e632e2c98240eb3,"Question: Name a stimulant .
+Type:",['Disease and medicine'],"The context does not provide a specific name for a stimulant. However, it mentions caffeine as an example of a stimulant (Span: 1).",0.0,0.0,2.562
+69dc977e188f73a5006e3e40169f49d0970ccac9bb014727,"Question: Where is Milan ?
+Type:",['City'],"Milan is in Italy (Context: no specific mention found, but it's commonly known that Milan is one of the major cities in Italy).",0.0,0.0,2.524
+e40d4b02326a848a9fca110c36522853da4888d73be44a49,"Question: Who was the first governor of Alaska ?
+Type:",['Individual'],The first governor of Alaska was William A. Egan (according to line 10).,0.0,0.0,2.43
+03b05f488f77aafcceaf28e5338051de95fa9d66d2539322,"Question: What is the oldest university in the US ?
+Type:",['Group or organization of person'],The oldest university in the U.S. is Harvard University (Reference: Not specified in the context).,0.0,0.0,2.45
+5c743e30c49cecf433278bc2849b6347c74eb20bde08f468,"Question: What does NASA stand for ?
+Type:",['Expression abbreviated'],"NASA stands for National Aeronautics and Space Administration [Context: No specific span mentioned, but the term is directly stated in the context.]",0.0,0.0,2.508
+eb0920252b7b3ccb7efa83fbb923c5a246702cbca576a134,"Question: What do you call a professional map drawer ?
+Type:",['Equivalent term'],A professional map drawer is often called a cartographer [CART-uh-grahf-er].,0.0,0.0,2.462
+7fab26eda8723e59049d81b51b96f5efd28dd042836bd01e,"Question: What is the capital of Yugoslavia ?
+Type:",['City'],The capital of Yugoslavia was Belgrade (mentioned in line 1).,0.0,0.0,2.394
+865a91662df3b7ea2395045eefe5c355f76502b8654ca95d,"Question: Who is the Prime Minister of Canada ?
+Type:",['Individual'],"The Prime Minister of Canada, as of my last update, is Justin Trudeau (Reference: not provided).",0.0,0.0,2.461
+8fa68009baf3bf4fa0023bdafe07167ac6ea5121fa1c9f29,"Question: Who is the governor of Alaska ?
+Type:",['Individual'],"The governor of Alaska, as of my last update, is Mike Dunleavy (Span: 0, 1384).",0.0,0.0,2.58

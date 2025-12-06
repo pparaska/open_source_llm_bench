@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "03b9c503110e4dc8f2d7690f56be9e9b2733744da1a855ff",
+    "pred": "This code defines a Kademlia node named JKademliaNode, which uses the Kademlia DHT and manages everything for the local system.",
+    "answers": [
+      "    private transient KademliaRoutingTable routingTable;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.786
+  },
+  {
+    "id": "cb75af27199120a4d11be40c2968da895ebd2e8795dfc692",
+    "pred": "The context provides a list of effects used in the Spectaculum library for Android, including ContrastBrightnessAdjustmentEffect, FlipEffect, KernelBlurEffect, SobelEffect, and others.",
+    "answers": [
+      "        mEffects.add(new NoEffect());"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.093
+  },
+  {
+    "id": "348e33db9dd7512c0d821c5d1fc6a5b74a412a1e9be012f7",
+    "pred": "The `MyFunction` class defines a simple cipher with one round of operation.",
+    "answers": [
+      "class Encryption1(Encryption):  # noqa: D101"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.581
+  },
+  {
+    "id": "cf3d37ae2215d5f5123fcc3ad041ba23b56d19a3abad67e6",
+    "pred": "This context is a Java code for an EffectManager class used in Android for handling various effects in a Spectaculum view. The class imports several effect classes like ContrastBrightnessAdjustmentEffect, FlipEffect, KernelBlurEffect, SimpleToonEffect, etc., and implements the EffectEventListener and Effect.Listener interfaces.",
+    "answers": [
+      "    private ImmersiveTouchNavigation mImmersiveTouchNavigation;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.418
+  },
+  {
+    "id": "2c164c959e45cbd40c80a8618dfe2fbe7d12a613e0ce71c4",
+    "pred": "The method `restoreFromDb()` checks if the state can be restored from the database and performs the restoration if possible.",
+    "answers": [
+      "                new EventCommandHandler<>(SetUpdateFrequencyCommand.class, UpdateFrequencyChangeEvent::fromCommand, this::queueEvent));"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.189
+  },
+  {
+    "id": "fbea06f3c6f93b8aaf69f52783041ff4c6ce262cc8922060",
+    "pred": "This class, named `TaskRunnerContainer`, is used to accept and process MQ messages. It contains a `TaskFactory`, a `TaskAPI`, and both global and local rate limiters.",
+    "answers": [
+      "    private LocalRateLimiter localRateLimiter;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.826
+  },
+  {
+    "id": "47573702c5f1ad33b86b8645ddc49617af39e584b4303008",
+    "pred": "The `CheckRunner` class runs an integrity check using the provided `CheckCommand`.",
+    "answers": [
+      "\t\t\tprint(\"Scanning vault structure may take some time. Be patient...\");"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.659
+  },
+  {
+    "id": "6844939b4c4619bf2bb691b26c2beecaad85f0aeb4518366",
+    "pred": "The `DeviceRegistrationTask` is an AsyncTask that registers a device at both Google Cloud Messaging (GCM) server and YASME server.",
+    "answers": [
+      "        } catch (RestServiceException e) {"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.93
+  },
+  {
+    "id": "d60990d706853cd274c7ff6b8b766fcccca25dc8de5ae49c",
+    "pred": "The test `testGetRegistrationRequest` verifies that the `getRegistrationRequest` method of the U2FServer returns a RegistrationRequest with specific values.",
+    "answers": [
+      "    U2fSignRequest signRequest = u2fServer.getSignRequest(ACCOUNT_NAME, APP_ID_SIGN);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.45
+  },
+  {
+    "id": "3cd8fefa66ffe61edf15dd8ce125f6e4933fb96d398da6b5",
+    "pred": "The function `__init__` initializes a new CallController instance with the provided remote IP, source, global configuration, and pass headers.",
+    "answers": [
+      "            self.acctA = RadiusAccounting(self.global_config, 'answer', \\"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.252
+  },
+  {
+    "id": "ea34735f9ac205293023394877d630555a04b487a2cf6036",
+    "pred": "The class `URI` is a subclass of `Signature`.",
+    "answers": [
+      "    @sdproperty"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.456
+  },
+  {
+    "id": "0697cb04cdcd9172485f3f0398a5d0f1a9a8061972ff6197",
+    "pred": "The `Constraint` class represents a constraint in the bytecode and stores both the bytecode AST constraint and an internal representation.",
+    "answers": [
+      "            cstr_node.rhs = Undef(data=None)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.941
+  },
+  {
+    "id": "b3e2346d898f5d979d88e1ef30c8d97a9e53c92308800882",
+    "pred": "The function `getPlaylistUrls(broadcast)` returns an array of URLs for the live videos in a given `TwitchBroadcast`.",
+    "answers": [
+      "                intent.setDataAndType(Uri.parse(url), TDConfig.MIME_FLV);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.897
+  },
+  {
+    "id": "31be7d5ae81230c8f97a65a4360e143cd828be77c08f3863",
+    "pred": "The code requests location permissions if they are not already granted, and if the permissions are denied, it disables the switch button and sets a message indicating that locations permissions are revoked forever.",
+    "answers": [
+      "        PostLocationDataBody dataBody = new PostLocationDataBody("
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.328
+  },
+  {
+    "id": "2aae57de553ed5867969af9a6dd8f670c380c829b2abf753",
+    "pred": "This code defines a class `TestInterLayerPipeline` for testing the `InterLayerPipeline`.",
+    "answers": [
+      "        ilp = InterLayerPipeline(self.net['net1'], self.batch_size,"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.597
+  },
+  {
+    "id": "8857338affe2d9fe32dc189b478b4aa891b3905618953f5b",
+    "pred": "The `User` class is a defined model in the provided context.",
+    "answers": [
+      "    class Blob(BaseModel):"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.466
+  },
+  {
+    "id": "ee505459c8831993d6d076ef9ee075e8cf412a45f09a9dfb",
+    "pred": "The `evaluate_parenthesized_expression` method evaluates an expression within parentheses.",
+    "answers": [
+      "            elif isinstance(result, TypedElement):"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.845
+  },
+  {
+    "id": "054c54050c80c29f3bbf1adf5fba865a2468928d4e19a1fe",
+    "pred": "The context provides a list of transformations under the category \"Color Adjustment\".",
+    "answers": [
+      "                    new HSBAdjustTransformation(.5f,.5f,.5f),"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.757
+  },
+  {
+    "id": "31ce3569263336194441a7715e1766ab4954b250a5082477",
+    "pred": "This is a MovieInfoFragment that extends Fragment and implements MovieInfoView, MovieTrailersAdapter.ClickListener, SimilarMoviesAdapter.ClickListener.",
+    "answers": [
+      "    private DelegateToActivity<Movie> delegateListener;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.837
+  },
+  {
+    "id": "feeef9aaf0fc0be21c3fc0124904f5755baa327e041f60dd",
+    "pred": "The code adds a notification listener to an MBean server.",
+    "answers": [
+      "                writeResponse(instance, OBJECT_INSTANCE, CREATE_MBEAN, correlationId);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.241
+  },
+  {
+    "id": "f376e7b81aae7316d4e0ecc854e42de8695616f6e8946dfa",
+    "pred": "The `cmd_wild` command is a group command in the bot that allows reporting a wild pokemon spawn.",
+    "answers": [
+      "        await wild_report.add_reaction(MyEmojis.DESPAWNED)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.752
+  },
+  {
+    "id": "6348b3e17f0fb021c8e9112c4c5f056d8462afedf6a6aa41",
+    "pred": "The script initializes a simple model for SNLI (Stanford Natural Language Inference) that can use dictionary-enhanced embeddings, and loads the data if a vocabulary is provided.",
+    "answers": [
+      "    data = SNLIData(path=c['data_path'], layout=c['layout'], vocab=vocab)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.972
+  },
+  {
+    "id": "c78bbf3695db2bc16d0daf4cf8bfd6d1c7c13a32ff1383dd",
+    "pred": "The code tests various parameters for GLONASS satellites in different bands and Doppler types.",
+    "answers": [
+      "  assert isinstance(doppler, DopplerSine)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.116
+  },
+  {
+    "id": "ac6b60475fb35309a7b102618c3472231e77b5bfc8326ece",
+    "pred": "The method `generateResume()` starts an activity for result with animation, navigating to the ResumeActivity.",
+    "answers": [
+      "                Intent intent = new Intent(getActivity(), ParticipantFortunateActivity.class);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.187
+  },
+  {
+    "id": "c23c39e861f028aa9df65fe01489651a3c7237aeec7f80b4",
+    "pred": "The provided context is a Python script for distributed Redis-powered lock tests.",
+    "answers": [
+      "        with self.assertRaises(TooManyExtensions):"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.834
+  },
+  {
+    "id": "255975e85de5593ce3a5a78f2aeb7341f18b71db96e2d86a",
+    "pred": "The `threed_cone_settings` property returns an instance of `ConeSettings`. (Context span: \"from .cone_settings import ConeSettings\")",
+    "answers": [
+      "        return ConeSettings(self._ptr, self.__class__.__name__)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.711
+  },
+  {
+    "id": "06fbfb05b70f3785fce8b643e46a6b1f493921c2580332e3",
+    "pred": "The `PrivKeyV4` class is a private key class that inherits from both `PubKeyV4` and `PrivKey`. It can generate new keys for specific algorithms, has methods to encrypt, decrypt, sign, and verify signatures, and also has a method to protect or unprotect the key with a passphrase.",
+    "answers": [
+      "    @calg.register(CompressionAlgorithm)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.529
+  },
+  {
+    "id": "e7bbb35f55ece95e727c9fe2423d5ad8587353fa646d0b80",
+    "pred": "The results of the cell detection are saved in the 'Test/Data/CellShape/cellshape_\\\\d{3}.tif' folder.",
+    "answers": [
+      "        csize = findCellSize(imgshape, maxLabel = centers.shape[0], out = out, **parameter);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.197
+  },
+  {
+    "id": "443c1278e5d9623fee6148ef1c0cc93d266d7561f4c35d8e",
+    "pred": "The function `calculateAccuracy()` calculates the average accuracy of hits in a game.",
+    "answers": [
+      "            Assets.perfectTapSound.play(GlobalConfiguration.feedbackVolume / 100f);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.929
+  },
+  {
+    "id": "19066882a192c514e9f9dd3c6c835142c4c457c6e7dcd833",
+    "pred": "This code represents a Java class named `CommandLog` that is used to display transaction log entries in Zookeeper. It takes command parameters such as the output appended data, the directory or file path of the transaction log, and the Zookeeper configuration file. The class also includes a decoder for converting znodes byte array to printable strings. If the `follow` option is used, the tool will monitor transaction log files and print new transactions as they are written to disk. The tool can exit on its own if interrupted during execution or if there's an issue with reading properties file or checking the valid",
+    "answers": [
+      "            while (transactionIterator.nextTransactionState() == TransactionState.OK) {\r"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 4.421
+  },
+  {
+    "id": "53794171ac56dbe5880c3fda119232cddf8f02c7b91371d3",
+    "pred": "This code is for a database driver for Druid, which does not conform to `javax.sql.DataSource`. It contains classes for various SQL operations like Insert, Delete, Drop, Query, and more.",
+    "answers": [
+      "            } else if (stmnt instanceof InsertMeta) {//TODO: Handle this."
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.342
+  },
+  {
+    "id": "1aba661e70d8c4cb3564a8a855d5aa403bc1b6580abaa9a6",
+    "pred": "The context defines classes for EncryptionMechanism, AuthenticationMechanism, and PinTanDummyEncryptionMechanism, which are used to encrypt, decrypt, sign, verify, and prepare messages in a financial transaction system.",
+    "answers": [
+      "                    UsageEncryption.OSY,"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.983
+  },
+  {
+    "id": "fb3b6309cd6ab41ea9b398d8beb6e4ac5130c90d5aa1164d",
+    "pred": "The code imports various static members from different classes, primarily `org.joni.BitStatus` and `org.joni.Option`, and defines a final class named `Analyser`. This class extends another class called `Parser` and has a method `compile()` that parses a regular expression (regex) using the `parseRegexp()` function, among other operations.",
+    "answers": [
+      "                            if (bsAt(env.backrefedMem, i)) {"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.633
+  },
+  {
+    "id": "0248bac03f920e83efc114d842cbb4fe9c4e0f5ce207cd10",
+    "pred": "The context includes URL patterns for Jobs, Pipelines, and Settings in Django.",
+    "answers": [
+      "    url(r'^workflow-steps$', get_workflow_steps, name=\"ajax-workflow-steps\"),"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.971
+  },
+  {
+    "id": "1669bcf267046f0b7b25014a091ffec46e7d9239d98ddddd",
+    "pred": "This is a Java class named `ItemAgeChart` that implements the `NetworkEngine.Chart` interface.",
+    "answers": [
+      "\t\tpublic ResourceData (MainActivity main)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.657
+  },
+  {
+    "id": "ad9311699fd6da3dd844b69dd8346276b1b73fb65bf83fd7",
+    "pred": "The `DbExistsMessage` class checks if a database exists in the OrientDB Server instance. It takes a database name as input and returns true (non-zero) or false (zero).",
+    "answers": [
+      "        if storage_type in STORAGE_TYPES:"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.018
+  },
+  {
+    "id": "1e92aed924b1d5384f31de520133e8b0d337033627ce5ee3",
+    "pred": "The class `GivenArgumentWhenSteps` is a generic implementation of the `AndGivenArgument` interface, which is used to define given steps in a test scenario.",
+    "answers": [
+      "    public ThenWithoutResult<$SystemUnderTest> when(CheckedBiConsumer<$SystemUnderTest, $Argument> whenStep) {"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.964
+  },
+  {
+    "id": "264e0d85db3f543e14718f9a2e0f0185e816178daee60e35",
+    "pred": "The method `await` takes a `CommandProcess` and optional exit codes as arguments, and it throws an `IosDeviceException` if the process does not terminate successfully.",
+    "answers": [
+      "    CommandResult result = awaitResult(process);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.172
+  },
+  {
+    "id": "0dc4e35a91336fa30c6d08138f1b924fb6ee8f3390248266",
+    "pred": "The method `sections` is initialized in the `update` method.",
+    "answers": [
+      "\t\tint theme = Themer.theme;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.865
+  },
+  {
+    "id": "2765e9a5cf94efddee7fc7b1f7ccf2e8ee97cf3bf122dbb0",
+    "pred": "This is a Java class named `MessageController` that extends `AbstractController`. It uses Spring annotations and handles incoming messages from WeChat.",
+    "answers": [
+      "\t\tMessage msg = XmlUtil.fromXml(Message.class, xml);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.892
+  },
+  {
+    "id": "1341d46a7843a495a5668f7e4253fbaebba798bd9fcc93ee",
+    "pred": "The code is defining a function `dynamic_main` that takes a file path as an argument.",
+    "answers": [
+      "    file_md5 = genMD5(file_path)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.211
+  },
+  {
+    "id": "b8d1b721ddc2769721908c5b5946467ad861ecb680ea5a67",
+    "pred": "The code defines a `RaidPartyCog` class that manages raid parties in Discord channels.",
+    "answers": [
+      "    @raid_checks.raid_party_channel()"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.875
+  },
+  {
+    "id": "cacf528493436bc221cd5f738c9bc45b2b94bcfb38479ada",
+    "pred": "The `date_is_valid` function tests the validity of various date formats.",
+    "answers": [
+      "        self.assertEqual(date_string_to_date(\"25/11/2015\"), datetime(2015, 11, 25, 0, 0).date())"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.938
+  },
+  {
+    "id": "d9e850b26e46db1f85cfd5cfccaa9eeaf3ed3a7e82901888",
+    "pred": "The test `test_matching_quick_succession` checks if attack sessions coming in quick succession are correctly classified as 'Bruteforce'.",
+    "answers": [
+      "        config_actor = ConfigActor(config_file, '')"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.108
+  },
+  {
+    "id": "08e95c1f144ac0dd144b0a74d05d16910ae0ff82d33ba978",
+    "pred": "The `PictureAdapter` is a custom adapter for a RecyclerView that displays pictures and their related information.",
+    "answers": [
+      "                            ShareUtil.sharePicture(mActivity, picture"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.146
+  },
+  {
+    "id": "ca29a391edd0d83b0e2ca7866b46d8472fc032c11c2e0b59",
+    "pred": "The script reads a .tmi file and performs Family-wise Error Rate (FWER) correction on the specified surfaces if the `--setsurfacerange` option is used.",
+    "answers": [
+      "\t\t\t\t\t\tsavefunc = savemgh_v2"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.315
+  },
+  {
+    "id": "5fe71bf0c2671adff4ef7a94a7ccbc1e3ac7392e1edfd213",
+    "pred": "The provided context is a list of imported classes and packages for an Android app named \"ohmage\". It includes various activities, fragments, modules, and other components used in the app.",
+    "answers": [
+      "                OhmletActivity.class,"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.958
+  },
+  {
+    "id": "477d6416677bcff0b880215deeb6d3f5f41a361f9bd341ae",
+    "pred": "The class `SignatureV4` is a version of the `Signature` packet that follows the Version 4 Signature Packet Format as described in RFC 4880.",
+    "answers": [
+      "                PubKeyAlgorithm.ECDSA: ECDSASignature, }"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.16
+  },
+  {
+    "id": "485d22985ce1c295b92e7ae9de982863b45748d37ff42a5b",
+    "pred": "The `select_wildcard` method selects all nodes when called without a context.",
+    "answers": [
+      "            elif is_document_node(context.root):"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.867
+  },
+  {
+    "id": "83dfff0a545002c34c8768ae85f608da63dc855662ffd1ac",
+    "pred": "The `HeapBalancerSink` class implements a heap load balancer.",
+    "answers": [
+      "      'no_members': Counter"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.723
+  },
+  {
+    "id": "55de8b6b4fc8329418880d20919787526f8a140bfc8248d1",
+    "pred": "The code tests that the `NetstringProtocol` handles incorrectly formatted netstrings by closing the connection when the message does not start with an integer defining the length, is too long, or the state of the FSM is invalid.",
+    "answers": [
+      "        msg = OK('uuid', 'recipient', 'sender', 9999, 'version', 'seal')"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.256
+  },
+  {
+    "id": "bfc6597058f482395c67717d1a0b4fdd39f7659c0d73f851",
+    "pred": "The code checks if the first query execution is a batch statement.",
+    "answers": [
+      "        assertTrue(\"is batch statement\", qe instanceof StatementBatchExecution);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.578
+  },
+  {
+    "id": "7dbb5a61c0e857a45b3b3794820f886ae1754e99f66669c8",
+    "pred": "The code tests for a successful execution in the `testExecutionSuccess` method.",
+    "answers": [
+      "        Assert.assertThat(ds, executions(0, failure()));"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.762
+  },
+  {
+    "id": "41a833d80e8c897fe06ccca471cb7707316924fb7962c77d",
+    "pred": "The function `_processADRRequests` updates device data rates and sends ADR requests when ADR processing is enabled.",
+    "answers": [
+      "                yield txsleep(scheduled - current)            "
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.999
+  },
+  {
+    "id": "affb55c8ffdf682e36326f29d9a44390d10a211cc1beb0ec",
+    "pred": "Arguments for the `LatGenFmllrFunction`, `FinalFmllrFunction`, and `FmllrRescoreFunction` are defined in the context.",
+    "answers": [
+      "                    function = FmllrRescoreFunction(args)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.268
+  },
+  {
+    "id": "cc131a0161097adc000fbf6660b57883462333724839d2f9",
+    "pred": "The context provides definitions for various data types used in the IEEE 802.15.4 format.",
+    "answers": [
+      "class IEEE802154(Block):"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.706
+  },
+  {
+    "id": "5b87cd00de4bad75cfc232e4b38a4c44e9372480c6e99837",
+    "pred": "This is a `ChatSettingsInfo` fragment for a chat in an Android app.",
+    "answers": [
+      "        Log.d(this.getClass().getSimpleName(), \"onStart\");"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.73
+  },
+  {
+    "id": "d4a87c94d3c020dfbca0bf801c08cdfc5761894b274f7bd4",
+    "pred": "The classes `HITAN2`, `HITAN3`, `HITAN5`, and `HITAN6` all contain the field for TAN medium name.",
+    "answers": [
+      "    parameter = DataElementGroupField(type=ParameterTwostepTAN6)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.415
+  },
+  {
+    "id": "bc08279586ccf2dbeb70cbf0966fec0dda148be0114d75d1",
+    "pred": "The function `saveJSON()` saves the picks in a JSON file and includes the station's latitude, longitude, elevation, and ID.",
+    "answers": [
+      "            jdt_ref = datetime2JD(self.img_handle.beginning_datetime)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.981
+  },
+  {
+    "id": "0c096b16be0b2e2604915412859b8db458e02c6b7020e0e0",
+    "pred": "The method `refreshPublicRoomsList()` is called to update the list of public rooms in the app.",
+    "answers": [
+      "        refreshPublicRoomsList(new ArrayList<MXSession>(Matrix.getInstance(getApplicationContext()).getSessions()), new ArrayList<String>(), 0, new ArrayList<List<PublicRoom>>());"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.2
+  },
+  {
+    "id": "18ef70ff1de9101b77481f3fff6576277c6a9eab6d445f4d",
+    "pred": "This script is a Discord bot extension for a game of Bingo, using the discord.py library and several custom modules.",
+    "answers": [
+      "        self.MyBingoCardManager = BingoCardManager(bot.dbi)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.597
+  },
+  {
+    "id": "837f98102b66213858487f8b0a7ebd49ea01e540e46053a9",
+    "pred": "The code checks if the specified synteny backend is available before running the program.",
+    "answers": [
+      "        chim_detect = ChimeraDetector(raw_bp_graphs, run_stages, target_sequences)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.99
+  },
+  {
+    "id": "e12d547c202e404e9d1960bd65a2cf4b559579c7d94316b1",
+    "pred": "The `Translator` is loaded using the method `loadTranslations(String fileName)`.",
+    "answers": [
+      "        plugins.registerEvents(new BlockPlaceListener(this), this);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.093
+  },
+  {
+    "id": "798ecc50f7ad3fc378cc4b7cf12ec65e10d67315d564f4af",
+    "pred": "The code activates the GCM push channel when the push type is set to \"GCM\".",
+    "answers": [
+      "                    MiPushClient.registerPush(this, mi_APP_ID, mi_APP_KEY);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.728
+  },
+  {
+    "id": "7eda8a3f9d904ee97cac8e1064d8fd2121e983e0c0c8d393",
+    "pred": "The provided context is a Java code snippet for a JMX client connection in the JBoss Remoting protocol version 2. It defines various constants used for sending and receiving messages to/from a JMX server, such as ADD_NOTIFICATION_LISTENER, GET_ATTRIBUTE, INVOKE, etc. These constants are used to create a map of message handlers that will process incoming messages from the server.",
+    "answers": [
+      "        registry.put((byte) (QUERY_NAMES ^ RESPONSE_MASK), new MarshalledResponseHandler<Set<ObjectName>>(SET_OBJECT_NAME));"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 4.075
+  },
+  {
+    "id": "5e98965448afa1514bb699741990531a72710c3aed43f81b",
+    "pred": "This code is for a Java GUI application named PersonalVulnsWindow, which reads data from a file named \"PersonalVulns.xml\".",
+    "answers": [
+      "    protected VulnTitleDocumentListener titleDocumentListener;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.862
+  },
+  {
+    "id": "d612efbdf9f8bea20844195c9c7e70ab471bf471c3f7f11e",
+    "pred": "This code defines a JPanel for displaying GC (Garbage Collection) statistics in tables and bar charts. It creates different types of chart panels for single and multi-threaded GC data, as well as for specific metrics.",
+    "answers": [
+      "    synchronized public void gcTraceAdded(GCTrace gcTrace) {"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.174
+  },
+  {
+    "id": "35ca5e404330c848ac98475fcd55a583f3af847541cc57af",
+    "pred": "The `PacketListener` class is initialized with an `AckManager`, a `NamespacesHub`, a `PollingTransport`, and a `CancelableScheduler`.",
+    "answers": [
+      "        final AckRequest ackRequest = new AckRequest(packet, client);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.842
+  },
+  {
+    "id": "7cfb7ac6fd4232a3435c4701cef44f96ae13b95ca7c3d2b0",
+    "pred": "The code toggles the visibility of a heads-up display (hudView).",
+    "answers": [
+      "        VideoCapturer capturer = getVideoCapturer();"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.94
+  },
+  {
+    "id": "201b51ede194c123c8eab1922a09b45b7be98fd32bf8cfcf",
+    "pred": "The code creates and manages job requests using the JobManager instance, with various properties such as periodicity, start time, and tags. It also includes methods for canceling all jobs and destroying the database helper.",
+    "answers": [
+      "            contentValues.put(JobStorage.COLUMN_BACKOFF_MS, JobRequest.DEFAULT_BACKOFF_MS);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.364
+  },
+  {
+    "id": "d9620b792d64c22527328a1ab4df2a9bdf8f802c1a402fe2",
+    "pred": "This is a Settings activity for an Android app, specifically for the Solitaire game.",
+    "answers": [
+      "    private CheckBoxPreferenceHideScore preferenceHideScore;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.763
+  },
+  {
+    "id": "8dbc53a90e1ac7dbdd23a8ba4311b3560756041cdf78de8e",
+    "pred": "The code initializes a persistent system using the provided object and a specified directory (basedir).",
+    "answers": [
+      "    journal = DiskJournal(basedir, system_data_path)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.694
+  },
+  {
+    "id": "40c59878dbe93bb35bc9dea64650e5e67d0b128276306199",
+    "pred": "The `DesktopCommand` class runs the app on the desktop by preparing and running the Docker container if not in skip-build mode or custom mode, and setting up necessary configurations such as xhost and Docker config.",
+    "answers": [
+      "            WebappSupport(self.config.install_files.find_package_name()).update(docker_config)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.032
+  },
+  {
+    "id": "d95511ca66d53b2e3c44c9654744738b670af1494a5c1383",
+    "pred": "The method `LoadAllBoardsFromWWW()` is used to load all boards from the WWW.",
+    "answers": [
+      "    final List<BoardSection> sections = new ArrayList<>();"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.214
+  },
+  {
+    "id": "9b3cf05beccb404c5889b37c9c94f311cd351532699c046f",
+    "pred": "This is a `SearchContactFragment` that extends `Fragment`.",
+    "answers": [
+      "        FragmentObservable<SearchContactFragment, DataClass> obs"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.595
+  },
+  {
+    "id": "2c2ff8de3a417a8b44de412585fca987e86a0537c6b0ac3e",
+    "pred": "The method generates a compilation unit based on the provided GeneratorModel and testDataFactories, considering whether to write TML according to user preferences.",
+    "answers": [
+      "\tTest tmlTest = model.getTmlTest();\r"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.865
+  },
+  {
+    "id": "d38f0bfabb772fa081ae5eb5d530f9019132503c8d5c9402",
+    "pred": "This code appears to be written in Python and is related to a simulation or flight simulator. It defines two classes: `SimulationData` and `TestSimulatorDataClient`.",
+    "answers": [
+      "        simulator_data_client = SimulatorDataClient()"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 5.361
+  },
+  {
+    "id": "39fa577d10bd1cdeb6238e677732e01f9402a059cf13202e",
+    "pred": "The code is a Java class named `PanelViewMessageUi` that displays HTTP messages in a GUI. It uses an RSyntaxTextArea to display the messages and provides options for searching and highlighting data.",
+    "answers": [
+      "            if (httpMessage instanceof SentinelHttpMessageOrig) {"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.233
+  },
+  {
+    "id": "9e6cda33e169201b0a99617fd44a30bf15a66402ec6e0a5a",
+    "pred": "The function `test_compare_table_extra_attribute` compares a basic model with an extended version of the same model.",
+    "answers": [
+      "    assert simple_table_status(description) == expected_status"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.008
+  },
+  {
+    "id": "eca3bf910ec892b54dfd7a652086525a7a1949bec2001408",
+    "pred": "The function `insert_chunk` inserts a new chunk at the end of the container chunk.",
+    "answers": [
+      "    @loadfile(writable=True)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.792
+  },
+  {
+    "id": "cb9860853afb89979f4417c7f095958b5a392850f75c6b5a",
+    "pred": "The package is licensed under the Apache License, Version 2.0.",
+    "answers": [
+      "      visitBooleanOp(new VisitOrd3(n), opToOccur.get(op));\r"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.372
+  },
+  {
+    "id": "0a0f7d55ca9b8f2a511f4e7d14da4a52090e15fd5d9c0fc3",
+    "pred": "The context provides a list of transformation categories for image processing, including Color Adjustment, Blurring and Sharpening, Distortion and Warping, and Effects.",
+    "answers": [
+      "                    new EmbossTransformation()"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.07
+  },
+  {
+    "id": "fc2e12190a286a446f1f70b6b35e0980a8bd43421872e3c2",
+    "pred": "The function `get_serializer()` returns an instance of the serializer suitable for decoding or encoding.",
+    "answers": [
+      "            more = self._decode_field( FIELD_BOOLEAN )"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.905
+  },
+  {
+    "id": "0e04cae085059fb39f178622bca00328922352613a9fba13",
+    "pred": "These are functions for retrieving various types of data from the Elexon API, including installed generation capacity (`elexon_b1420`), generated output by generator (`elexon_b1610` and `elexon_b1630`), and derived system prices (`elexon_sbp`). The functions take arguments such as API key, year, settlement period, and date.",
+    "answers": [
+      "    bd = BalancingData(args.apikey)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.866
+  },
+  {
+    "id": "bf2ff3d6bbd44c1ed9b275b065c1a427a2ce7646054bd814",
+    "pred": "This code defines a class that interacts with the Imgur API using Retrofit to fetch votes, comments, and other gallery-related data. The `getItemVotes` method retrieves upvote/downvote counts for an image or album, while the `getItemComments`, `getItemCommentIds`, and `getItemCommentCount` methods return lists of comments, comment IDs, and the total number of comments respectively. The provided context does not contain information about how to convert `GalleryItemProxy` objects to type-safe `GalleryItem` derivatives as mentioned in the last comment.",
+    "answers": [
+      "\t\t\t\titem = new GalleryAlbum( proxy );"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 5.122
+  },
+  {
+    "id": "78f4afd8061ff7fe3a9ba080ed7b80c84ccc829afa313459",
+    "pred": "The `index` function can be used to create a dictionary where the keys are attribute values.",
+    "answers": [
+      "    assert dump_key(engine, user) == user_key"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.55
+  },
+  {
+    "id": "844f86363fc751fbf98b1d3b5e1d608e9701d51eeed872e7",
+    "pred": "The code creates a `CustomConsoleExample` that uses a compound progress format with colorizer.",
+    "answers": [
+      "          StringWrapper.wrap(\"[\", new ProgressBar(10, new char[]{'C', '<', 'o'}), \"]\")),"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.639
+  },
+  {
+    "id": "8907c39c8b0cdddb11b055753a6877ca7967e8c7e7840c37",
+    "pred": "This is a collection of factory methods for creating HTML tags.",
+    "answers": [
+      "\tpublic static A link(Url destination) {"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.983
+  },
+  {
+    "id": "a6b1513d6fbd7c8fd96023a6771a05f39e8acac1c0df8071",
+    "pred": "The code defines methods for creating and managing IP addresses, batches, snapshots, organizations, emails, and events within a project context.",
+    "answers": [
+      "            events.append(Event(e))"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.967
+  },
+  {
+    "id": "f85edb7539e50a1c687c3d29e9c4672944dd7eaa5b0b1a21",
+    "pred": "The provided context defines several matchers for examining query types (SELECT, INSERT, UPDATE, DELETE, and OTHER) and batch parameters in a database context.",
+    "answers": [
+      "            Matcher<? super ParameterHolder> parameterHolderMatcher) {"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.103
+  },
+  {
+    "id": "e0e707082bddedfcf3e2798927d5b78b9c327b8fd57e0d3e",
+    "pred": "The `loadWallpaper` function is called when the transition ends.",
+    "answers": [
+      "            Popup popup = Popup.Builder(this)\r"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.93
+  },
+  {
+    "id": "3ddf5be265df219b628fb23e585586981804cd220fc25ef2",
+    "pred": "The code is a Java class named QsolToQueryVisitor, which translates the QSol query language to a Lucene Query. It uses various patterns for parsing different parts of the QSol queries such as slop, range, and boost.",
+    "answers": [
+      "  private static final Map<Operator, List<Occur>> opToOccur = new HashMap<Operator, List<Occur>>(\r"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.314
+  },
+  {
+    "id": "2945ba86ff3cecc0a290e160f928993f202959f5ba590ff0",
+    "pred": "The script is a command-line tool for using HASE, which can be used for various types of analysis such as regression, converting, single-meta, meta-stage, and encoding.",
+    "answers": [
+      "\t\tR=Reader('genotype')"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.322
+  },
+  {
+    "id": "0476bf17391ee4e1621dd29ecd68a5afaa85ae7cc46b49d2",
+    "pred": "The method `name` in the provided context returns the name of the chunk, which is the time of the middle of the current frame chunk.",
+    "answers": [
+      "        self.beginning_datetime = unixTime2Date(self.vidinfo.ts, self.vidinfo.tu, dt_obj=True)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.014
+  },
+  {
+    "id": "03b3c8a49966010592056ff8ea1b5952ab547a564701500a",
+    "pred": "The script imports various modules and functions from different files for a stylized version of a tutorial.",
+    "answers": [
+      "    i = ilms.BarnesStreakLegPoly2P1D(npts=(16,10,8,4), zorder=8)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.427
+  },
+  {
+    "id": "90423bbf2427fd4606a6c4e6507fd7dcf439ec1b5bf1e65c",
+    "pred": "The function `setRoundingMode()` is called to set the rounding mode for food hunger.",
+    "answers": [
+      "\t\tPacketDispatcher.get().sendTo(new PacketConfigSync(), player);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.053
+  },
+  {
+    "id": "223ec5a4ba1c0998de60e3e8478993fd1d58a69f32f69c8b",
+    "pred": "The code defines views for user registration, profile editing, and writing posts in a Django application.",
+    "answers": [
+      "        nodes = Comment.objects.filter(post=post).filter(deleted=False)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.07
+  },
+  {
+    "id": "365a62750d882184d08bc2099114d2fb02fcade7f2f17158",
+    "pred": "The provided context is a Java class named `GridEditor` that extends `DocumentGraphEditor`. It implements `ISelectionProvider` and `TagsetAwareEditor`, and it uses the Nebula NatTable widget for creating a grid editor.",
+    "answers": [
+      "\t\t\t\t\t\tsetSelection(new SingleCellSelection(selectedCells.iterator().next()));"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.727
+  },
+  {
+    "id": "cf05251cefc7e4738f456dd2505df18bd6fb8eb43e19c1ca",
+    "pred": "The `RegularExpression` class is used to limit the scope of trust extended by a signature packet based on a specified regular expression.",
+    "answers": [
+      "    @keyclass.register(RevocationKeyClass)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.023
+  },
+  {
+    "id": "6449818bed51797d1072b7d2c8b6c1b5b682386449a94cf2",
+    "pred": "The function `select_node_kind_test` checks for XPath nodes in the given context.",
+    "answers": [
+      "        if is_processing_instruction_node(item):"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.702
+  },
+  {
+    "id": "a6389bf574a540736f6c828c61e4abda5922db3f9c932e53",
+    "pred": "The function `getAS2PuffleString` converts a list of puffles into a string format for Adopt-a-Pet 2.",
+    "answers": [
+      "@PacketEventHandler.onXT_AS2('s', 'p#pg', WORLD_SERVER)\r"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.715
+  },
+  {
+    "id": "22e2ba9414fc906f9c6a542e91001317823cca0f0070e633",
+    "pred": "The function `make_image_0` creates an image with anisotropic Gaussian PSFs and Barnes Streak Leg polynomial 2D ILM.",
+    "answers": [
+      "    B = GlobalScalar('bkg', 0.0)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.692
+  },
+  {
+    "id": "2980cef10693f314cb81b0953f1f3dd1e48bf127e124d8e1",
+    "pred": "The `align_utterances` function aligns utterances using multiprocessing when the `use_mp` attribute is True.",
+    "answers": [
+      "            alignment_info = run_mp("
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.948
+  },
+  {
+    "id": "7eafc8ea018ad7cd5d3896465b4cacc4517c14071ba504c0",
+    "pred": "The script refines camera pointing by matching stars with different search radii and using Nelder-Mead optimization to fit astrometric parameters.",
+    "answers": [
+      "    platepar.rotation_from_horiz = rotationWrtHorizon(platepar)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.069
+  },
+  {
+    "id": "e7152ac699cce75fc2dfc88c0a619abf1102ad45ccb80eed",
+    "pred": "The context provides a test for database upgrades from version 1 to 6 in various steps, and also for multiple upgrades in one go (1 to 2 to 3 to 4 to 5 to 6).",
+    "answers": [
+      "        contentValues.put(JobStorage.COLUMN_END_MS, 120_000L);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.243
+  },
+  {
+    "id": "f96bf9c1df521b55bd0cdb0753e88f19069d16ccfc08bcd5",
+    "pred": "This is a `ChatSettingsRemove` fragment for managing chats in an Android app.",
+    "answers": [
+      "        Log.d(this.getClass().getSimpleName(), \"onStart\");"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.667
+  },
+  {
+    "id": "fac2252ad2e0a9e0cc59c989e08500d01da4a8aa32a7cd0c",
+    "pred": "The `ProgressFilter` class is a `django_filters.FilterSet` for the `Progress` model, with filters for `indicator`, `target`, `area_code`, `area_name`, `area_type`, and related fields.",
+    "answers": [
+      "        model = Progress"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.16
+  },
+  {
+    "id": "a69eb1cde291c2dfaf05bd095fc5dd39cf5171398ed4efb1",
+    "pred": "The method `subcategoryFilter()` shows a filter dialog for subcategories.",
+    "answers": [
+      "            subcategoryFilter.setVisibility(presenter.getProduceData().getCategory().equals(Constants.VEGETABLE) ? VISIBLE : GONE);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.078
+  },
+  {
+    "id": "49cbf96d45ceeed9f47a2217c23973ea5e663d8a9b9a31d7",
+    "pred": "The code represents a class `ConnectedConnectionState` for a SignalR client connection that is in the connected state.",
+    "answers": [
+      "        }).then(new ExecuteOn<Channel>(context.getExecutor())).then(new Accept<Channel>() {"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.851
+  },
+  {
+    "id": "92ef9cc55d363565ca6ca5377f9bb6666861d3c1a87783cb",
+    "pred": "The `UserRegistrationTask` is an asynchronous task used for user registration in the application.",
+    "answers": [
+      "                new RegisterFragment.RegistrationParam(success, email, password, message));"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.72
+  },
+  {
+    "id": "163b5f5b09c260b7de5663c40e2eca92296bec6e423ac7fc",
+    "pred": "This is a Java class named `Matcher` that extends the `Filter` class and is used for Hidden Markov Model (HMM) map matching.",
+    "answers": [
+      "    private final Router<Road, RoadPoint> router;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.832
+  },
+  {
+    "id": "bc2a4e8172b6957e596942f525675414b199ffbd0904ae9d",
+    "pred": "This is a Java class implementing the `MenuAdapter` interface.",
+    "answers": [
+      "    private List<FilterType> list;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.468
+  },
+  {
+    "id": "f6b596e03e2fcd525d0934ea4696847cb0096d30b276c280",
+    "pred": "The code defines several tests for parameters related to GPS and GLONASS satellite signals, amplitude types (poly and sine), Doppler code tracking, TCXO types, and message types (ZeroOneMessage, CNavMessage, LNavMessage, GLOMessage).",
+    "answers": [
+      "  assert isinstance(args.gps_sv[0].getL1CAMessage(), ConstMessage)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.535
+  },
+  {
+    "id": "dcc2ec7980b7200d6cfd275e0812ceab747a90fbb621d8a5",
+    "pred": "The function `_render_stroke` is responsible for rendering the stroke of an SVG element.",
+    "answers": [
+      "        graphics.draw_colored_triangles("
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.891
+  },
+  {
+    "id": "6be916e353b46483c181ef52e63b82a1b30edf08ded51e81",
+    "pred": "The `Dock` class is initializing with the provided context and setting up click and long click listeners for apps.",
+    "answers": [
+      "\t\t\t\tif (data.startsWith(AppData.COMPONENT)) {"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.942
+  },
+  {
+    "id": "7338a81d2299ff6884609f99bf6afef7440fc4b65ad8fab4",
+    "pred": "The code checks if certain actions need to be added to the status bar based on user preferences and existing views.",
+    "answers": [
+      "                if (AppSettingsAction.isShow && AppSettingsAction.isShowInStatusBar) {"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.082
+  },
+  {
+    "id": "155b4463acdcae23bc511ceeab892e0fe590c47c8acb48fd",
+    "pred": "The `MeteorSingleStation` class is a container for single station observations, enabling great circle fitting.",
+    "answers": [
+      "        self.beg_azim, self.beg_alt = raDec2AltAz(self.ra_array[0], self.dec_array[0], self.jd_array[0], \\"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.79
+  },
+  {
+    "id": "dbb498c5ef72bb23bde6e8492c96e6fec16f3b110d524885",
+    "pred": "The `MField` object is created for a variable field in the class `classInFile`.",
+    "answers": [
+      "\t\tFunctionSymbol s = (FunctionSymbol)currentScope.resolve(fhead.ID().getText());"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.728
+  },
+  {
+    "id": "5cbc20dfc7e45b49e6eb883b6fd883cab2e5e2ff4b2aa9f6",
+    "pred": "The context provided is a Java code snippet for a NodeNavigationVisitor interface, which is used in a CSS parser library called jless. This interface allows visitors to traverse or filter a set of nodes in the tree structure of a CSS file.",
+    "answers": [
+      "    boolean enter(ArgumentsNode node);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.063
+  },
+  {
+    "id": "ea73e4e9f46fa0f5bc37d1ace51629badf6ce4b9e239a93e",
+    "pred": "The class `OpenAPIProcessor` is annotated with `@AutoService(Processor.class)`.",
+    "answers": [
+      "    private CodeGeneratorFactory codeGeneratorFactory;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.742
+  },
+  {
+    "id": "0ca8373a6dd28d7d4922951dd4cea9d10d331e9f5bf01376",
+    "pred": "The `getInstance` method is used to get an instance of a class in the provided context.",
+    "answers": [
+      "        bind(GerritToolWindow.class);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.65
+  },
+  {
+    "id": "1b13049a6c5527aafb6776b2f5bbc5abc45f1f4c9b2723ea",
+    "pred": "The `CommandSnapshot` class represents the `snapshot` command and holds logic for its execution, displaying Zookeeper data tree at a certain time. It uses a UnicodeDecoder by default to convert znodes byte array to printable strings. To execute the snapshot command, it reads a fuzzy snapshot file or reconstructs the data tree from snapshots and transaction logs based on the provided zxid, data directory, data log directory, and configuration file.",
+    "answers": [
+      "                    long snapZxid = getZxidFromName(snapshots.get(i).getName());\r"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 4.241
+  },
+  {
+    "id": "2e6f374a70ca22cf6e93fb0e58fc2a96c3a52b422bcb074f",
+    "pred": "The function `_set_panes` replaces the opened panes with new ones from the provided `pane_data`.",
+    "answers": [
+      "            entries = [e for e in entries if txn_matches(e.transaction, query)]"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.117
+  },
+  {
+    "id": "6d390e2e6b45c34f55b4487a50865cc89accbf6d63fa1431",
+    "pred": "The script defines a dictionary for JPEG meta-data markers.",
+    "answers": [
+      "        Int('mark', Pt=0xFF, Type='uint8', Repr='hex'),"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.771
+  },
+  {
+    "id": "9dbc60689be98bc82c857ab3982f8ff7bbe3478412edec87",
+    "pred": "The `searchEdit` variable in the provided context is of type `SearchView`.",
+    "answers": [
+      "\t\t\t\t\t\treturn Db.getAllHistoricSearches(this).toList();"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.188
+  },
+  {
+    "id": "eed353c06e071ac7d4bffd282f86319ba9fe6f8bebf82418",
+    "pred": "The script creates a fake image similar to the one used in the tutorial.",
+    "answers": [
+      "    part = objs.PlatonicSpheresCollection(POS, rad, zscale=0.89)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.287
+  },
+  {
+    "id": "c42c457909a86bd68cd9e63a115bd45056807350995e8ca0",
+    "pred": "The function `apply_add` performs fast addition between two columns when both are of type `Column`.",
+    "answers": [
+      "        result, index = apply_fast_and(left.values, right.values,"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.893
+  },
+  {
+    "id": "3fae570a1b8eb01a5f0bd780b9e7ecd7a80a017517bb3c9f",
+    "pred": "The `IconRequestBuilderTask` is an extension of the `AsyncTask` class, used to build icon requests in the CandyBar application.",
+    "answers": [
+      "                    Request request = CandyBarMainActivity.sMissedApps.get(RequestFragment.sSelectedRequests.get(i));\r"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.924
+  },
+  {
+    "id": "81d373d24d2205dd3fc3608586e1ea1d7849dfc014812553",
+    "pred": "The `DecimalProxy` class is used to handle decimal numbers.",
+    "answers": [
+      "            instance, (int, float, Decimal, AbstractDateTime, Duration, UntypedAtomic)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.852
+  },
+  {
+    "id": "0025f4d1e94b43ec3b17340afc13347b03b910b81bfeda92",
+    "pred": "The `SearchMenuPage` is created by the `MediathekFactory`.",
+    "answers": [
+      "            return SearchMenuPage()"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.575
+  },
+  {
+    "id": "436c9931e94d5bfdd09bfa54e471f6598ea0963e409ec765",
+    "pred": "The code initializes a new Fit and creates a refine object associated with it, and also defines a method to get the contribution by pattern and phase.",
+    "answers": [
+      "                exist = checkFileExistence(pattern.get(\"Datafile\"))"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.02
+  },
+  {
+    "id": "9a07af0d15c39e859ec913ef88659b89df1da4c000cf0525",
+    "pred": "The `AreaViewSet` class is a subclass of `ModelViewSet`, and it handles views for the `Area` model, using the `AreaSerializer`, `AreaFilter`, and has an orderable set of fields.",
+    "answers": [
+      "    serializer_class = PlanSerializer"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.891
+  },
+  {
+    "id": "ad9d8c2284a0cc93200c15ce99e1eb5b6de7cde40376c3e4",
+    "pred": "The code is for a `MainFragment` in an Android application, which uses various classes and interfaces related to GitHub repositories, stars, bookmarks, and web views.",
+    "answers": [
+      "    private BookmarkItemAdapter bookmarkItemAdapter;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.019
+  },
+  {
+    "id": "2c00f9bd5bd326cb84782e13c32ec945489aa2d0dfda522b",
+    "pred": "The program creates a test for DDI2FO conversion, using multiple preprocessors and postprocessors.",
+    "answers": [
+      "\t\tGenerationService genServiceDDI2PDF = new GenerationService(preprocessors, ddi2fo, postprocessors);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.732
+  },
+  {
+    "id": "8d75dad48ee3c840351d046814007dd78f504830dfc6e543",
+    "pred": "The code starts a device registration task with the Yasme server.",
+    "answers": [
+      "                        new ChangePasswordTask(user).execute(\"1\");"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.031
+  },
+  {
+    "id": "b7db00e34edd362087cf4521d24aff835a06d1a957471883",
+    "pred": "The `app_job_urls` contains URL patterns for job management functions.",
+    "answers": [
+      "    url(r'^$', PackageSettingsView.as_view(), name=\"settings-packages\"),"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.201
+  },
+  {
+    "id": "b17d87b23e89bb878264b0897db9ce74416b85efc13ea782",
+    "pred": "The code defines several encoders for encoding bits into IQ samples, including two-band and four-band encoders for 1 and 2 bits. The GPSL1BitEncoder, GPSL2BitEncoder, and GPSL1L2BitEncoder are also defined for encoding GPS signals.",
+    "answers": [
+      "  encoder = GPSL1L2BitEncoder(NormalRateConfig)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.395
+  },
+  {
+    "id": "078297c6cf36800b45928391073498513b5a9f8843e0bd6a",
+    "pred": "The function `run_save` converts a TextGrid object to a string and then back to a dictionary.",
+    "answers": [
+      "    savedTg = textgrid._dictionaryToTg(tgAsDict, constants.ErrorReportingMode.ERROR)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.703
+  },
+  {
+    "id": "b877775e781d202a1a1d3be84bf34716f5ae94fb01abccee",
+    "pred": "The `Segmentation` class initializes with maximum segment length, minimum pause duration, and snap boundary threshold.",
+    "answers": [
+      "                    p = KaldiProcessWorker(i, return_queue, function, error_dict, stopped)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.89
+  },
+  {
+    "id": "cb5a46efdf93a5d592e84a9b7e3608ac7a0d2239d9d290b0",
+    "pred": "The script tests various tracking datasets by initializing them and checking their structure using the `_check_dataset` function.",
+    "answers": [
+      "            dataset = UAV123(root_dir, version)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.648
+  },
+  {
+    "id": "8b1ba64af8e45119641834bba5d35a0c0173442ecf9d7c17",
+    "pred": "The context provides an interface named `TagBag` with methods for checking if a tag is set and validating it.",
+    "answers": [
+      "    String getString(FixTag tag) throws NoSuchTagException;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.769
+  },
+  {
+    "id": "c5e3af04f3dde5853fa1d0ced6f4eefa135877a77a0bc3e5",
+    "pred": "The function returns a split object containing spikes grouped according to their channel groups.",
+    "answers": [
+      "            yield Bunch(bounds=bounds,"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.757
+  },
+  {
+    "id": "1bd0813f5c2f786a0e730c7cc3a72b6e2157e6704af5a4f3",
+    "pred": "This code defines a class `AdvancedQueryNodeExpander` responsible for expanding AlvisIR queries.",
+    "answers": [
+      "\t\tpublic ExpansionResult visit(AlvisIRAnyQueryNode anyQueryNode, Void param) {"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.217
+  },
+  {
+    "id": "0df41d976d98c68186ea50fe31fbe892536155c69807ec30",
+    "pred": "This code defines a class named `ParameterizedGenerationService` that orchestrates the parameterized generation process.",
+    "answers": [
+      "\tprivate Validator validator;"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.564
+  },
+  {
+    "id": "61d4c2968ee49839d70b93140bb1d9ff3a5e7c8c2b91a614",
+    "pred": "The variable `ADD_NOTIFICATION_LISTENER` is a constant that represents the operation for adding a notification listener.",
+    "answers": [
+      "        registry.put((byte) (CREATE_MBEAN ^ RESPONSE_MASK), new MarshalledResponseHandler<ObjectInstance>(OBJECT_INSTANCE));"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.425
+  },
+  {
+    "id": "d476e905ec97f8bf948a0b1c766874e2964af8b204c96728",
+    "pred": "The `TwitterScraper` class is designed to scrape tweets from the Twitter API for a specific language, save them, and iterate over common words in that language.",
+    "answers": [
+      "                        Result res = lp.detectLanguage(content, this.lang);"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.967
+  },
+  {
+    "id": "4b05ec6098804aaa8b45cc31b0e854d812e9c60dfba88a51",
+    "pred": "The `FlatTextRenderer` class is a renderer that converts objects by flattening all sub-structures.",
+    "answers": [
+      "        elif isinstance(descriptor, OperatorDescriptor):"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.029
+  },
+  {
+    "id": "d2cd14326a378c4f0d465dba0b88e10f3fe8884f71ba2b3a",
+    "pred": "The script imports various modules including `errno`, `ipaddress`, `sys`, `humanreadable`, `msgfy`, `subprocrunner`, `re`, `loguru`, and defines a function `_get_unit_help_msg()`.",
+    "answers": [
+      "        default=Tc.ValueRange.LatencyTime.MIN,"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.097
+  },
+  {
+    "id": "8bc25ede7167dc2a34e281cdcf659301acdc21bf1b50d0ef",
+    "pred": "The method `get_contacts` is used to retrieve contacts from the database in the context provided.",
+    "answers": [
+      "        self.contacts = Contact.objects.filter(phone_number=self.phone_number)"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.613
+  },
+  {
+    "id": "e73e75354334e930f91a77a6ee902980c781146566c88142",
+    "pred": "The `PCollection<String> scannerDiffOutput` is a collection of policy differences in the pipeline.",
+    "answers": [
+      "        pipeline.apply(\"Read live projects\", Read.from(new LiveProjectSource(org)));"
+    ],
+    "all_classes": null,
+    "length": 0,
+    "token_length": null,
+    "chunk_ppl": null,
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.234
+  }
+]

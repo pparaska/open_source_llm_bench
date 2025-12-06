@@ -1,0 +1,10 @@
+{
+  "repobench-p": {
+    "score": 4.46,
+    "len_predictions": 150,
+    "ppl_mean": null,
+    "ppl_std": null,
+    "block_sizes_mean": null,
+    "block_sizes_std": null
+  }
+}
