@@ -132,44 +132,44 @@ def ask_multihop(base_url: str, model: str, question: str, contexts: List[str],
     return ans.splitlines()[0].strip()
 
 
-def _write_plots(df: pd.DataFrame, plots_dir: str):
+def _write_plots(df: pd.DataFrame, plots_dir: str, dataset_name: str):
     os.makedirs(plots_dir, exist_ok=True)
     # Aggregate bar
     plt.figure()
     plt.bar(["EM_mean", "F1_mean"], [float(df["EM"].mean()), float(df["F1"].mean())])
-    plt.title("Aggregate QA metrics")
+    plt.title(f"Aggregate QA metrics - {dataset_name}")
     plt.ylabel("score")
     plt.ylim(0, 1)
     plt.tight_layout()
-    plt.savefig(os.path.join(plots_dir, "agg_metrics_bar.png"))
+    plt.savefig(os.path.join(plots_dir, f"{dataset_name}_agg_metrics_bar.png"))
     plt.close()
     # F1 histogram
     plt.figure()
     df["F1"].hist(bins=15)
-    plt.title("F1 distribution")
+    plt.title(f"F1 distribution - {dataset_name}")
     plt.xlabel("F1")
     plt.ylabel("count")
     plt.tight_layout()
-    plt.savefig(os.path.join(plots_dir, "f1_hist.png"))
+    plt.savefig(os.path.join(plots_dir, f"{dataset_name}_f1_hist.png"))
     plt.close()
     # EM histogram
     plt.figure()
     df["EM"].hist(bins=3)
-    plt.title("EM distribution")
+    plt.title(f"EM distribution - {dataset_name}")
     plt.xlabel("EM")
     plt.ylabel("count")
     plt.tight_layout()
-    plt.savefig(os.path.join(plots_dir, "em_hist.png"))
+    plt.savefig(os.path.join(plots_dir, f"{dataset_name}_em_hist.png"))
     plt.close()
     # Generation time
     if "generation_time" in df.columns:
         plt.figure()
         df["generation_time"].hist(bins=15)
-        plt.title("Generation time (s)")
+        plt.title(f"Generation time (s) - {dataset_name}")
         plt.xlabel("seconds")
         plt.ylabel("count")
         plt.tight_layout()
-        plt.savefig(os.path.join(plots_dir, "time_hist.png"))
+        plt.savefig(os.path.join(plots_dir, f"{dataset_name}_time_hist.png"))
         plt.close()
 
 
@@ -184,7 +184,25 @@ def evaluate(
     log_every: int = 10,
 ) -> Dict[str, str]:
     t_start = time.time()
-    os.makedirs(out_dir, exist_ok=True)
+    
+    # Extract dataset name from data_path
+    if os.path.isdir(data_path):
+        dataset_name = os.path.basename(os.path.normpath(data_path))
+    else:
+        # For files, use the parent directory name or filename without extension
+        parent = os.path.basename(os.path.dirname(data_path))
+        if parent and parent != ".":
+            dataset_name = parent
+        else:
+            dataset_name = os.path.splitext(os.path.basename(data_path))[0]
+    
+    logger.info("Dataset name: %s", dataset_name)
+    
+    # Create organized directory structure: runs/results/dataset_name/ and runs/plots/dataset_name/
+    results_dir = os.path.join(out_dir, "results", dataset_name)
+    plots_dir = os.path.join(out_dir, "plots", dataset_name)
+    os.makedirs(results_dir, exist_ok=True)
+    os.makedirs(plots_dir, exist_ok=True)
 
     rows = load_any(data_path)
     total = len(rows)
@@ -234,7 +252,7 @@ def evaluate(
             )
 
     # Save detailed predictions
-    with open(os.path.join(out_dir, "predictions.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(results_dir, f"{dataset_name}_predictions.json"), "w", encoding="utf-8") as f:
         json.dump(preds, f, ensure_ascii=False, indent=2)
 
     # Metrics
@@ -242,9 +260,9 @@ def evaluate(
     df["EM"] = [exact_match(p or "", a or []) for p, a in zip(df["pred"], df["answers"])]
     df["F1"] = [f1_score(p or "", a or []) for p, a in zip(df["pred"], df["answers"])]
 
-    # EM-LLM style res.json (top-level "hotpotqa")
+    # EM-LLM style res.json (top-level dataset name)
     res = {
-        "hotpotqa": {
+        dataset_name: {
             "score": round(float(df["F1"].mean()) * 100.0, 2),
             "len_predictions": int(len(df)),
             "ppl_mean": None,
@@ -253,12 +271,12 @@ def evaluate(
             "block_sizes_std": None,
         }
     }
-    with open(os.path.join(out_dir, "res.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(results_dir, f"{dataset_name}_result.json"), "w", encoding="utf-8") as f:
         json.dump(res, f, ensure_ascii=False, indent=2)
 
     # CSV table
     df[["id", "question", "answers", "pred", "EM", "F1", "generation_time"]].to_csv(
-        os.path.join(out_dir, "results.csv"), index=False
+        os.path.join(results_dir, f"{dataset_name}_results.csv"), index=False
     )
 
     # EM-LLM compatible per-item outputs
@@ -276,24 +294,24 @@ def evaluate(
         "generation_time": r["generation_time"],
     } for r in preds]
 
-    with open(os.path.join(out_dir, "hotpotqa.jsonl"), "w", encoding="utf-8") as f:
+    with open(os.path.join(results_dir, f"{dataset_name}.jsonl"), "w", encoding="utf-8") as f:
         for o in emllm_items:
             f.write(json.dumps(o, ensure_ascii=False) + "\n")
 
-    with open(os.path.join(out_dir, "hotpotqa.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(results_dir, f"{dataset_name}.json"), "w", encoding="utf-8") as f:
         json.dump(emllm_items, f, ensure_ascii=False, indent=2)
 
     # Plots
-    _write_plots(df, os.path.join(out_dir, "plots"))
+    _write_plots(df, plots_dir, dataset_name)
 
     elapsed_total = time.time() - t_start
-    logger.info("Done in %.1fs — wrote outputs to: %s", elapsed_total, out_dir)
+    logger.info("Done in %.1fs — wrote outputs to: %s", elapsed_total, results_dir)
 
     return {
-        "predictions_path": os.path.join(out_dir, "predictions.json"),
-        "res_path": os.path.join(out_dir, "res.json"),
-        "hotpotqa_jsonl": os.path.join(out_dir, "hotpotqa.jsonl"),
-        "hotpotqa_json": os.path.join(out_dir, "hotpotqa.json"),
-        "csv_path": os.path.join(out_dir, "results.csv"),
-        "plots_dir": os.path.join(out_dir, "plots"),
+        "predictions_path": os.path.join(results_dir, f"{dataset_name}_predictions.json"),
+        "result_path": os.path.join(results_dir, f"{dataset_name}_result.json"),
+        "dataset_jsonl": os.path.join(results_dir, f"{dataset_name}.jsonl"),
+        "dataset_json": os.path.join(results_dir, f"{dataset_name}.json"),
+        "csv_path": os.path.join(results_dir, f"{dataset_name}_results.csv"),
+        "plots_dir": plots_dir,
     }
