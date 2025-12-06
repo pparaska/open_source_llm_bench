@@ -1,0 +1,10 @@
+{
+  "narrativeqa": {
+    "score": 10.43,
+    "len_predictions": 61,
+    "ppl_mean": null,
+    "ppl_std": null,
+    "block_sizes_mean": null,
+    "block_sizes_std": null
+  }
+}

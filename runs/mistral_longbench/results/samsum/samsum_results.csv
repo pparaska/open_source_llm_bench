@@ -1,0 +1,869 @@
+id,question,answers,pred,EM,F1,generation_time
+5da5f97a6782e2f4559618a1ac96a0eaa98ff99ae2f5b189,"Dialogue: William: are you still angry?
+Emilia: YES 
+William: :(
+Summary: ",['Emilia is still angry.'],Emilia is still angry.,1.0,1.0,3.755
+e5b2529de4edb475662403295e8fb4c639067de48ea3fa13,"Dialogue: Jeff: Should we go to the village party?
+Lia: I'm too tired after hiking
+Mico: I'd like to go, there may be some hot boys!
+Lia: I doubt
+Jim: like a real village boy?
+Jim: who doesn't even speak English?
+Mico: yes, the dummer, the better
+Jim: haha, stupid fucks good, they say
+Mico: I confirm!
+Lia: not my cup of tea
+Mico: I'll go there, who wants to join?
+Jeff: I'll go as well
+Mico: wanna drive?
+Jeff: so you could drink?
+Mico: would be nice, hahah
+Jeff: not excited, but ok
+Mico: thanks!
+Summary: ",['Mico and Jeff will go to the village party. Jeff will drive.'],Mico and Jeff will go to the village party.,0.0,0.8421052631578948,3.398
+0681192bf437818262545c9d5d410f94fd265b20f23d5111,"Dialogue: Michael: Sorry I can't make it today :(
+Tom: well, ok... are you sure?
+Michael: I'm really sorry, can't leave the office before 8pm 
+Tom: it's okay, call me tomorrow
+Michael: I will. Sorry again
+Summary: ","[""Michael can't leave the office before 8 PM, so he's unable to meet with Tom. Michael will call Tom tomorrow.""]",The dialogue is about Michael informing Tom that he cannot make it today because he cannot leave his office before 8 pm. Tom understands and tells Michael to call him tomorrow instead.,0.0,0.5,4.113
+6f9361273f0bb0f4da30c7204050eaf72782a8fdae636bb2,"Dialogue: Autumn: u sewn anything?
+Autumn: show me show me!! :D
+Autumn: <file_gif>
+Israel: no :(
+Israel: haven't had the time yet  ;(
+Autumn: ooh :( 
+Autumn: u need to have pririorities in life!
+Autumn: like me - i haven't checked the tests for a month because the dress wouldn't sew itself :D
+Israel: you've sewn a dres??
+Israel: you didn't show it to me
+Autumn: oh didn't i?
+Autumn: there will be some photos on the site soon so you'll see it:)
+Israel: sure will! can't wait!:D
+Autumn: <file_other>
+Autumn: haven't i showed you this?
+Israel: noo!! it's wonderful!!
+Autumn: thanks :)
+Israel: can't wait to see the whole dress! :)
+Summary: ",['Autumn has sewn a dress.'],"Autumn has sewn a dress and Israel hasn't seen it yet. Autumn plans to post photos of the dress on a website soon, so Israel will be able to see it then. Israel is excited to see the entire dress.",0.0,0.1951219512195122,4.316
+1b992f20e93e0d79de187fa27d695a4a1603ddb06bcaf0d8,"Dialogue: Brenda: Hello, is this Sandra Donovan?
+Sandra: Yes, well that was my maiden name, it's Sandra Taylor now.
+Brenda: It's Brenda Riley, we used to work together in the clothes factory!
+Sandra: Oh my God! Bren! How are you, it must be 25 years!
+Brenda: I'm fine, I live in Stoke now, moved away from Brum in the late 90s.
+Sandra: I still live in Kings Norton, same house, same husband! I've got 4 grandchildren now, ages 2, 4, 9 and 15! How about you?
+Brenda: Unfortunately, my husband Bill died 5 years ago, I have only one grandchild, she's 7, my little angel, she doesn't remember her Gramps. 
+Sandra: So sorry, love, I remember your Bill, he had long black hair and massive sideburns, didn't he?
+Brenda: Well, yes, about 45 years ago, he was bald when he passed away. He loved to dance, he did Northern Soul, we both did actually. Went up to Wigan on weekends, happy times!
+Sandra: Oh yes, I remember that craze, bit energetic for me! We liked disco instead! We had some great dinner dances with the factory, do you remember them?
+Brenda: Yes! Us all dressed up with our long dresses and the men with their frilly evening shirts, lovely memories!
+Sandra: Do you still see any of the girls from Lister's?
+Brenda: No, but I heard that Marigold Carter died, very sad.
+Sandra: Hey Bren, I've had a brainwave! How about we organise a reunion for the Lister's girls, look on social media for them?
+Brenda: Actually, I was thinking along those lines! Do you fancy meeting up, just you and me? I can come down to Birmingham anytime.
+Sandra: That would be lovely! Can you manage it next Saturday? We could meet about 11ish and go for lunch and a good old trip down memory lane!
+Brenda: Oh yes! I'd love that! I'll get back to you about train times soon!
+Sandra: Ok! Bye love!
+Summary: ","[""Sandra and Brenda used to work together in the clothes factory 25 years ago. Sandra still lives in Kings Norton. Brenda lives in Stoke now. Her husband Bill died 5 years ago. They will meet in Birmingham for a lunch next Saturday about 11. They want to organize a reunion for the Lister's girls. ""]","Brenda and Sandra, who used to work together in a clothes factory, catch up after 25 years. They discuss their lives since then - Sandra still lives in the same house with her husband and has four grandchildren, while Brenda moved to Stoke after her husband Bill passed away five years ago. They remember their shared past, including going to dinner dances organized by the factory and Brenda's husband's love for Northern Soul. Sandra suggests organizing a reunion for the Lister's girls, and they plan to meet up next Saturday for lunch and reminiscing about old times.",0.0,0.5241379310344827,5.269
+e207f0cd648c4dd4516b519a490faacd3dae921aac636340,"Dialogue: Leah: <fIie_others>
+Kristi: What is this?(?_?)
+Leah: If you go to this link, you can get 20% discount coupon <3<3<3
+Kristi: What coupon is this? (＠_＠;)
+Leah: All the items on this online shop. 
+Leah: Havent you talked to me that you needed new trainers?
+Kristi: You remembered! Yes I did! (*^0^*)
+Leah: I have a favor as well_(._.)_
+Leah: Put my ID onto the reference code. “Direndia45”∩(·ω·)∩
+Kristi: What can you get if I do that?
+Leah: I will get some accumulated money for the shopping next time.(*_*)(*_*)(*_*)
+Kristi: Alright.  (^.^)
+Kristi: You smart consumer! (^_-)-☆(^_-)-☆
+Summary: ",['Kristi needs new trainers. Leah has a link for a discount coupon at an online store.'],"The dialogue is between Leah and Kristi, where Leah shares a link for an online shop offering a 20% discount coupon. Kristi expresses her gratitude for remembering that she needed new trainers. Leah then asks Kristi to use her ID (""Direndia45"") as the reference code so that Leah can accumulate some shopping money for future purchases. Kristi agrees and compliments Leah on being a smart consumer.",0.0,0.2465753424657534,4.92
+6bdecf495afb4980c3f65777cc45c18bb487f697e8a078f6,"Dialogue: Lisa: Hello Peter. What have you been doing off late?
+Peter: Bit busy with work.
+Lisa: Too much of work, huh?
+Peter: Not really, I’ve been working out
+Lisa:  Ohh, trying to get in shape?
+Peter: Nah, I don’t have much of weight to lose, just want to improve my health.
+Lisa:  That’s a good thought. I was also thinking of working out a bit. What do you do? Do you go to a Gym?
+Peter: Yes, I hold a membership with the one near our office.
+Lisa: Which exercises do you do regularly?
+Peter: I do weights and run on the treadmill.
+Lisa:  Besides exercises, I think I need to eat better to help me keep in shape.
+Peter: Another major requirement for good health is sleep. On an average one requires at least 7-8 hours of sleep.
+Lisa:  There are a lot of things we can do to stay healthy.
+Peter: Yes. One needs to maintain a regime to stay healthy for a long term.
+Summary: ",['Peter has been working out at the gym near their office lately to improve his health. Lisa is considering working out and eating better to be healthier.'],"Peter and Lisa discuss their health routines. Peter works out regularly at the gym near his office, doing weights and running on the treadmill. He also emphasizes the importance of sleep for good health, suggesting that one should aim for at least 7-8 hours per night to maintain a healthy lifestyle. Lisa expresses her intention to start working out as well and mentions that she wants to eat better to help with staying in shape. They both agree on the need to maintain a consistent routine for long-term health benefits.",0.0,0.2857142857142857,5.178
+a49f56fda8881e78a638c9f488dec798c0a3cc2b18f6b8f0,"Dialogue: Petra: I need to sleep, I can't stand how sleepy I am
+Andy: I know, and it's so boring today, nobody's working at the office
+Ezgi: I am working! lazy pigs
+Petra: I'm sleeping with my eyes open, kill me
+Andy: ask the fat woman from HR
+Petra: she would kill me on spot without batting an eye
+Andy: she always repeats she has a black belt in karate 
+Petra: it's hard to believe she can move, but let her have whatever belt she wants
+Andy: LOL
+Petra: sooooo sleepy
+Summary: ","['Petra is very sleepy at work today, Andy finds the day boring, and Ezgi is working. ']","The dialogue suggests that Petra is extremely tired and struggling to stay awake. Andy comments on the boredom of the day since nobody is working at the office, and Ezgi mentions that she is working. Petra jokes about being killed by a fat woman from HR who claims to have a black belt in karate. The conversation ends with Petra expressing her extreme sleepiness.",0.0,0.25,4.657
+e3438ab42d3cc8239d1e19c8368ad851df9cdf88b15fd6ec,"Dialogue: Nova: Do know that people are photoshoping Timothée Chalamet into artworks? :D
+Nova: It's hilarious, check it out: <file_other>
+Dominic: lol XD
+Dominic: it kinda looks good
+Nova: Right? :D
+Dominic: he looks like a typical young man from a 19th-century portrait
+Nova: omg you're so right! :D he looks as if he read Rimbaud's poems and drank absinthe on a daily basis
+Dominic: hahaha XD it's so accurate
+Summary: ",['People are photoshopping Timothée Chalamet into artworks. Dominic and Nova agree that he looks like a 19th century man.'],"The dialogue is about people photoshopping Timothée Chalamet into artworks, specifically 19th-century portraits. Nova finds it hilarious and shares an example with Dominic, who agrees that it looks accurate and fitting for a young man who has read Rimbaud's poems and drinks absinthe regularly.",0.0,0.459016393442623,4.68
+77ead33295dc92287fbb9d0b6e86911ef1ef33d35fbb6f68,"Dialogue: Lola: hey girlfriend, what's up?
+Adele: Oh, hi Lols, not much.
+Adele: got a new dog.
+Lola: another one?
+Adele: Yup. a pup biscuit lab. 4 months. Chewy.
+Lola: how did the others react?
+Adele: the cats keep their distance, Poppy and Lulu seem to mother him. Speedy wants to play.
+Lola: no fighting? that's new.
+Adele: they say puppies are accepted by other animals more easily than older dogs
+Lola: especially girl dogs, probably
+Adele: with the other ones I had to wean them because I took them in as adult dogs. And girls like to fight. like crazy.
+Lola: doggies, right/.
+Adele: that too :P
+Lola: haha. true though.
+Adele: I know, right. Anyway, called him Bones. He's so plump it kinda fit.
+Lola: cute. can't wait to see him.
+Summary: ","['Adele got a new biscuit Labrador Chewy that is 4 months. Her cats keep their distance, and Poppy and Lulu seem to mother Chewy and Speedy wants to play.']","Adele got a new dog named Chewy, who is a 4-month-old Pup Biscuit Lab. She calls him Bones and her other dogs seem to accept him easily.",0.0,0.39999999999999997,4.03
+694acb099ad12bae7161cf4ac8d7fb920d6de7ce1857a246,"Dialogue: Cara: hey
+Cara: are you at home
+Celine: hey Cara
+Celine: No i'm not
+Cara: okay then, i just wanted to pass by
+Celine: im sorry, i can drop by in the evening if you dont mind
+Cara: its fine, call me then if you decide to come
+Celine: ok
+Summary: ","['Celine is not at home, but she will call Cara before visiting her.']","Cara and Celine are friends. Cara wanted to visit Celine but she wasn't home, so they arranged for Celine to drop by in the evening or call Cara if she decides to come.",0.0,0.26086956521739135,4.257
+838c429ae24c4723861b0f074f871f52db83f0747f772d5d,"Dialogue: Rachel: <file_other>
+Rachel: Top 50 Best Films of 2018
+Rachel: :)
+Janice: Omg, I've watched almost all 50... xDD
+Spencer: Hahah, Deadpool 2 also??
+Janice: Yep
+Spencer: Really??
+Janice: My bf forced me to watch it xD
+Rachel: Hahah
+Janice: It wasn't that bad
+Janice: I thought it'd be worse
+Rachel: And Avengers? :D
+Janice: 2 times
+Rachel: Omg
+Janice: xP
+Rachel: You are the best gf in the world
+Rachel: Your bf should appreciate that ;-)
+Janice: He does
+Janice: x)
+Summary: ","['Rachel sends a list of Top 50 films of 2018. Janice watched almost half of them, Deadpool 2 and Avengers included.']","In this dialogue, Rachel is discussing movies with Janice and Spencer. They are talking about the Top 50 Best Films of 2018 list. Janice mentions that she has watched almost all 50 films on the list, including Deadpool 2 which her boyfriend made her watch. Rachel finds it impressive and calls Janice the best girlfriend in the world.",0.0,0.3513513513513513,4.651
+1937c256433911ec3025e6383525c9c4ef22d52b445a0a0c,"Dialogue: luke: Hey, was just thinking, we should avail ourselves for team selection tomorrow regardless of our injuries
+martial: thats what i was thinking also
+luke: we should let Jose know that tomorrow
+martial: the first thing in the morning infact
+luke: the fixtures are really piling up and we need to help the team
+martial: yeah, thats for sure, we are a family
+luke: we will the coach know that we are ready to play
+martial: despite the little pain, me i'm ready
+luke: me too
+martial: so we meet up at carrington and go to his office very early
+luke: yeah, both of us
+martial: ok, we'll go together
+luke: cool 
+martial: ok
+Summary: ","[""luke and martial want to help the team and play despite their injuries. They will meet at carrington and go to the coach's office.""]","In the dialogue, Luke and Martial are discussing their injuries and their commitment to play for the team despite them. They plan to inform the coach about their availability the next morning and meet up at Carrington to go to his office early. Both of them are determined to help the team, considering the piling fixtures, and they will go together.",0.0,0.5384615384615384,4.638
+69f3eb0f9a4c973a0b9785e7795cece732bf7738b5322fce,"Dialogue: Sally: did you hear Borns' new album? :o
+Rita: YES I DID
+Rita: it's amazeballs
+Sally: i know right??? God Save Our Young Blood
+Rita: definitely my fav 
+Rita: that and Faded Heart
+Sally: so good
+Rita: i'm also pumped for Florence, her new single is out tomorrow
+Sally: :o didn't know about it! 
+Summary: ","[""Sally and Rita like Borns' new album very much. Rita is also excited about Florence's new single which comes out tomorrow. Sally didn't know about it.""]","Sally and Rita are discussing music. They both listened to Borns' new album and enjoyed it, with Rita calling it ""amazeballs"". They also mention Florence's upcoming single.",0.0,0.42857142857142855,4.234
+4a4c7c55c7fb1952ff95cbf97499ae21eb93ff1c37e68458,"Dialogue: Martin: I won two cinema tickets!
+Aggie: oh cool, how come?
+Martin: online. on fb, the movie mag organized it
+Aggie: so what did you do
+Martin: just write a short review and that's it
+Aggie: well done :) so what and when. and where?
+Martin: the new film with Redford
+Aggie: i guess i heard sth
+Martin: it's pretty cool i heard. till the end of the week
+Aggie: sounds good. we'll find time XD
+Summary: ",['Martin wrote a short review and won 2 cinema tickets on FB. Martin wants Aggie to go with him this week for the new film with Redford.'],"Martin won two cinema tickets for a new film with Redford, which will be shown at the end of the week. Aggie and he will find time to watch it together.",0.0,0.49056603773584906,4.169
+719eee42955c9d3602c720f8644ffd10e0af4776be3dc046,"Dialogue: Max: I know I will never be famous music producer
+Max: But check this out
+Max: My latest project
+Max: <file_other>
+Jim: I'll listen to it when I get home.
+Jim: Knowing you I'm sure it's good.
+Max: Thanks
+Max: Let me know what you think later
+Jim: I will
+Summary: ","[""Jim will check out Max's latest music project when he gets home.""]","Max has shared his latest music project with Jim, who plans to listen to it when he gets home. Max is confident that the project is good and asks for Jim's feedback later.",0.0,0.43478260869565216,4.215
+6b2677b451034aef716068c91304f0ce5e33440ebf8b4620,"Dialogue: Wanda: Let's make a party!
+Gina: Why?
+Wanda: beacuse. I want some fun!
+Gina: ok, what do u need?
+Wanda: 1st I need too make a list
+Gina: noted and then?
+Wanda: well, could u take yours father car and go do groceries with me?
+Gina: don't know if he'll agree
+Wanda: I know, but u can ask :)
+Gina: I'll try but theres no promisess
+Wanda: I know, u r the best!
+Gina: When u wanna go
+Wanda: Friday?
+Gina: ok, I'll ask
+Summary: ","[""Wanda wants to throw a party. She asks Gina to borrow her father's car and go do groceries together. They set the date for Friday. ""]","Wanda wants to make a party and asks Gina for help. She needs Gina to make a list and also asks if she can borrow her father's car to go grocery shopping with her on Friday. Gina agrees to try to ask her father about the car, but there is no promise that he will agree. Wanda thinks Gina is the best.",0.0,0.4096385542168675,4.638
+0b61c23fde58a1a29920fd2cf13ba9caf9dec377481563df,"Dialogue: Madison: <file_other>
+Madison: I saw this offer today
+Adam: Thailand??
+Madison: Exactly
+Adam: Not to expensive??
+Madison: Tickets cost pretty penny, but the rest is extra cheap
+Taylor: And children under 12 --> 50% off
+Jordan: Seems ok
+Summary: ",['Madison considers buying flight tickets to Thailand as she has found a cheap offer with 50% discount for children under 12.'],"The offer for a trip to Thailand has tickets that are expensive but the rest of the costs are affordable, and children under 12 get a 50% discount.",0.0,0.5116279069767442,3.95
+026af6b27965bf8a6572d64fc70cc2269b01b37509086d74,"Dialogue: Charlee: I'm in class. Theatre in Portuguese lol
+Curtis: Realllly?
+Charlee: Yes. One of my subjects at the university that I attend is portuguese theatre. We are preparing a performance
+Curtis: What performance is this? Are you devising it?
+Charlee: A polish one translated into portuguese
+Curtis: Thats quite cool. Who is the writer?
+Charlee: Mrożek
+Summary: ",['Charlee is attending Portuguese theater as a subject at university. He and other students are preparing a play by Mrożek translated into Portuguese.'],Charlee is studying Portuguese theatre at university and is preparing a performance of a Polish play by author Mrożek that has been translated into Portuguese.,0.0,0.5909090909090909,4.122
+3ea532ab0addd3b00ccff7e7f4c09e0644067bf1acf1453a,"Dialogue: Jesse: can i borrow your razor?
+Stig: what happened to yours?
+Jesse: i broke it. fell right out of my hands
+Summary: ","[""Jesse broke his razor and wants to borrow Stig's.""]",Jesse broke his razor and is asking Stig if he can borrow his.,0.0,0.608695652173913,3.958
+b0a5da20017e4f6d513b2e5058be42e204a1e105698da42e,"Dialogue: Meg: still at school?
+Ann: i have extra math classes
+Meg: so when can i meet you?
+Ann: i will be home at 7
+Summary: ",['Ann is still at school. She will be home at 7 so she can meet Meg then.'],Ann will be home at 7 PM.,0.0,0.5,3.916
+0c3ce1cd7e7246a98eda4c178e98c100cbe3e275c4b7ce9b,"Dialogue: Jones: Hey.
+Angelina: Hey.
+Angelina: Long time. How are you doing?
+Jones: I'm fine
+Jones: You?
+Angelina: I'm cool too.
+Jones: You think we can meet today later in the afternoon in town?
+Angelina: Definitely.
+Jones: Okay. I will call you to confirm where we will meet.
+Angelina: Cool
+Summary: ",['Jones and Angelina will meet in town in the afternoon.'],Jones and Angelina are planning to meet up later in the afternoon in town. Jones will call Angelina to confirm their meeting location.,0.0,0.5806451612903226,4.073
+5995658a6719fda93e3338b5bdb95ace008a41f8856f0a81,"Dialogue: Bella: Will you be home tonight?
+Clara: Wanna pop in?
+Bella: I'd love to. But first have to see how dad's doing. 
+Clara: I won't be back before 7 though. Am at the gym.
+Bella: No pro. Is 7:30 ok then?
+Clara: Why don't we go and have a drink? It's Friday evening after all. Eh?
+Bella: In actual fact I want to have a talk with you. I sort of need your advice.
+Clara: Something happened?!
+Bella: Not yet. I mean it's nothing dramatic. Just need to talk to you.
+Clara: What about?
+Bella: Myself I would say.
+Clara: I've guessed so much! Very well. Come anytime after 7:30 and I'll fix us a snack. Beer? Wine?
+Bella: Oh dear... I'd appreciate a snack but let me bring the wine.
+Clara: OK CU.
+Clara: But you'll have to park somewhere along the road as my drive's taken by my camper at the moment.
+Bella: No pro.
+Summary: ",['Bella wants to talk with Clara and she will come to her place after 7:30.'],Bella will visit Clara after 7:30 and bring wine.,0.0,0.5384615384615384,3.836
+29fe22e3483ac121e8c349dad5e3755798af025b774a676e,"Dialogue: Gary: remember i told you i wanted to drive for uber?
+Ellie: yes.... :-D
+Gary: and how you told me it was a terrible idea
+Ellie: yes, I do remember lol
+Gary: well, i'm driving for uber :-D
+Ellie: really??? hahahha i'm sure i was right
+Ellie: i'm sure you hate it
+Gary: no! i love it <3
+Gary: i'm actually parked waiting for a ping for my next ride
+Gary: it's so much fun!!!
+Gary: i've met loads of cool people! :-D
+Ellie: really? 
+Ellie: i would have NEVER expected YOU would enjoy it
+Gary: why is that?
+Ellie: you're... ""peculiar"" when you meet new people, lol
+Gary: what do you mean???
+Ellie: don't take this the wrong way...
+Ellie: but you're not good at being around new people lol
+Ellie: you're always awkward and uncomfortable :-/
+Gary: lol i didn't know i was perceived that way
+Ellie: yeah, so when i hear you're having fun meeting all thiese strangers i'm really surprised lol
+Ellie: maybe your social skills are improving!! hahaha
+Gary: whatever, I'm having so much fun
+Ellie: i'm glad you are!! :-)
+Summary: ",['Gary is a driver for Uber and he really enjoys it.'],"In this dialogue, Gary tells Ellie that he is now driving for Uber, which was a decision they had discussed before and Ellie initially thought it was a bad idea. However, Gary enjoys the experience and finds it fun, meeting new people and having a good time. Ellie is surprised by this as she perceives Gary as awkward and uncomfortable around new people. Despite this, she is glad that Gary is enjoying himself.",0.0,0.20253164556962025,4.781
+4531b2fb7204ec965ce453b1eddea55b22ba4d798b74c41f,"Dialogue: Elena: Happy birthday my dear!
+Dorothea: Oh thank you darling! <3
+Elena: I wish you all the best and I hope all your dreams come trueee!
+Dorothea: Haha thanks!
+Elena: Are you going to celebrate today?
+Dorothea: Yes, I'm gonna meet Tom and we're going to eat something in the town :)
+Elena: Cool! So enjoy guys! And see you on your party on Saturday! :D
+Dorothea: Thx! Love U :* and see you soon! 
+Summary: ",['Dorothea is having a birthday dinner in the town with Tom. Elena is seeing Dorothea at her party on Saturday. '],Dorothea is celebrating her birthday today by meeting Tom and eating something in town. Elena wishes her a happy birthday and invites herself to Dorothea's party on Saturday.,0.0,0.5217391304347826,4.294
+a6633d664d9f223bcfaefaac93f16945b776fa27caac6565,"Dialogue: Charles: What are you up to this weekend?
+Camilla: Not much. Just some work and errands on Saturday, show Saturday night. Day of nothingness on Sundy.
+Charles: Sounds good. We are going to visit the German markets this weekend. Birmingham and Manchester both. Sausage overload!
+Camilla: Ooh, that sounds really good!
+Charles: Allegedly there are Christmas things going on but I just go for the sausage and beer!
+Camilla: What a shocker.
+Charles: I know!
+Camilla: I'll have to try to get there this year. I've not been for ages.
+Charles: Oh, yeah, they are good. Try the mulled wine too. That's nice.
+Camilla: Never had it. Is it served hot?
+Charles: Yes, exactly. And lots of spices. Usually a red but sometimes they offer a mulled white.
+Camilla: I'm good with red.
+Charles: Inspired us to make our own at Christmas last year, but nobody else drank it.
+Camilla: Bummer!
+Charles: More for me! But oh the hangover.
+Camilla: LOL!
+Charles: Anyway, that's the plan. Hope you have fun.
+Camilla: You too! 
+Charles: Thanks!
+Summary: ",['Camilla has some errands to do on Saturday. Charles is visiting the German markets this weekend. They are talking about Christmas food and drinks.'],"Charles and Camilla are planning their weekends. Charles is going to visit German markets in Birmingham and Manchester for sausage and beer, while Camilla has work and errands on Saturday and plans a day of nothingness on Sunday. They discuss the mulled wine served at the markets, which is usually red but sometimes white, and Camilla expresses her intention to try it this year. Charles mentions that he made his own mulled wine last Christmas, but nobody else drank it.",0.0,0.3,4.998
+9a9571db652927fbef54fe9869dd2f2d3712b5f14e538920,"Dialogue: Mary: hey, im kinda broke, lend me a few box
+Carter: okay, give me an hour, im at the train station
+Mary: cool, thanks
+Summary: ",['Mary ran out of money. Carter is going to lend her some in an hour.'],"In this dialogue, Mary is asking Carter for some money and Carter agrees to lend her some, stating that he will be at the train station in an hour.",0.0,0.4878048780487805,4.15
+05b71aaf6c3df6cb4f09047fc44a4a88139b9f7a6028b9de,"Dialogue: Biwott: Did you watch the series I told you
+Chloe: No not yet.
+Chloe: I have been busy this week but I will watch it during the weekend
+Biwott: 👍
+Summary: ",['Chloe will watch the serious recommended by Biwott at the weekend.'],"Chloe has not watched the series yet, but she plans to watch it during the weekend.",0.0,0.2608695652173913,4.03
+e58fc0df85eb2c2b69f4ccb8250348d128e853debabefa37,"Dialogue: Iris: Anyone know how to fix this? Trying to remove myself from an expense: > This expense involves a person who has left the group, and thus it can no longer be edited. If you wish to change this expense, you must first add that person back to your group.
+Ken: You got the email address of the person?
+Iris: Doesn't say. But probably juls?
+Luke: Probably have to delete that expense and re-add it
+Iris: I’m gonna try
+Luke: It's the car right?
+Ken: yip
+Iris: gracias
+Ken: fixed it - absorbed Juls extra cost so we can remove her from the group again
+Gerardo: We will  need to add her towards the car rental price.
+Ken: true that - let me know when you are doing that and I'll add her back in
+Julia: Ooops, that’d be me
+Ken: No worries, we got this :)
+Julia: let me know how much I owe u so I can wire :)
+Ken: I guess by the end of the month – something unpredicted always pops up in the meantime so we have to recalculate again
+Gerardo: Speaking of which, I’m gonna ask the peeps leaving early to stay in the splitwise group until the end of the month
+Ken: Sara, George
+George: We will, my man
+Gerardo: It’s gonna be the $ for gas too
+Summary: ",['Iris is trying to remove herself from an expense. Ken has fixed the problem. Julia will be added to the expense again later. Gerardo will ask the people leaving early to stay in the splitwise group until the end of the month. George will stay.'],"The dialogue is about a group of people trying to remove one member (Julia) from their shared expenses on Splitwise due to her leaving the group. They discuss various methods to do this, such as deleting and re-adding the expense or absorbing Julia's extra cost so they can remove her from the group again. In the end, they manage to fix the issue and Julia offers to pay Ken for any costs incurred. Gerardo also mentions that those leaving early will stay in the Splitwise group until the end of the month to account for gas expenses.",0.0,0.3779527559055118,5.26
+a07252431ca98d95fddb8b54ea5e5b6778bdf97d81be345e,"Dialogue: Huda: going swimming wanna join?
+Alex: sure.. what time?
+Huda: in 2 hours 
+Alex: ok i will be there then
+Huda: see ya
+Summary: ",['Alex will go swimming toghether with Huda in two hours. '],Alex and Huda have planned to go swimming together in two hours.,0.0,0.6363636363636365,3.89
+0b17925cad5c3390e9294b318b7049338619abe2362a1b07,"Dialogue: Tina: Hi, darling? Are you ok?
+Steve: Hi, babe. I'm fine. You?
+Tina: OK :-) Love you :-*
+Steve: Love you, too.
+Tina: How about pasta for dinner?
+Steve: Sounds great!
+Tina: With broccoli, ham, cheese and cream?
+Steve: Scrumptious. 
+Tina: Your favourite.
+Steve: Indeed.
+Tina: But there is a snag.
+Steve: Too perfect to be true?
+Tina: It's not about that. We'd need to do some shopping after work.Can you handle it yourself?
+Steve: Can we handle it together? You know how scatterbrained I am when it comes to shopping lists.
+Tina: I do know!
+Steve: Together?
+Tina: Fine. Will you be leaving work on time?
+Steve: Guess so. I don't expect any problems.
+Tina: Ok. Let's meet in the car park, shall we? 
+Steve: Sure. 
+Tina: Miss you :-*
+Steve: Miss you, too :-*
+Tina: See you later :-)
+Summary: ","[""Tina and Steve are having pasta for dinner. They'll meet in the car park after Steve finishes work. They'll do the shopping together.""]","The dialogue is between Tina and Steve, who are a couple. Tina is asking Steve if he's okay, and he responds that he is fine. She suggests having pasta for dinner with broccoli, ham, cheese, and cream, which Steve agrees to. However, there seems to be a problem with shopping for the ingredients after work, as Tina suggests they need to do it together because Steve tends to be scatterbrained when it comes to shopping lists. They agree to meet in the car park later.",0.0,0.3846153846153846,5.149
+304f4ae8cfd2d8a77310d0c7e9b9c910713b1c36492ef660,"Dialogue: Christie: how are you after the party?
+Katie: really tired... and you?
+Christie: same
+Christie: the party was great!
+Katie: Yeah, we had fun! :)
+Summary: ",['Christie and Katie are tired after the party. They both had fun.'],The dialogue is about two friends discussing a party they attended. Both Christie and Katie are tired from the party but enjoyed it.,0.0,0.5161290322580645,4.017
+08a9881a615a3ec040eaf48a7575b320ae0bb1b4d1ab71bb,"Dialogue: Jess: Guys, last night I dreamt I was a lion tamer, does it mean I should go to Africa this summer? XD
+Lynn: Or maybe you'll meet a handsome zookeeper? :D
+Charlie: Or you'll get attacked by a stray cat?
+Lynn: You've just spoiled all the fun! :P
+Jess: Knowing my luck, Charlie might be the closest to the truth.
+Charlie: Do you really believe that dreams can mean something?
+Jess: No, of course not! I was just joking. It was such a surreal dream that I had to share it with you ;)
+Lynn: Well...
+Jess: Do you believe in dreams, Lynn?
+Lynn: I'm not saying I believe, but I think that sometimes it is possible that our dreams are telling us something. Not like they can show us our future or anything like that, it's just that dreams reflect our subconsciousness, don't you think?
+Jess: I guess? 
+Charlie: I've read somewhere that when we see strangers in our dreams, in fact we must have seen them somewhere before. Our brain is not able to create such images on its own, it must have registered some random people's faces, and it uses them when we dream.
+Jess: So you're telling me the circus owner from my dream can really be some gentleman who lives in my neighbourhood?
+Charlie: Exactly! You don't even remember his face, but after you saw it just once, your brain keeps it somewhere in storage.
+Lynn: WOW, it sounds really cool!
+Summary: ","[""Jess dreamt she was a lion tamer. Lynn believes that dreams mean something. Charlie has read that strangers from our dreams are actually people who we've seen before.""]","The conversation is about dreams and their interpretations. Jess had a dream where she was a lion tamer, and she jokingly asked if it means she should go to Africa that summer. Lynn suggests that the dream might mean Jess will meet a handsome zookeeper. Charlie, however, states that when we see strangers in our dreams, they are likely people we have seen before but cannot remember. He explains that our brain stores these images and uses them in our dreams. Jess finds this idea intriguing.",0.0,0.3486238532110092,5.0
+a63b1ff6f29d6d2383c5551b5c7a6bd6552c15c9c95d12f2,"Dialogue: Sophie: the bus is leaving in 3 minutes, are you coming???
+Tina: almost there, i am already dressed
+Sophie: FASTER!
+Tina: chill, I will make it
+Summary: ",['Tina will make it for the bus that is leaving in 3 minutes.'],Tina is rushing to catch a bus that is leaving in 3 minutes. Sophie is urging her to hurry up as she is almost there and already dressed.,0.0,0.41025641025641024,4.084
+2231482e3e63d5eb092d2b33f2a64221fea97ad0ad2b7345,"Dialogue: Thelma: i dont have anything to wear
+Louisa: your wardrobe is full of clothes
+Thelma: but i have to look wonderful
+Louisa: ok i can bring you my red velvet dress
+Thelma: really? :O
+Thelma: it would be great!
+Louisa: no problem ;)
+Summary: ",['Louisa will lend Thelma her red velvet dress.'],Louisa offers Thelma her red velvet dress.,0.0,0.7999999999999999,3.242
+cc396bb55c72b6520586eae52c8384a611443d89365c691a,"Dialogue: Tobias: What do you say, we grab a beer after work or something?
+Trevor: You read my mind :P
+Tobias: 9 at my place?
+Trevor: sounds like a plan
+Summary: ",['Trevor will meet Tobias at his place at 9 pm.'],Tobias and Trevor are planning to meet up for drinks after work.,0.0,0.2727272727272727,3.92
+977203cd0f8b37190a0b747115061e621f29c73017cdfde4,"Dialogue: Anna: Still, great app! And it's for men too! U choose ur sex and then add photos of clothes :)
+Peter: Is there a minimum number of clothes I should add?
+Anna: No! And there is no maximum! You can add as many as u want!
+Peter: So if I only add 3 items, I will always get the same results?
+Anna: Ur still making fun of me!
+Peter: I just don't get it. Every morning I approach my wardrobe, open it, choose the clothes I want to wear or prepare them the previous day and that's it. I don't need an app to tell me what to wear with what.
+Anna: Okay... Let's play a game. 
+Peter: You're not going to make me cut my fingers off?
+Anna: No ;) how many pairs of trousers do u have?
+Peter: 5 or 6.
+Anna: How many shirts do you have?
+Peter: T-shirts or regular shirts?
+Anna: Shirts. Let's focus on ur work look.
+Peter: 3 or 4.
+Anna: What about jackets?
+Peter: 2.
+Anna: Great! Now imagine I have 12 shirts, 10 pairs of trousers, and 6 jackets. And I have to decide what to wear in a split second.
+Peter: All right. It's slowly dawning on me. 
+Summary: ",['Anna likes a new app in which you can virtually try on clothes. Peter is not quite convinced it is necessary.'],"Peter is starting to understand the purpose of the app Anna introduced, which helps users decide what clothes to wear by suggesting combinations based on the items they add to the app. Anna used an example with a larger wardrobe to illustrate the usefulness of the app for people who have more clothing options and struggle to decide what to wear quickly.",0.0,0.18918918918918917,4.636
+6f91e1d2c7e68d45f7a396cc86e746791b71c821d2dd2bdc,"Dialogue: Peadar: So who's coming for a drink later then??!
+Clare: Oh lols soz I'm not in town
+Annette: A drink?!!?!!
+Peadar: A drink!!!
+Annette: I’m home sick soz huns
+Annette: Got lung lurgy
+Oli: Are people at Jesus bar now?
+James: Heading to Jesus bar now! Come join :) turn left as you come into college
+Anne: Woops.. . Sorry guys I double booked myself!
+Helen: Yes! Jesus bar, from around 9.15 ish
+Peadar: Was that just a question oli😋 or did you mean... I'll join ye😁
+Oli: I cycled and ran around the bar, but couldn't find anyone 😢
+Clare: You cycled around the bar?
+Oli: To the bar 😅
+Helen: 🙈😍😇
+Summary: ","[""Annette is sick. James is going to the Jesus bar. Oli couldn't find anyone near the bar.""]","Alright, let's break this down:",0.0,0.0,5.377
+1ba38eb2067d2b9f260763740f38f625c1e73387123551fc,"Dialogue: Martin: Uhhh, babe, we need to talk
+Nicole: What's wrong?
+Martin: I'd rather tell you in person, when can we meet up?
+Nicole: I'm afraid I'll be kind of busy the next few weeks, a lot of people at my work quit so it's been hell
+Nicole: Can't you just tell me now??
+Martin: I don't know, it just doesn't feel right...
+Nicole: Oh God, just tell me already!! What is it
+Nicole: Do you wanna break up? Is there someone else?
+Martin: No one! I swear
+Nicole: Huh... you didn't say no to the break up part though
+Martin: I mean... it's not that I want to but... I guess that depends on you... because there's something you should know
+Nicole: What is it... You're making me anxious
+Martin: I'm, well... I'm asexual
+Martin: I thought you should know because... well... I know it can be a problem in a relationship
+Martin: I just wouldn't want you to feel unhappy with me
+Martin: It's not like I can't have sex, but it's just not the same for me as for other guys, I guess
+Martin: I love you but I want you to be happy, so I thought you should know
+Nicole: Well... I'm a little speechless, that's not what I expected, but I don't think it has to be a problem... I don't want to break up like this, let's give it a try first
+Summary: ","[""Martin is asexual. Nicole doesn't want to break up for this reason. She wants to give their relationship a try.""]",Martin tells Nicole that he is asexual and wants her to know because he doesn't want her to feel unhappy with him. Nicole says she is speechless but doesn't want to break up and wants to give it a try first.,0.0,0.48387096774193544,4.402
+baf241ba78d0f6bba3199805902dc2c27e7d98dfdae1cf0c,"Dialogue: Dan: since I am not sure who all ate from the BBQ, I will Splitwise everyone equally. If you did not have any of the food from the BBQ, please feel free to remove yourself.
+Ashley: Although I did not have any food, it looked delicious! Job well done, Dan
+Dan: Thanks!
+Sara: Ahhh so sorry I wasn’t there :(
+Ken: More food for us ;)
+Sara: you’re such a meaaanieee Ken!
+Ken: Just kidding, sweetie :) but regrettably there are no leftovers for you
+Sara: K I’ll just remove myself since I didn’t eat
+Vicky: it was soo good! As usual, Dan = grill master :)
+Eric: Gery and I cooked our own chicken and asparagus I believe.
+Gerardo: Well,Dan the man cooked it. We only provided it.
+Dan: indeed
+Gerardo: Thanks Dan
+Eric: cheers! 
+Gerardo: I removed us from the transaction Eric
+Summary: ",['Dan cooked a successful BBQ meal and will split the bill via Splitwise. He invites everyone who did not eat to remove themselves. '],"In this dialogue, Dan is splitting the cost of the BBQ equally among those who ate. Ashley, who did not eat but appreciated the food, thanks Dan for his efforts. Sara regrets missing out on the BBQ and Ken jokes about there being leftovers for him. However, there are no leftovers, so Sara removes herself from the transaction. Vicky compliments Dan's grilling skills, while Eric and Gerardo acknowledge that they provided the chicken and asparagus but credit Dan for cooking it. Gerardo also removes them from the transaction.",0.0,0.1359223300970874,5.145
+9a35b78be7c674cd1dc1974650529208d6c9520d1769011b,"Dialogue: Andrea: Hi, Pat, I can't come to work today.
+Patrick: Is everything alright?
+Andrea: My son is sick, I need to take him to the doctor.
+Patrick: Oh, sorry to hear that, I hope he gets better soon.
+Andrea: Thanks. So is it okay with you?
+Patrick: Sure, take care of your boy, we'll be fine without you for the next couple of days!
+Summary: ","[""Andrea's son is sick, she is taking a day off and taking him to the doctor's. ""]",Andrea's son is sick and she needs to take him to the doctor. She will not be able to come to work for a few days. Patrick wishes her son a speedy recovery and assures her that everything will be fine without her at work for a couple of days.,0.0,0.31746031746031744,4.364
+c5bfa03464d2c2b15aae0ce2028366bc2ba856e115dafe6d,"Dialogue: Guido: Hi, Agata, are you OK?
+Agata: Hi, Guido. Sure, I'm OK :) And you?
+Guido: I just have trouble understanding your posts on Facebook. 
+Agata: Really?
+Guido: Maybe it's because I don't know anything about Java? :(
+Agata: Thanks for the concern :) All my Twitter posts go to my Facebook account. I think I might change that! 
+Guido: Don't worry :)
+Agata: By the way, it's JavaScript, not Java. Except for the name they really have not much in common :)
+Guido: Sounds like Chinese to me :(
+Agata: :)
+Guido: It's hard to understand the concept :(
+Agata: Sorry. After just one month of coding I would be like plain English to you :P
+Guido: I can see that you enjoy it.
+Agata: I really do. Finally I found something interesting for me.
+Guido: And what about you husband? 
+Agata: What about him?
+Guido: Doesn't he complain about your new job?
+Agata: Not at all! Why would he? 
+Guido: So you don't speak to him in Chinese language? I mean in JavaScript language, hahahha
+Summary: ","[""Agata has a new job, she's learning to code and she likes it. Guido doesn't understand her Facebook posts because he knows nothing about JavaScript.""]",Agata enjoys her new job and her husband does not complain about it.,0.0,0.3589743589743589,3.094
+b37b693a6fddf5d33590780ebe83bac0a9132031c3f473d4,"Dialogue: Julia: I mean I like my Instagram. And my Snapchat. Oh and Twitter. And sometimes Facebook.
+Gail: So do I. But this doesn't mean I'm addicted. 
+Julia: Neither am I. I like looking at photos of my friends and sharing stuff with them. And I think they like it when I post stuff.
+Gail: I certainly do. And I like to spy on ppl :)
+Julia: Rly?
+Gail: Yeah! It's a lot of fun! Like I was spying on Em and turns out she's into some guy from work ;)
+Julia: Rly? Intriguing.
+Gail: I know! :) and Jessica is thinking about going on diet.
+Julia: Wasn't she on one already?
+Gail: Nah. Whenever she posts a lot of fitness-related stuff, she's just thinking about, but doing nothing rly. 
+Julia: I always thought she was training day and night!
+Gail: Nah. That's just how she is. The more she posts, the less she does. Like she had a phase for animal shelters. Remember?
+Julia: Yeah. She just wouldn't shut up about it. She posted every single thing she could find on the subject!
+Gail: Right. And turned out that was everything she did. Never visited one. Never donated a dime. Never did anything.
+Julia: And all the time I thought she was so active and pro-active and charitable. She had me fooled ;)
+Gail: U see? Spying on ppl is fun :)
+Julia: Speaking of which, did u spy on me?
+Gail: No, y would I?
+Julia: It's fun?
+Gail: Oh no! Don't get me wrong! We talk all the time, so no need to spy on u ;)
+Julia: Gr8.
+Gail: Besides ur pretty straightforward.
+Julia: What do u mean?
+Gail: When ur eating, u post food. When ur training, u post fitness materials or photos. When ur relaxing, u post a bunch of stuff.
+Julia: I know :) that's y ppl like what I do, 'caus I genuine :)
+Gail: Yeah...
+Julia: What's that supposed to mean?
+Gail: Hillary thinks u overdo it and have no life in real life.
+Julia: That bitch!
+Gail: I know!
+Summary: ",['Jessica posts a lot regarding subjects she does nothing about in reality. Julia posts in a more genuine way. But Hillary thinks she does it to death and lacks real life.'],"In the dialogue, Julia and Gail are discussing their social media usage. Julia admits to using Instagram, Snapchat, Twitter, and sometimes Facebook, but neither of them considers themselves addicted. They discuss how they enjoy looking at photos of their friends and sharing things with them. Gail mentions that she enjoys spying on people, revealing that Emily is interested in someone from work and Jessica is thinking about going on a diet. Julia finds this intriguing. Gail also shares that Hillary thinks Julia overdoes it and has no life outside of social media, to which Julia reacts negatively. Overall, the",0.0,0.20800000000000002,5.318
+08218d6182ae58880542773ad86e88dda511567e2044167e,"Dialogue: Robert: Hi mate! Are you still at your office? If you are how about grabbing some coffee? I'm meeting Darek at 5pm, but I will be around at 3pm already :)
+Gabriel: Hi Robert! Sorry for late response, didn't see your message. Also I've quit the office about a month ago, sorry. How are you doing?
+Robert: I casually came to visit my old pals. Long story. I thought I could catch you somewhere, but maybe next time then ;). How are you doing? Where are you nowadays?
+Gabriel: I'm OK. I'm at home, looking into what I'm doing next...Well I hope you will enjoy your meeting
+Summary: ","['Robert texts Gabriel to arrange a get-together with him in the office at 3 pm, before he is meeting Darek. But Gabriel left the office a month ago and is at home now, so they will not meet today.']","Robert wanted to grab coffee with Gabriel, but Gabriel is no longer working at the office and is now at home.",0.0,0.5,3.945
+b481ab4fede445b9584628fbf89b9aaa800e968f15a7cb19,"Dialogue: Willy: Your car is friggin' awesome!!
+Vinny: I know ;) No, but seriously, I've always wanted a Mustang, and a red one too!
+Willy: Maybe you can lend it to me for a day or so :)
+Vinny: Yeah, right. We can car pool together a couple of days a week. 
+Willy: Ok, deal.
+Summary: ","[""Willy and Vinny will car pool with Winny's red Mustang.""]","Vinny and Willy are discussing Vinny's new red Mustang. Willy compliments the car and expresses his desire to borrow it for a day or so. However, Vinny suggests they carpool together a couple of days a week instead, and Willy agrees to this deal.",0.0,0.2692307692307692,4.45
+e4bbb70ba476455aa191ff54a99cba302697eb476c1380d7,"Dialogue: Quinn: How's it hanging boy?
+Kyle: Not bad, going out tonight?
+Quinn: Yeah, need to get out after fucking school is actually over for a bit.
+Kyle: Christ, yeah! It's a shitting hell hole, can't wait to leave next year, I'm leaving at Easter 😆
+Quinn: Lucky you, I've got GCSES. Your a jammy bastard if your parents aren't insisting that you stay on.
+Kyle: No point! I'm working for my Uncle Kev at the building site, my cousin was taken on with an apprenticeship in bricklaying last year, maybe do that myself.
+Quinn: God, I'm so jealous! I absolutely fucking hate school and I suck at exams too! Need to have them under my belt, they always say.
+Kyle: Why don't you talk to them about it?
+Quinn: They wouldn't bloody listen! I buggered up my mocks too and I have to retake the subjects I failed in, it never bloody ends!😭
+Kyle: Why don't I ask Kev about the site, they always need labourers and they like us young ones cos we're a lot cheaper by the hour lol.
+Quinn: Dunno, fucking about in the freezing cold, freezing my arse off, or roasting to death in the bloody summer! Sounds grim!
+Kyle: OK, suit yourself! Got any voddy for later?
+Quinn: Nah, couldn't get to the offy.
+Kyle: They wouldn't serve you anyway, you twat! I'll ask my bro to get us some vodka and cigs, he's cool.
+Quinn: Great! Kirsty there tonight, do you know?
+Kyle: Dunno, but I heard she was with Nathan Baker these days.
+Quinn: That bell end! Huh😒 Well, see you outside the club at 6ish.
+Kyle: See you man.
+Summary: ","[""Quinn and Kyle are going out tonight. Kyle is leaving school at Easter to work for his uncle. Quinn's parents want him to retake his GCSEs. Kyle's brother will buy alcohol and cigarettes for them. Their friend, Kirsty, is dating Nathan Baker. Quinn and Kyle will meet around 6 outside the club.""]","The dialogue is between two teenage boys, Quinn and Kyle, who are discussing their plans for the night after school. Kyle mentions that he's leaving school next year and working for his uncle at a building site, while Quinn expresses his dislike for school and his struggles with exams. Quinn also mentions a girl named Kirsty and asks if she will be present at the club they plan to go to later.",0.0,0.4132231404958678,4.779
+0f77948ea5b4eeda18bcc77696068cf78078bbba56873cdb,"Dialogue: Mark: Have you seen his new car?!!
+Jeff: Dude, wtf, it's like insane. How the hell did he afford it???
+Mark: No fucking clue, but the ride is legit
+Jeff: Hell yeah, I'd drive this baby
+Mark: Over my dead body:D I gotta be first one to try it out
+Jeff: Yeah, you wish:D 
+Mark: wanna bet he'll let me first:D?
+Jeff: 100 bucks dude, I'll bet your ass:D 
+Mark: hahaha deal!
+Summary: ",['Jeff and Mark are amazed by his car. They bet 100 dollars who gets to drive it first.'],"Mark and Jeff are discussing a new car owned by someone else. They think the car is impressive but are unsure about how its owner could afford it. Mark wants to be the first one to try out the car, and Jeff bets that he won't be able to.",0.0,0.3125,3.915
+8945d44661e272cd436e8834a9d5dd296587dc089dc6b726,"Dialogue: Grace: The hand sanitizer by the restrooms is empty. Do we have a refill/
+Mike: Yes, no problem. I'll get to it right away.
+Grace: Thx.
+Summary: ","[""Mike will refill the hand sanitizer on Grace's request.""]",Mike will refill the hand sanitizer by the restrooms.,0.0,0.6250000000000001,3.88
+7a85937d2e1ac3215ab2518db4dc4d633fbb81f042776780,"Dialogue: Jill: So bored!
+Nate: Well... can't help you there
+Nate: Still at work
+Jill: ugh I need to find a job
+Jill: I've watched everything on youtube already
+Nate: Doubt it :P I'll call you when I get off work
+Summary: ",['Jill is bored and has watched YouTube. Nate is at work and will call Jill when he finishes it.'],Jill is bored and needs to find a job since she has already watched everything on YouTube.,0.0,0.39999999999999997,4.074
+46cbb91f855819d2efe512e789fdd8b396e01410b16a2362,"Dialogue: Alexa: I want to confess something
+Hunter: What is it?
+Alexa: I asked Ethan to Insult you :(
+Hunter: But why did you do that?
+Alexa: I was too jealous to see you with Ethan that day, dats why :(
+Hunter: But you could just ask me not to do something if you dont want me to?
+Alexa: We would talk about it tomorrow
+Summary: ",['Alexa asked Ethan to insult Hunter out of jealousy.'],"Alexa confessed to Hunter that she asked Ethan to insult him because she was jealous of seeing them together, but they would discuss it further the next day.",0.0,0.3888888888888889,4.034
+e1d562374aafc01409f57b6ed93cee7c78cec8a704cb4550,"Dialogue: Anne: I hate that bitch!
+Catherine: What did she do again???
+Nora: Who's the bitch?
+Nora: Sorry I missed something
+Catherine: Miranda!!! 
+Catherine: We all hate her
+Anne: Yesterday she called Tom, was all sweet with him you know how she can be....
+Catherine: No way she did it!! How dare she!! She knows you guys are dating.
+Anne: I think that's why she did it. She wants to take Tom away from me.
+Nora: Oh, come on! She's not his type! 
+Summary: ",['Miranda called Tom yesterday and spoke to him in a sweet way. Anne is angry with her because Anne is dating Tom.'],"Anne, Catherine, and Nora are discussing a woman named Miranda who called Tom, who they assume is Anne's boyfriend. They believe that Miranda did this to try to take Tom away from Anne because she wants him for herself. Nora thinks that Miranda is not Tom's type.",0.0,0.34782608695652173,4.503
+1fae82934e7bb33ecc120cd19430271cfdead4a5c5f3e71e,"Dialogue: Gene: Did you get the package I sent you
+Jack: No, when did you send it?
+Gene: on Friday
+Jack: shit I should have gotten it by now
+Jack: send me the tracking umber I;ll check whats up
+Gene: 12345678900
+Summary: ","['Jack has not received yet the package Gene had sent him on Friday. She sent him the tracking number, so he could check the status of the shipment. ']","Gene sent a package to Jack on Friday, but Jack hasn't received it yet. Jack asks for the tracking number to check its status.",0.0,0.5106382978723404,4.032
+40f0ae0d1ee37405f294e24f6df7895ff373c786bdbeb226,"Dialogue: Greg: Hi, honey. I need to stay after hours :-(
+Betsy: Again?
+Greg: I'm sorry!
+Betsy: What about Johnny?
+Greg: Well, could you pick him up? 
+Betsy: What if I can't?
+Greg: Betsy?
+Betsy: What if I can't?
+Greg: Can't you, really?
+Betsy: I can't. Today I need to work long hours as well. Tuesdays are your days in the kindergarten.
+Greg: Talk to you later. I'll see what I can do.
+Betsy: You'd better think of something.
+Greg: Oh. Just stop it now.
+Summary: ","[""Greg and Betsy have a lot of work today, so they cannot pick up Johnny from the kindergarten. However, it's Greg's turn to do it. Greg will try to find a solution.""]","In this dialogue, Greg needs to stay after hours at work and asks Betsy to pick up their child Johnny. However, Betsy is unable to do so because she has to work long hours as well on Tuesdays, which are Greg's days in the kindergarten. Greg promises to think of a solution, but Betsy expresses her frustration and tells him to come up with something.",0.0,0.37894736842105264,4.712
+721c3d7807b49e1b1de360eccf1a1aaddf4bd3c07b2b293e,"Dialogue: Rael: Gosh, I fucking hate my job!
+Zach: Oops! Someone is in a mood...
+Rael: I'm serious, I'm done. Those people are fucked up. I cannot stand it anymore.
+Zach: Is it that bad?
+Rael: Even worse...
+Zach: What this time?
+Rael: I don't even have time to eat my fucking lunch. It's not normal.
+Zach: Did you talk to your manager?
+Rael: Yeah, this retard doesn't get that we're humans not robots. I hate him.
+Zach: You're gonna quit?
+Rael: It's not that easy, I gotta find something. I don't want to leave without first finding a new job.
+Zach: I see. Did you think about IT?
+Rael: No, why?
+Zach: Girl, it's the best place to work in! A lot of my friends started as software testers and they are really satisfied. Good money and no rat race.
+Rael: Zach, are you crazy? I don't have technical studies.
+Zach: You don't have to. If you have good analytical skills all you need is some online course - Udemy or something. People change their career after years of employment in totally different business. It's not that difficult, really. You should give it a try. Tech is our future.
+Rael: Hmm... Maybe you're right. I'm still not sure what to do with my career, so... why not.
+Zach: If you want, I can talk to my friends and they will give you some advice on how to start, what courses to choose and so on.
+Rael: That would be great, thanks.
+Zach: UW. In touch.
+Summary: ",['Rael finds the atmosphere at her workplace to be unbearable. Many people switch their career paths and move to the IT sector. Rael only needs good analytical skills and an on-line course to start work in IT.'],"Rael is unhappy with her job due to long hours and lack of support from her manager. Zach suggests that she consider a career change in IT, as it offers good pay and fewer rat race-like conditions. He encourages Rael to take online courses to develop the necessary skills and offers to connect her with his friends for advice on starting a career in IT.",0.0,0.30612244897959184,4.635
+f610a9277f835ce98ed109bc091260a7df3f1005aca8ec55,"Dialogue: Natalia: should we book this flight before it gets more expensive?
+Harriet: yes, let's do it today
+Lara: yup!
+Summary: ","['Natalia, Harriet and Lara will book flight tickets today.']","The summary for the dialogue is: Natalia, Harriet, and Lara are considering booking a flight. They decide to do it today as they believe the price might increase later.",0.0,0.3529411764705882,4.144
+18eef277538245626197dee424b5e4d5e95a36c28ad41222,"Dialogue: Natalie: can you send me the recipe for your famous cheesecake, please?
+Monica: Sure, just a sec
+Monica: <file_photo>
+Natalie: Thank you, yummmmmmie <3
+Summary: ","[""Natalie wants Monica's cheesecake recipe.""]","In this dialogue, Natalie asks Monica for the recipe of her famous cheesecake. Monica sends it to her (indicated by ""<file_photo>""), and Natalie expresses her gratitude and appreciation for it (""Thank you, yummmmmmie <3"").",0.0,0.2,4.458
+ac012674f6e72a474f8b26f8a18f486dc25fded070ef49d9,"Dialogue: Nancy: Yeah, but u can also read the news online ;)
+Phil: I know, but imagine - ur keen on technology and u get all the news in one place. Then u can choose what to read and what not.
+Nancy: Sounds sensible. Does it have something 4 fashion?
+Phil: Probably so. Not sure, though.
+Nancy: How about u, Vic?
+Vic: I still prefer Facebook. Had Twitter once, but the interaction with others is nothing compared with Facebook.
+Phil: Well, it's intended in a completely different way. 
+Vic: What do u mean?
+Phil: IMO, Twitter is not for interacting like on Facebook, but for getting news fast and from reliable, more or less, sources. U can follow anyone and anyone can follow u.
+Vic: Still, on Facebook I can share stuff with my friends, join groups and talk about things that interest me. And I don't have to limit myself to 140 characters.
+Phil: 280. Still, a downside. OTOH, if ppl were able to write as much as they wanted, Twitted would get as cluttered as Facebook.
+Nancy: So no one uses 4 example Instagram?
+Vic: I do. 
+Phil: Not 4 me. I don't post that many pictures online. 
+Nancy: But u can follow ppl and see what they're doing or offering. There are also companies on Instagram.
+Phil: I know, but I'm more interested in news and gossip than seeing someone post a picture of their breakfast. 
+Vic: That's not all ppl post on Instagram!
+Phil: So, what else?
+Vic: Depends on ur interest. I, for one, like to observe all the fitness accounts :)
+Phil: And does this motivate u to train?
+Vic: No, but it gives me hints what to do and what not. 
+Nancy: What do u think about Tumblr?
+Phil: What?
+Vic: Heard about it, but never had an account.
+Nancy: It's a microblogging website. U can post blog entries, pictures and basically everything u want there. And ppl can observe u!
+Phil: Don't have that much time to write a blog.
+Vic: Me neither. 
+Phil: Nancy, y do u ask these questions? ;)
+Nancy: I have my reasons ;)
+Summary: ","[""Nancy asks Vic and Phil about various social media, which prompts them to discuss and compare the different platforms. Phil is not into Instagram but likes Twitter. Vic prefers Facebook over Twitter and likes Instagram. Phil and Vic both don't use Tumblr. ""]","The dialogue is about discussing different social media platforms and their uses. Phil prefers Twitter for getting news from reliable sources, while Vic prefers Facebook for interacting with others and sharing content. Nancy asks about Instagram, Tumblr, and other platforms, but the conversation doesn't delve too deeply into those topics. The reason for Nancy's questions is not revealed in the dialogue.",0.0,0.43564356435643564,4.688
+06579eaea3267676100c47cf3a32d27623e0f0baf0eeede1,"Dialogue: Amanda: have you seen the guy with dreads?
+Peter: yes, so awkward!
+Dan: hahaha, very, but cool!
+Amanda: I'm not convinced
+Summary: ","[""Amanda and Peter don't like what the man in dreads looks like, but Dan does.""]",Amanda is not convinced about the guy with dreads being cool.,0.0,0.16,3.135
+bd5e296ce74f0d76e3763d4ee24f314d3e53580bf18e84af,"Dialogue: Jane: hey david, you're coming home for christmas next week right?
+David: of course
+Jane: good
+Jane: do you know what your dad would like for christmas?
+Jane: i can't think of anything
+David: you should get him an ipad
+David: he can read books, email, watch movies, play games
+Jane: ok, that sounds good, where can i get one?
+David: i'll order it online and have it shipped home
+Jane: thanks for your help
+Jane: and please let me know when you'll get here once your travel arrangements are set.
+Summary: ",['David is coming home for Christmas next week.  Jane has no idea what to buy their father so David is going to order an ipad online.'],"Jane is asking David if he will be coming home for Christmas next week, and David confirms that he will. Jane asks David what her father would like for Christmas, and David suggests an iPad as a gift because it can be used for reading books, emailing, watching movies, and playing games. Jane agrees that this sounds good and asks where she can get one. David offers to order it online and have it shipped home. Jane thanks him for his help and asks him to let her know when his travel arrangements are set so she knows when he will arrive.",0.0,0.28800000000000003,5.106
+b14c862a69ef6cdaedefc6a8f71f652cc06dc44c3eed3f55,"Dialogue: Sebastian: It's been already a year since we moved here.
+Sebastian: This is totally the best time of my life.
+Kevin: Really? 
+Sebastian: Yeah! Totally maaan.
+Sebastian: During this 1 year I learned more than ever. 
+Sebastian: I learned how to be resourceful, I'm learning responsibility, and I literally have the power to make my dreams come true.
+Kevin: It's great to hear that.
+Kevin: It's great that you are satisfied with your decisions.
+Kevin: And above all it's great to see that you have someone you love by your side :)
+Sebastian: Exactly!
+Sebastian: That's another part of my life that is going great.
+Kevin: I wish I had such a person by my side.
+Sebastian: Don't worry about it.
+Sebastian: I have a feeling this day will come shortly.
+Kevin: Haha. I don' think so, but thanks.
+Sebastian: This one year proved to me that when you want something really badly, you can achieve it.
+Kevin: I want to win lottery and I never did :D
+Sebastian: If you devoted your life to analyze all of the winning numbers, and with your math skills you could win.
+Kevin: Devote myself and million dollars for lottery tickets.
+Sebastian: Something like that xD
+Kevin: I'm happy for you man.
+Kevin: I really am
+Sebastian: Thanks. It means a lot my friend :)
+Summary: ","['Sebastian is very happy with his life, and shares this happiness with Kevin.']","Sebastian is expressing his satisfaction with his life decisions over the past year, stating that he has learned valuable lessons about resourcefulness, responsibility, and the power to make his dreams come true. He also mentions that he has someone he loves by his side, implying a romantic relationship. Kevin seems happy for him but also expresses a desire to win the lottery, to which Sebastian suggests that with dedication and math skills, it could be possible.",0.0,0.21428571428571425,4.902
+3023ac5d13e9d911472a3bdc65329f144dc0e35587728c96,"Dialogue: Tony: <photo_file>
+Amy: Sweet little cat <3
+Lucas: Adorable!! 
+Summary: ",['Tony sent a photo of his cat to Amy and Lucas.'],"The dialogue shows Tony sharing a photo of a cute cat. Amy and Lucas both express their admiration for the cat, with Amy saying ""Sweet little cat <3"" and Lucas saying ""Adorable!"".",0.0,0.3684210526315789,4.187
+c397fd04b0eb132a414108a73344e4027b7d29646854846a,"Dialogue: Colin: Hey I have some news that you would be really interested!(´･ω･`)
+Ava: What is it?
+Colin: How tall are you you said?
+Ava: 158...cm.. why?(-_-メ)
+Colin: Congratulations! You are defeated by penguin(☞ﾟヮﾟ)☞
+Ava: What are you talking about?
+Colin: Penguins' average  height is 162cm when they stand up （‐＾▽＾‐）オーホッホ
+Colin: So you are officially shorter than penguins☜(⌒▽⌒)☞
+Summary: ",['Colin informs Ava that with her height of 158 cm she is shorter than an average penguin.'],Colin has told Ava that she is shorter than the average height of a penguin when they stand up.,0.0,0.6666666666666667,3.95
+53288fa1b74f9e294d25fda05653264869576b9ac133a49f,"Dialogue: Natalie: Have you been to this new club at Regents Street?
+Judy: I'm going there this weekend!
+Judy: I heard it's nice 
+Denise: Yes! It's cool
+Denise: I was there a few times already
+Denise: I think it might be my new favourite club in town
+Denise: The DJ is awesome
+Judy: My friends were also praising the music
+Natalie: That sounds great.
+Natalie: I want to go.
+Natalie: Can I go with you Judy?
+Natalie: Are you going on Friday?
+Judy: Sure.
+Judy: I'm going on Saturday
+Judy: With Miranda and Helen.
+Natalie: Cool
+Summary: ","[""Natalie is checking if it's worth going to the new club at Regents Street. Denise thinks the club is great. Judy's friends also recommend the place, so Judy is going there this weekend. Natalie will go to the club with Judy, Miranda and Helen on Saturday.""]","Natalie wants to go to the new club at Regents Street with Judy. Judy is going there on Saturday with Miranda and Helen, so Natalie can't join her on that day. However, they can arrange to meet another time.",0.0,0.5301204819277109,4.33
+d71638b493499623ac6f16097562b613a26250176c4aff8c,"Dialogue: Tiffany: buy me a burger on your way home
+Railey: ok
+Tiffany: thx, sis :)
+Summary: ",['Railey will buy Tiffany a burger.'],"In the dialogue, Tiffany asks Railey to buy her a burger on his way home and Railey agrees. The summary is correct.",0.0,0.3333333333333333,4.106
+5f3bced3ff98311eab05253b995019cf799139c3ca9ba33c,"Dialogue: Precious: Can you send the content for the November email blast, please?
+Rhonda: Sure, right away. It's on the Dropbox, though...
+Precious: Oh! I see it, never mind. Sorry!
+Rhonda: NP
+Summary: ","['The content for November email blast is on the Dropbox, no need to send it.']","The dialogue is between Precious and Rhonda, where Precious asks Rhonda to send the content for the November email blast. Rhonda confirms that she will do so and mentions that the content is on Dropbox. Precious then apologizes as she has found it already. Rhonda responds with ""NP"" which stands for ""no problem.""",0.0,0.3870967741935484,4.601
+f8c3191fa99b86e7f980d14f373f9b98d312405b7d96b99d,"Dialogue: Kate: Hey, do you know if our medical insurance covers hospital costs?
+Greg: Hm, it depends
+Mel: What happened dear?
+Kate: I broke my arm and they're sending me to the hospital :/
+Greg: Call Linda or ask someone at the reception, they should be able to tell you what kind of package you have
+Kate: thnx
+Summary: ","[""Kate broke her arm and she's going to the hospital. She'd like to know whether her medical insurance covers hospital costs. Greg suggests her to call Linda or ask someone at the reception about it.""]",Kate has broken her arm and is being sent to the hospital. She asks Greg if their medical insurance covers hospital costs. Greg suggests that she calls Linda or asks someone at the reception to find out about the details of their insurance package.,0.0,0.5789473684210527,4.259
+c89203964d38b3c472e1c3b4f6757f4a816a004afb9be3af,"Dialogue: Janet: I am ashamed. Who voted for this pussy? It's your fault.
+Alison: Remember the Wizard of Oz? He might have melted.
+Nicole: He’s a sissy boy.
+Cheryl:  RAIN omfg thats so shameful and disrespectful 😡
+Buff: Pussy in Chief.
+Linda: Trump is selfish and inconsiderate.
+Janet: What an embarrassment to our nation and the world!!!
+Roz: Where is Elsie? I miss you vomit 😊
+Cheryl: WTF EVER trumpola didnt want to mess up his pity full comb over.....
+Janet: Trump = snowflake
+Linda: Baby. He’s a spoiled brat baby. Nothing about Donald Trump to be proud of or want to defend.
+Arlene: HIs hair and makeup would have been ruined!
+Roz: Exactly 😊
+Leslie: Which adviser, who he doesn't listen to anyway, thought missing this ceremony was a good idea? Shameful!
+Eric: What a pussy. We should grab him and kick him to the curb.
+Sue: All the other leaders managed to make it, so there is no excuse, for me.
+Roz:  It's all about the hair.
+Sue: afraid the colour of his orange hair would run????
+Linda: Never heard of an umbrella :)
+Summary: ","['Janet, Nicole, Alison, Arlene, Leslie, Ros, Eric and Sue are all complaining about Donald Trump and his absence at the ceremony. ']","The group is discussing Donald Trump not attending a ceremony, with some expressing shame and disrespect towards him.",0.0,0.22222222222222224,3.367
+b707a5cef97b53f8481d57e50ecfc424b0d6112251239132,"Dialogue: Randolph: Honey
+Randolph: Are you still in the pharmacy?
+Maya: Yes
+Randolph: Buy me some earplugs please
+Maya: How many pairs?
+Randolph: 4 or 5 packs
+Maya: I'll get you 5
+Randolph: Thanks darling
+Summary: ",['Maya will buy 5 packs of earplugs for Randolph at the pharmacy.'],Randolph asks Maya to buy him 4 or 5 packs of earplugs from the pharmacy.,0.0,0.64,3.944
+11825be04e419a923b7c16aa952f5391c60383b6935f1fd4,"Dialogue: Jake: What are your plans for the day?
+Olivia: I haven't really got anything planned. There are some things I should do which I haven't looked at for a while
+Jake: Like what?
+Olivia: I ought to do my accounts. At least get all the incoming and outgoing invoices sorted by months.
+Jake: Tax filing is a long way off.
+Olivia: I know, but doing it all at the last minute is a dreadful headache.
+Jake: Anything else?
+Olivia: I also have a few videos I need to upload to YouTube.
+Jake: Already ready or you still need to do post-production?
+Olivia: I don't really do much by way of post-production. I'm not exactly Steven Spielberg.
+Jake: I do, but I dont always have time to do much.
+Olivia: If I put in any music I always get a copyright strike and someone else is taking the ad revenue
+Jake: Yeah. And some of those claims are purely speculative. One time I put on one of my own pieces and it was challenged by Sony Music
+Olivia: No way!
+Jake: It's true. On the form you fill in to counter the claim I said if Sony want to make me one of their signed artists, that's fine. Otherwise to get they paws off of my music.
+Summary: ",['Olivia has to sort out her accounts and upload a few videos on YouTube. Jake is complaining that Sony Music tried to appropriate his own music.'],"Olivia has some tasks for the day, including sorting her accounts by months and uploading videos to YouTube. She mentions that she doesn't do much post-production and often gets copyright strikes when adding music, which can result in someone else taking ad revenue. Jake shares a similar experience where he once had a claim from Sony Music on one of his own pieces.",0.0,0.367816091954023,4.624
+cea67f9e6218dd3c850accfd096dfa916a46025d2c824072,"Dialogue: Mia: What time does the movie start?
+Steven: At 9pm
+Mia: Would you like to grab something to eat before that?
+Steven: Sure, let's meet at 8 then. Chinese?
+Mia: Always :)
+Summary: ",['Mia and Steven want to grab some Chinese at 8.'],"Mia and Steven will meet at 8 pm for dinner before the movie, which starts at 9 pm.",0.0,0.37037037037037035,3.013
+7e071e42fb5e378e081ca620c8dfd51814e305f0d5c93631,"Dialogue: Mike: Can anybody do the washing up?
+Mike: I did it last time
+Mike: So now its your turn
+Sara: I'll do it
+Mike: Ok
+Sara: But when I get back
+Sara: From the cinema
+Sam: You're going to the cinema?? With whom??
+Sara: With Jack
+Sam: Ahhhh
+Sam: I thought that maybe I'll join you
+Sara: Not this time ;-)))
+Sam: <file_gif>
+Sara: xDD
+Summary: ","['Mike wants someone else to do the washing up this time. Sara agrees, but when she returns from the cinema she is at with Jack.']",Sara is going to the cinema with Jack and Sam wishes he could join them.,0.0,0.3243243243243243,3.859
+3145e13f8c57e73c0d0ad6af1f225dced581cf48dc66c1b2,"Dialogue: Paul: Do you have your keys?
+Lena: Yup. What's up?
+Paul: I will be home later than I thought, so just don't wait for me and get home.
+Lena: What happened?
+Paul: I'll call you in 15 minutes and then I'll tell you.
+Lena: Ok.
+Summary: ",['Lena has her keys. Paul will be home later than he thought. Paul will call Lena in 15 minutes and tell her what happened.'],"Paul will be late coming home and asks Lena not to wait for him, promising to call her in 15 minutes with an explanation.",0.0,0.4680851063829787,4.097
