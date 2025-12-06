@@ -1,7 +1,7 @@
 {
-  "2wikimqa": {
-    "score": 10.6,
-    "len_predictions": 124,
+  "hotpotqa": {
+    "score": 10.49,
+    "len_predictions": 141,
     "ppl_mean": null,
     "ppl_std": null,
     "block_sizes_mean": null,
