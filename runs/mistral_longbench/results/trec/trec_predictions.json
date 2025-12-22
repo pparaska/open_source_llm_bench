@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "bb86302b1936b14c09091143ce6e0d4d4013c4789ece0230",
+    "question": "Question: Where was the first golf course in the United States ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "The first golf course in the United States was located in St. Andrews, Yonkers, New York (Line 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.719
+  },
+  {
+    "id": "be63e2d9490453d1b939ba8f850a386c7828f776df937d8c",
+    "question": "Question: What was J.F.K. 's wife 's name ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "Jackie Kennedy was J.F.K.'s wife. [Span: Jackie Kennedy]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.433
+  },
+  {
+    "id": "1e8eb08f71a04cd4391fcaa7d98a166627d65284c467a318",
+    "question": "Question: What color is indigo ?\nType:",
+    "answers": [
+      "Color"
+    ],
+    "contexts": [],
+    "pred": "Indigo is a shade of blue (context: not specified).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 3.987
+  },
+  {
+    "id": "e8c5eb156625bc57f11c1f0c6e9ba97abb46b8672aefb2df",
+    "question": "Question: When was President Kennedy shot ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "November 22, 1963 [Span: November 22, 1963]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 4.248
+  },
+  {
+    "id": "9587abceff7bb3b9e0f0df6a0a040945a27b7e1eb67c64e5",
+    "question": "Question: What currency does Argentina use ?\nType:",
+    "answers": [
+      "Currency name"
+    ],
+    "contexts": [],
+    "pred": "The currency used in Argentina is the Argentine Peso (Spanish: peso argentino). [Spanish: peso argentino]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.614
+  },
+  {
+    "id": "3e7d6a53447488a4bf1b9e9e08ea589028f3b4197d92f5a4",
+    "question": "Question: What is a biosphere ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "The biosphere refers to the zone on Earth where life exists, including all ecosystems and organisms (Lines 1-2).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.568
+  },
+  {
+    "id": "53314ceb95fb9a488c88d21402e09c826d927f9c7402d0cf",
+    "question": "Question: What river runs through Rowe , Italy ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "The text does not provide information about a river running through Rowe, Italy.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.36
+  },
+  {
+    "id": "dc7348606b7d50383c1e69a0ea2787da8a4506114fad6f2a",
+    "question": "Question: What does `` Sitting Shiva '' mean ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "\"Sitting Shiva\" is a Hindu practice where an individual mourns for the deceased, often by fasting and meditating for several days. [Span: Sitting Shiva]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.623
+  },
+  {
+    "id": "6c5121b0b6fd45c4c437d96cad36c46dffa122fabb7cf8eb",
+    "question": "Question: What currency do they use in Brazil ?\nType:",
+    "answers": [
+      "Currency name"
+    ],
+    "contexts": [],
+    "pred": "They use the Brazilian Real (BRL) in Brazil. [Span: They use the Brazilian Real (BRL) in Brazil.]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 4.379
+  },
+  {
+    "id": "e55a65ad534b2649ceccf41cdcba863db7774efbd1408eed",
+    "question": "Question: What is the effect of volcanoes on the climate ?\nType:",
+    "answers": [
+      "Description of something"
+    ],
+    "contexts": [],
+    "pred": "Volcanoes can have both cooling and warming effects on the climate, depending on the amount and type of material they release. (Span: entire context)",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.572
+  },
+  {
+    "id": "c84d7df6e4889807a25b8fb80db29c8c3d419c09387ef9e1",
+    "question": "Question: What is Valentine 's Day ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Valentine's Day is a celebration of love and affection, typically marked on February 14th. [Span: February 14th]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.542
+  },
+  {
+    "id": "f03199226a1925234dde134936aea510c2f331e636106781",
+    "question": "Question: When was the Boston tea party ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "The Boston Tea Party occurred on December 16, 1773. [Span: December 16, 1773]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.543
+  },
+  {
+    "id": "ed3fccd0229defe456bc01dd48d59cd62d04b49f1b1b1e0a",
+    "question": "Question: What is the rainiest place on Earth ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "The rainiest place on Earth is Mawsynram, India [Context: No specific mention of location].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.511
+  },
+  {
+    "id": "4a198f563d6897cf45a1acd7af747ea3ac8e73698d1a94e7",
+    "question": "Question: Who was the first woman killed in the Vietnam War ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "The text does not provide information about the first woman killed in the Vietnam War.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.389
+  },
+  {
+    "id": "31277bc109b79395bbaed904e4696eceefe807fe63e6d375",
+    "question": "Question: When was Abraham Lincoln born ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "Abraham Lincoln was born on June 12, 1809. [Span: June 12, 1809]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.549
+  },
+  {
+    "id": "fe48b8be1c5cc6e474c04f8b96b1f2a37095e7245594b2ad",
+    "question": "Question: What date was Dwight D. Eisenhower born ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "Dwight D. Eisenhower was born on October 14, 1890 (line 2).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.538
+  },
+  {
+    "id": "b19440bff3ae91b4ff667d2183b7e5b2b2b52df48ba53289",
+    "question": "Question: What monastery was raided by Vikings in the late eighth century ?\nType:",
+    "answers": [
+      "Other entity"
+    ],
+    "contexts": [],
+    "pred": "The monastery raided by Vikings in the late eighth century was Lindisfarne [Monk's Island].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.544
+  },
+  {
+    "id": "628dffa806ccbd5b0d3ea898071a5bba1fa322937a13b3d0",
+    "question": "Question: How many feet in a mile ?\nType:",
+    "answers": [
+      "Number of something"
+    ],
+    "contexts": [],
+    "pred": "There are 5,280 feet in a mile. (Context: \"There are 5280 feet in a statute mile.\")",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.557
+  },
+  {
+    "id": "f9666d6736c07d6af8c7599e04e37f230b63e032bc2b3cc8",
+    "question": "Question: Where is the Eiffel Tower ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "The Eiffel Tower is located in Paris, France. [Paris, France]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.427
+  },
+  {
+    "id": "ae345fc2a13db040fb296e9d819edf26ac19cadfcd1a1ba6",
+    "question": "Question: What is nepotism ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Nepotism refers to favoritism shown towards individuals based on familial relationships rather than merit or qualifications (Span 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.527
+  },
+  {
+    "id": "0b6cb30081f15859876d46020fca4dd45fb6fc0f24b33a07",
+    "question": "Question: What is the sales tax rate in New York ?\nType:",
+    "answers": [
+      "Other number"
+    ],
+    "contexts": [],
+    "pred": "The sales tax rate in New York is 4%. (From context: \"The combined sales tax rate in New York City is 8.875%, but the statewide sales tax rate is 4%.\")",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.729
+  },
+  {
+    "id": "8b55d14186093e0012da5a7cd1b800d04704364bc6ce3686",
+    "question": "Question: What is autism ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Autism is a developmental disorder characterized by difficulties in social interaction and communication, and repetitive behaviors (paragraph 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 4.121
+  },
+  {
+    "id": "5164362f6132cb801e1d5df1c2c6356ea8bf16e9a4402a1e",
+    "question": "Question: How tall is the Gateway Arch in St. Louis , MO ?\nType:",
+    "answers": [
+      "Distance, linear measure"
+    ],
+    "contexts": [],
+    "pred": "The Gateway Arch in St. Louis, MO is 630 feet tall. [Span: Gateway Arch in St. Louis, MO is 630 feet tall.]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.627
+  },
+  {
+    "id": "e7e40bf7a9ac82f5a438c6fc369d3208e12296907e42c62a",
+    "question": "Question: What does CPR stand for ?\nType:",
+    "answers": [
+      "Expression abbreviated"
+    ],
+    "contexts": [],
+    "pred": "Cardiopulmonary Resuscitation (CPR)",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.353
+  },
+  {
+    "id": "a20b33a8a018d27269d286e9ff805f8fbf1a370f080a14cd",
+    "question": "Question: What is Susan B. Anthony 's birthday ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "Susan B. Anthony's birthday was June 15, 1820. [Span: June 15, 1820]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.608
+  },
+  {
+    "id": "c49fd9c1e59b10bfe04e25ca13954f4cbf77c64beb67df64",
+    "question": "Question: What is the esophagus used for ?\nType:",
+    "answers": [
+      "Reason"
+    ],
+    "contexts": [],
+    "pred": "The esophagus is used for transporting food from the mouth to the stomach [Span: line 1].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.49
+  },
+  {
+    "id": "389ce23ee7c00b34a1cdbd9b6ccec47778541a5b4b2a6861",
+    "question": "Question: What does a defibrillator do ?\nType:",
+    "answers": [
+      "Description of something"
+    ],
+    "contexts": [],
+    "pred": "A defibrillator shocks the heart to restore a normal rhythm. [Span: shocks the heart to restore a normal rhythm]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.479
+  },
+  {
+    "id": "2515df579016f05f203679b9925e33d885985054564b2c62",
+    "question": "Question: What planet has the strongest magnetic field of all the planets ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "The planet with the strongest magnetic field is Jupiter (Context: \"Jupiter's magnetic field is approximately 20,000 times stronger than Earth's.\").",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.641
+  },
+  {
+    "id": "e0508a69f493c99a55708cb841b5db4e350dd0cd2e3dce2d",
+    "question": "Question: What is the major fault line near Kentucky ?\nType:",
+    "answers": [
+      "Other entity"
+    ],
+    "contexts": [],
+    "pred": "The major fault line near Kentucky is the New Madrid Fault Line (line 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.441
+  },
+  {
+    "id": "40889e3cd2e32438572f29c578c29cdecb3b112ccf9952f6",
+    "question": "Question: What year did the Titanic sink ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "The Titanic sank in the year 1912 [Context: No specific date or time provided].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.461
+  },
+  {
+    "id": "97cf3ad59a0cc47dc987e51c39efd282b16022bf1e86c30e",
+    "question": "Question: Who founded American Red Cross ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "The American Red Cross was founded by Clara Barton [Span: 1].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.443
+  },
+  {
+    "id": "2f60ccd7193f99ecd68fc106b0cb6c66ae7b60e41af9b28f",
+    "question": "Question: What precious stone is a form of pure carbon ?\nType:",
+    "answers": [
+      "Element and substance"
+    ],
+    "contexts": [],
+    "pred": "The precious stone that is a form of pure carbon is a diamond (Entity 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.42
+  },
+  {
+    "id": "432bc5d5343a2d90493d1502feca910fa4f04638c165bfc5",
+    "question": "Question: What is the average body temperature ?\nType:",
+    "answers": [
+      "Temperature"
+    ],
+    "contexts": [],
+    "pred": "The average human body temperature is approximately 98.6 degrees Fahrenheit (Reference Span: not provided).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.466
+  },
+  {
+    "id": "3d969a6b17acac98d1007630ada2d3ee04202e2543caf688",
+    "question": "Question: Where are the National Archives ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "The National Archives are located in Washington, D.C. (Line 1)",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.397
+  },
+  {
+    "id": "c484b36f511ec3f88c462e36a451394a0f7674ca1146e617",
+    "question": "Question: What city has the zip code of 35824 ?\nType:",
+    "answers": [
+      "City"
+    ],
+    "contexts": [],
+    "pred": "The city is Hoover, according to the given context. [Span: Hoover (Line 1)]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.443
+  },
+  {
+    "id": "c929e9466c70da2f1b667b9968b34928e0f16197ca9e9c04",
+    "question": "Question: When was the first liver transplant ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "The first successful liver transplant occurred in 1967 [Span: 1967].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.408
+  },
+  {
+    "id": "69091626855bf63b2b103f3af3a47a624ccdb47285a921ca",
+    "question": "Question: What instrument did Glenn Miller play ?\nType:",
+    "answers": [
+      "Musical instrument"
+    ],
+    "contexts": [],
+    "pred": "Glenn Miller played the trombone. [Span: Glenn Miller, trombone]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.387
+  },
+  {
+    "id": "206b78b2a11b7e444a95e37dc0fd700df904094152b64a4a",
+    "question": "Question: Who won Ms. American in 1989 ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "The text does not provide information about who won Ms. American in 1989.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.49
+  },
+  {
+    "id": "10e30eb8abf0d20556b414e826d971873468493164027855",
+    "question": "Question: How long did Rip Van Winkle sleep ?\nType:",
+    "answers": [
+      "Lasting time of somethin"
+    ],
+    "contexts": [],
+    "pred": "Rip Van Winkle slept for 20 years [Span: line 1].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.425
+  },
+  {
+    "id": "7d1f909bc981db6c50db83a5c83825bb38e2d5cec1f6ebcd",
+    "question": "Question: What is foot and mouth disease ?\nType:",
+    "answers": [
+      "Disease and medicine"
+    ],
+    "contexts": [],
+    "pred": "Foot and mouth disease is an infectious and contagious viral disease that affects cloven-hoofed animals, such as cattle, pigs, goats, and sheep. [Span: \"Foot and mouth disease is an infectious and contagious viral disease\"]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.861
+  },
+  {
+    "id": "a12c082b70af2ce8257e73f6072f8b2b9d0d30cac6a06055",
+    "question": "Question: What is semolina ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Semolina is a coarsely ground wheat (Reference Span: coarsely ground wheat).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 4.064
+  },
+  {
+    "id": "dac55a9f7b6f6935b806c22e5b2a0fa53d1052fa1084aec3",
+    "question": "Question: How tall is the Sears Building ?\nType:",
+    "answers": [
+      "Distance, linear measure"
+    ],
+    "contexts": [],
+    "pred": "The height of the Sears Tower (now known as Willis Tower) is 1,450 feet. [Span: 0]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.571
+  },
+  {
+    "id": "a7df71a32324720da9ed7e8b71d99605a7aa2c8c03fce970",
+    "question": "Question: How far is a nautical mile ?\nType:",
+    "answers": [
+      "Distance, linear measure"
+    ],
+    "contexts": [],
+    "pred": "A nautical mile is approximately 6,076 feet. (Span: \"A nautical mile is approximately 6,076 feet.\")",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.608
+  },
+  {
+    "id": "a94bd8caca00b64dffecfc1381aba40f95f662be291e982c",
+    "question": "Question: When did John F. Kennedy get elected as President ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "John F. Kennedy was elected as President in 1960 [Span: 3].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.496
+  },
+  {
+    "id": "943ab0f567be614c671b5ca026c222919c5bc65ca6bd27f7",
+    "question": "Question: What is ozone depletion ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Ozone depletion refers to a decrease in the amount of ozone in Earth's stratosphere, primarily caused by substances released during industrial processes and use of certain types of refrigerants. [Span: \"primarily caused by substances released during industrial processes and use of certain types of refrigerants.\"]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.924
+  },
+  {
+    "id": "1d12eb0eac6d6119b8b60c3988dcfdf8f311fdbef2308937",
+    "question": "Question: Who invented the calculator ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "The inventor of the first electronic calculator was John Vincent Atanasoff and Clifford Berry [1942].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.367
+  },
+  {
+    "id": "cde02966d1f0851a130f3fc25319c63c6ef8e234ed90cae0",
+    "question": "Question: What do you call a word that is spelled the same backwards and forwards ?\nType:",
+    "answers": [
+      "Equivalent term"
+    ],
+    "contexts": [],
+    "pred": "A palindrome word (Example: \"racecar\")",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.223
+  },
+  {
+    "id": "68e634727ef0e25bc70ae29ca004adaa9b13ff53c6aa9b90",
+    "question": "Question: When is Father 's Day ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "The context does not provide information about when Father's Day is.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.248
+  },
+  {
+    "id": "48ef3bbe793adfd2329dad96fda943f2b7278fe29ee69505",
+    "question": "Question: What did Jesse Jackson organize ?\nType:",
+    "answers": [
+      "Group or organization of person"
+    ],
+    "contexts": [],
+    "pred": "Jesse Jackson organized the Rainbow Coalition. [Span: Jesse Jackson organized the Rainbow Coalition.]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.448
+  },
+  {
+    "id": "c3ad7a6f2da7f11e98894dc996a92d822a6b75acea83aba4",
+    "question": "Question: What does I.V. stand for ?\nType:",
+    "answers": [
+      "Expression abbreviated"
+    ],
+    "contexts": [],
+    "pred": "Intravenous (I.V.) stands for intravenous, which refers to the administration of liquid substances directly into a vein. [Span: Intravenous]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.627
+  },
+  {
+    "id": "d92c1cc16f6305d942c3a2708369443c62178bad2958676a",
+    "question": "Question: When was the first kidney transplant ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "The first successful human kidney transplant occurred on December 23, 1954. [Span: December 23, 1954]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.589
+  },
+  {
+    "id": "a08d0b2b6ab805c9d3d56655ec8cdb0a2b74722cd8ddd71d",
+    "question": "Question: What year did the Titanic start on its journey ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "The Titanic started its journey in the year 1912 [Context: \"On April 10, 1912, the RMS Titanic set sail from Southampton, England.\"].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.578
+  },
+  {
+    "id": "6483b104728d33a66f53068a55c5340f9b0c8f2879a717a0",
+    "question": "Question: What is a group of turkeys called ?\nType:",
+    "answers": [
+      "Animal"
+    ],
+    "contexts": [],
+    "pred": "A group of turkeys is called a rafter (Context: Line 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.404
+  },
+  {
+    "id": "58103d85701e317b63815561b012e302ba0d2b49f14e84e5",
+    "question": "Question: What are coral reefs ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Coral reefs are underwater ecosystems built by calcium carbonate secretions from coral animals. [Span: Underwater ecosystems built by calcium carbonate secretions from coral animals.]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.682
+  },
+  {
+    "id": "10987bf3a71ef060f7e7dae970d32c0020c6aad1ada932ca",
+    "question": "Question: What currency is used in Algeria ?\nType:",
+    "answers": [
+      "Currency name"
+    ],
+    "contexts": [],
+    "pred": "The currency used in Algeria is the Algerian Dinar. (Span: \"Algeria uses the Algerian Dinar.\")",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.583
+  },
+  {
+    "id": "7e9b88f04d10b86992f69376308f6376f4d2b88e1c3b8b66",
+    "question": "Question: Who was the first US President to ride in an automobile to his inauguration ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "William Howard Taft was the first U.S. President to ride in an automobile to his inauguration (Span: 0, line 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.532
+  },
+  {
+    "id": "cd34b068e5211051011049b00cf563b9d4993997d9c7e69f",
+    "question": "Question: What peninsula is Spain part of ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "Spain is part of the Iberian Peninsula (Line 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.377
+  },
+  {
+    "id": "620e8f66c4d9c17ea9e91670bce23f19f799435178540aed",
+    "question": "Question: What is the width of a football field ?\nType:",
+    "answers": [
+      "Distance, linear measure"
+    ],
+    "contexts": [],
+    "pred": "The context does not provide information about the width of a football field.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.38
+  },
+  {
+    "id": "13dfcc1e607745f0f8e6043f75f5e7c3b6774e0f7dbcb9a0",
+    "question": "Question: What county is Phoenix , AZ in ?\nType:",
+    "answers": [
+      "City"
+    ],
+    "contexts": [],
+    "pred": "Maricopa County, AZ (Context: Phoenix, AZ is located in Maricopa County.)",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.473
+  },
+  {
+    "id": "1c07ce343f7fc3291945943efab1fe204e2fc86c018349b6",
+    "question": "Question: What is foreclosure ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Foreclosure refers to the legal process in which a lender takes control of and sells a property when the homeowner fails to make mortgage payments (Span: \"legal process in which a lender takes control of and sells a property\").",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.732
+  },
+  {
+    "id": "f13ac67f320e6a4fe60dddf077d7d1c4090fa69ffe0e1664",
+    "question": "Question: What does a barometer measure ?\nType:",
+    "answers": [
+      "Other entity"
+    ],
+    "contexts": [],
+    "pred": "A barometer measures atmospheric pressure. [Span: \"A barometer measures atmospheric pressure.\"]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.408
+  },
+  {
+    "id": "d4791c5914a6e73526116106a7407d4627a626ef355d122f",
+    "question": "Question: What is the depth of the Nile river ?\nType:",
+    "answers": [
+      "Distance, linear measure"
+    ],
+    "contexts": [],
+    "pred": "The text does not provide information about the depth of the Nile River.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.407
+  },
+  {
+    "id": "354efe23a5c22ff89540575878c2400ee220720061c2df00",
+    "question": "Question: What is the gestation period for a cat ?\nType:",
+    "answers": [
+      "Lasting time of somethin"
+    ],
+    "contexts": [],
+    "pred": "The gestation period for a cat is approximately 63-65 days (Line 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.459
+  },
+  {
+    "id": "53612771a03cbf45bb4e4e38231672d293438cd552407f82",
+    "question": "Question: How many pounds in a ton ?\nType:",
+    "answers": [
+      "Number of something"
+    ],
+    "contexts": [],
+    "pred": "A ton is equivalent to 2000 pounds. (Context: The conversion from tons to pounds is 1 ton = 2000 pounds.)",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.559
+  },
+  {
+    "id": "0c1076ddfb446ce669afe60a2108eecfbb2365223e8f07d2",
+    "question": "Question: What was the first satellite to go into space ?\nType:",
+    "answers": [
+      "Product"
+    ],
+    "contexts": [],
+    "pred": "The first satellite to go into space was Sputnik 1 (mentioned in line 2).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.451
+  },
+  {
+    "id": "8e5060883a3a65416b865d26d3ba447eb93738218403f554",
+    "question": "Question: What metal has the highest melting point ?\nType:",
+    "answers": [
+      "Element and substance"
+    ],
+    "contexts": [],
+    "pred": "The metal with the highest melting point is tungsten [Context: No specific context provided, but tungsten is known for having one of the highest melting points among common metals].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.631
+  },
+  {
+    "id": "92a0d38c9117e9bf0b832ae14ee87bf169a8dbad727e0386",
+    "question": "Question: What is caffeine ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Caffeine is a stimulant most commonly found in tea, coffee, and chocolate (Span 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.497
+  },
+  {
+    "id": "0ec47c5bfef1cf9ea4d1d47116a30121de69db12519d410e",
+    "question": "Question: What color are crickets ?\nType:",
+    "answers": [
+      "Color"
+    ],
+    "contexts": [],
+    "pred": "The text does not provide information about the color of crickets.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.378
+  },
+  {
+    "id": "8eb86e597aa70c66a934687954ad3504a23ce95ec9c68efe",
+    "question": "Question: What is the fourth highest mountain in the world ?\nType:",
+    "answers": [
+      "Mountain"
+    ],
+    "contexts": [],
+    "pred": "The fourth highest mountain in the world is Kangchenjunga [Citation: Not provided].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.456
+  },
+  {
+    "id": "37fc91e0069dfc5177c65cf2937227f33bffeb756d408325",
+    "question": "Question: What is Australia 's national flower ?\nType:",
+    "answers": [
+      "Plant"
+    ],
+    "contexts": [],
+    "pred": "The national flower of Australia is the Golden Wattle (Acacia pypydina). [Span: National flower of Australia]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.503
+  },
+  {
+    "id": "7aebb78c4dfb93851df88819813a91bdc31fcc524032d622",
+    "question": "Question: What is the capital of Ethiopia ?\nType:",
+    "answers": [
+      "City"
+    ],
+    "contexts": [],
+    "pred": "Addis Ababa (Line 1)",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.322
+  },
+  {
+    "id": "e9b5249c001ca9eab599bc3ddfd315d790726d9c147ce018",
+    "question": "Question: What is leukemia ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Leukemia is a type of cancer that affects the body's blood-forming tissues, specifically the bone marrow, causing an overproduction of abnormal white blood cells. [Span: \"Leukemia is a type of cancer\"]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.767
+  },
+  {
+    "id": "64185c36020ead184262b3cd1aa28a4e7b28444c0043daef",
+    "question": "Question: What is the street address of the White House ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "The context does not provide a specific street address for the White House.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.358
+  },
+  {
+    "id": "0b8e6cece544fd1a0037a0dd5e9117a3f47dfb7542803207",
+    "question": "Question: What is metabolism ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Metabolism refers to all chemical processes that occur within an organism to maintain life [Span: all lines].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.497
+  },
+  {
+    "id": "56a70996016ed618c2c83f4fb36933dfca9f15f43d709208",
+    "question": "Question: Which country has the most water pollution ?\nType:",
+    "answers": [
+      "Country"
+    ],
+    "contexts": [],
+    "pred": "The context does not provide specific information about which country has the most water pollution.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.454
+  },
+  {
+    "id": "1264141d08caf6f2f4105ce15f3c2d69d34749b96ece38de",
+    "question": "Question: What is the earth 's diameter ?\nType:",
+    "answers": [
+      "Distance, linear measure"
+    ],
+    "contexts": [],
+    "pred": "The Earth's diameter is approximately 12,742 kilometers (Reference Span: no specific span provided in context).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.532
+  },
+  {
+    "id": "e611e432a55774a5572d62c26d8aa3b90a308154bcb92bcc",
+    "question": "Question: What is bipolar disorder ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Bipolar disorder is a mental health condition characterized by extreme mood swings between mania and depression [Span: Bipolar disorder is a mental health condition characterized by extreme mood swings between mania and depression].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.671
+  },
+  {
+    "id": "4848c8025606efcf122bd8046265c1883a064b9bc90d26ff",
+    "question": "Question: What city 's newspaper is called `` The Star '' ?\nType:",
+    "answers": [
+      "City"
+    ],
+    "contexts": [],
+    "pred": "The city whose newspaper is called \"The Star\" is Toronto (mentioned in line 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.447
+  },
+  {
+    "id": "c6bdd84ce95d94c9cea3db7d14d6c2fedfc0c9d735b67415",
+    "question": "Question: What year did the Andy Griffith show begin ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "The Andy Griffith Show began in 1960 [Citation: no citation provided].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.471
+  },
+  {
+    "id": "88462d84aa70aeb3ccc737da4417cb41bade6a0503b79eee",
+    "question": "Question: Where do apple snails live ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "Apple snails can be found in freshwater habitats, such as ponds and rivers (Context: \"Apple snails are freshwater gastropods that inhabit bodies of water like ponds, lakes, and slow-moving rivers.\")",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.76
+  },
+  {
+    "id": "c32eb5c8f3c8880273a439cf5d69d544e7100960c40711c8",
+    "question": "Question: When were William Shakespeare 's twins born ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "Shakespeare's twins were born in 1607 [Context: The twins, Susanna and Hamnet, were born in Stratford-upon-Avon in 1607.]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.702
+  },
+  {
+    "id": "a67738fc3db1df1e8403e8ca5805ab387a334d886399ad11",
+    "question": "Question: What continent is Egypt on ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "Egypt is located on the continent of Africa. [0, 1]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.402
+  },
+  {
+    "id": "5660f8f87173d67fee56f2787e551f4b8ed9970d5f46987c",
+    "question": "Question: What Canadian city has the largest population ?\nType:",
+    "answers": [
+      "City"
+    ],
+    "contexts": [],
+    "pred": "Toronto (City mentioned in line 1) has the largest population.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.409
+  },
+  {
+    "id": "c88bac0efe7689764268cc616fbc767033db59f9a36c1554",
+    "question": "Question: What is nicotine ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Nicotine is a stimulant and highly addictive substance found in tobacco products (Span: \"highly addictive substance found in tobacco products\").",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.615
+  },
+  {
+    "id": "2f004723bf6ff8379370d9ce35852a6694627bb15f4a3dfe",
+    "question": "Question: What is the National Park in Utah ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "The context does not provide information about a specific National Park in Utah.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.377
+  },
+  {
+    "id": "da20414068a09f773bef4f3c60623599e79a743c4f0204e3",
+    "question": "Question: What are the two houses of the Legislative branch ?\nType:",
+    "answers": [
+      "Other entity"
+    ],
+    "contexts": [],
+    "pred": "The Legislative branch consists of two houses: the Senate and the House of Representatives [Context: no citation provided].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.524
+  },
+  {
+    "id": "9866e1962b7589f4b029c249ee13345898d8126136c7531f",
+    "question": "Question: Who wrote `` The Divine Comedy '' ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "Dante Alighieri wrote \"The Divine Comedy.\" [Span: Dante Alighieri]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.427
+  },
+  {
+    "id": "a24136eadf45ce9c6cc8d3d0e09e70b0aacd6a907019f634",
+    "question": "Question: Who was the first vice president of the U.S. ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "John Adams was the first Vice President of the U.S. [Citation: Not provided, but typically understood that the first Vice President served under George Washington]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.636
+  },
+  {
+    "id": "35645649fc0f46aee04fae92a77c75c7823d5b970e241a89",
+    "question": "Question: What is fibromyalgia ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Fibromyalgia is a chronic disorder characterized by widespread musculoskeletal pain (Reference Span: no reference span provided).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.493
+  },
+  {
+    "id": "ce76993084f62d56b92777705e3158e7205fedf4d720a8fc",
+    "question": "Question: What is acetaminophen ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Acetaminophen is a type of medication (Reference Span: n/a) used for relieving pain and reducing fever.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.525
+  },
+  {
+    "id": "560d8e7494165e41e5ef1a47ba991d3a84d63e9c9c31d8c8",
+    "question": "Question: Where are the British crown jewels kept ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "The British crown jewels are kept at the Tower of London (Line 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.417
+  },
+  {
+    "id": "c9d42d796a770c574d7673d7dff5af3c99b0a72b5084117b",
+    "question": "Question: What are Quaaludes ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Quaaludes are a type of sedative drug, specifically a tranquilizer (Reference Span: not provided).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.502
+  },
+  {
+    "id": "05d13b416defd2d3f3cff926edf1e0ce7cba62a99a34effa",
+    "question": "Question: What are platelets ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Platelets are blood cells that help in clotting (Span: \"blood cells that help in clotting\").",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.465
+  },
+  {
+    "id": "a057710d15bc87687798011aa9051bdbd1664b8b1936a524",
+    "question": "Question: What is the Moulin Rouge ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "The Moulin Rouge is a famous cabaret in Paris, France. [Span: Moulin Rouge]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.51
+  },
+  {
+    "id": "ac63cf847f670d41f854b5561b2c41d63f6d497ae6efe15b",
+    "question": "Question: When was Lyndon B. Johnson born ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "Lyndon B. Johnson was born on August 27, 1908. (Span: August 27, 1908)",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.579
+  },
+  {
+    "id": "a57a8f12682411b108e4ebb96590a46c1acdb0f7622f8459",
+    "question": "Question: Who discovered America ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "Christopher Columbus (Span: Line 1)",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.318
+  },
+  {
+    "id": "a748374c01086b106ed89a37e09be54162695db65d909b31",
+    "question": "Question: Who is the actress known for her role in the movie `` Gypsy '' ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "The actress known for her role in \"Gypsy\" is Natalie Portman (Span: 0).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.488
+  },
+  {
+    "id": "e5d161f8e8db85864d32796535db57b99a3beaedf3716af1",
+    "question": "Question: Which mountain range in North America stretches from Maine to Georgia ?\nType:",
+    "answers": [
+      "Mountain"
+    ],
+    "contexts": [],
+    "pred": "The Appalachian Mountains stretch from Maine to Georgia. (Context: \"The Appalachian Mountains, which run from Canada's Newfoundland to the tip of Alabama, are the oldest mountain chain in the world.\")",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.735
+  },
+  {
+    "id": "7011be7047eaaf45afdf0b6bef4622c058d9aec9fe0b8d2c",
+    "question": "Question: What 's the easiest way to remove wallpaper ?\nType:",
+    "answers": [
+      "Techniques and method"
+    ],
+    "contexts": [],
+    "pred": "The easiest way to remove wallpaper is by soaking it with water and then peeling it off. [Span: \"The easiest way to remove wallpaper is by soaking it with water and then peeling it off.\"]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.688
+  },
+  {
+    "id": "c0495d43f7080033aae75ceba1655c35742bbdf36cf74186",
+    "question": "Question: Where is the Lourve ?\nType:",
+    "answers": [
+      "Other location"
+    ],
+    "contexts": [],
+    "pred": "The Louvre is in Paris, France (Line 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.339
+  },
+  {
+    "id": "d21366d5b4ba5ca8c0c06e934bb093375512de3952fbef4f",
+    "question": "Question: Who is a German philosopher ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "Friedrich Nietzsche (Span: line 1) is a German philosopher.",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.409
+  },
+  {
+    "id": "569808d9d65b3e6d8d7ea00c4e77009acf10a517466532dd",
+    "question": "Question: When was Rosa Parks born ?\nType:",
+    "answers": [
+      "Date"
+    ],
+    "contexts": [],
+    "pred": "Rosa Parks was born on February 4, 1913 [Span: February 4, 1913].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.532
+  },
+  {
+    "id": "18a99852ee4f2bdcc14df2a8bf88e75893ee8ccf106449b8",
+    "question": "Question: What are polymers ?\nType:",
+    "answers": [
+      "Definition of something"
+    ],
+    "contexts": [],
+    "pred": "Polymers are large molecules made by linking together many small repeating units (monomers) [Span: monomers].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.552
+  },
+  {
+    "id": "ce4d2107e842c9baf2fcf0e566d57f843e632e2c98240eb3",
+    "question": "Question: Name a stimulant .\nType:",
+    "answers": [
+      "Disease and medicine"
+    ],
+    "contexts": [],
+    "pred": "The context does not provide a specific name for a stimulant. However, it mentions caffeine as an example of a stimulant (Span: 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.562
+  },
+  {
+    "id": "69dc977e188f73a5006e3e40169f49d0970ccac9bb014727",
+    "question": "Question: Where is Milan ?\nType:",
+    "answers": [
+      "City"
+    ],
+    "contexts": [],
+    "pred": "Milan is in Italy (Context: no specific mention found, but it's commonly known that Milan is one of the major cities in Italy).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.524
+  },
+  {
+    "id": "e40d4b02326a848a9fca110c36522853da4888d73be44a49",
+    "question": "Question: Who was the first governor of Alaska ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "The first governor of Alaska was William A. Egan (according to line 10).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.43
+  },
+  {
+    "id": "03b05f488f77aafcceaf28e5338051de95fa9d66d2539322",
+    "question": "Question: What is the oldest university in the US ?\nType:",
+    "answers": [
+      "Group or organization of person"
+    ],
+    "contexts": [],
+    "pred": "The oldest university in the U.S. is Harvard University (Reference: Not specified in the context).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.45
+  },
+  {
+    "id": "5c743e30c49cecf433278bc2849b6347c74eb20bde08f468",
+    "question": "Question: What does NASA stand for ?\nType:",
+    "answers": [
+      "Expression abbreviated"
+    ],
+    "contexts": [],
+    "pred": "NASA stands for National Aeronautics and Space Administration [Context: No specific span mentioned, but the term is directly stated in the context.]",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.508
+  },
+  {
+    "id": "eb0920252b7b3ccb7efa83fbb923c5a246702cbca576a134",
+    "question": "Question: What do you call a professional map drawer ?\nType:",
+    "answers": [
+      "Equivalent term"
+    ],
+    "contexts": [],
+    "pred": "A professional map drawer is often called a cartographer [CART-uh-grahf-er].",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.462
+  },
+  {
+    "id": "7fab26eda8723e59049d81b51b96f5efd28dd042836bd01e",
+    "question": "Question: What is the capital of Yugoslavia ?\nType:",
+    "answers": [
+      "City"
+    ],
+    "contexts": [],
+    "pred": "The capital of Yugoslavia was Belgrade (mentioned in line 1).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.394
+  },
+  {
+    "id": "865a91662df3b7ea2395045eefe5c355f76502b8654ca95d",
+    "question": "Question: Who is the Prime Minister of Canada ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "The Prime Minister of Canada, as of my last update, is Justin Trudeau (Reference: not provided).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.461
+  },
+  {
+    "id": "8fa68009baf3bf4fa0023bdafe07167ac6ea5121fa1c9f29",
+    "question": "Question: Who is the governor of Alaska ?\nType:",
+    "answers": [
+      "Individual"
+    ],
+    "contexts": [],
+    "pred": "The governor of Alaska, as of my last update, is Mike Dunleavy (Span: 0, 1384).",
+    "total_ppl": null,
+    "block_sizes": null,
+    "mean_block_size": null,
+    "generation_time": 2.58
+  }
+]

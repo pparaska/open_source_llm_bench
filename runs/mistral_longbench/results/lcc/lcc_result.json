@@ -1,0 +1,10 @@
+{
+  "lcc": {
+    "score": 0.92,
+    "len_predictions": 488,
+    "ppl_mean": null,
+    "ppl_std": null,
+    "block_sizes_mean": null,
+    "block_sizes_std": null
+  }
+}
